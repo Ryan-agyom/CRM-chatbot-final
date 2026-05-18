@@ -1,0 +1,1 @@
+Future ecommerce module placeholder.

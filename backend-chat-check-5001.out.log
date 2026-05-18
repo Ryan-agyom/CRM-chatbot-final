@@ -1,0 +1,6 @@
+
+> chatbot-crm-backend@1.0.0 start
+> node src/app.js
+
+Backend listening on http://localhost:5001
+POST /api/chat

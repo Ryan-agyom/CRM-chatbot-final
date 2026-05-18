@@ -1,0 +1,18 @@
+{
+  "name": "chatbot-crm-backend",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "node --watch src/app.js",
+    "start": "node src/app.js",
+    "test": "node --test",
+    "seed:crm": "node scripts/seed-crm-data.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1",
+    "uuid": "^11.0.3"
+  }
+}
