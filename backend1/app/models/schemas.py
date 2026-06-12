@@ -83,3 +83,38 @@ class GenericDictResponse(BaseModel):
     model_config = ConfigDict(extra="allow")
 
     data: dict[str, Any]
+
+class LeadPredictionRequest(BaseModel):
+    lead_source: str
+    budget: float = Field(ge=0)
+    interest_level : str
+    industry: str
+
+class LeadPredictionResponse(BaseModel):
+    predicted_status:str
+    confidence:float
+    probabilities:dict[str,float]
+
+    
+class TicketPredictionRequest(BaseModel):
+    query_type: str
+    issue_summary: str
+    product: str
+    assigned_department: str
+
+class TicketPredictionResponse(BaseModel):
+    predicted_priority: str
+    priority_confidence: float
+    priority_probabilities: dict[str,float]
+    predicted_response_time_hours: float
+
+class CampaignPredictionRequest(BaseModel):
+    campaign_type: str
+    target_industry: str
+    budget: float = Field(ge=0)
+    clicks: float = Field(ge=0)
+
+
+class CampaignPredictionResponse(BaseModel):
+    predicted_conversions: int
+    predicted_conversion_rate: float

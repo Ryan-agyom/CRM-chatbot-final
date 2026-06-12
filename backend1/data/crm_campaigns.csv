@@ -1,201 +1,501 @@
-"campaign_id","campaign_name","campaign_type","target_industry","budget","clicks","impressions","conversions","conversion_rate","status","launch_date"
-"1","Discount Campaign1","Festival Offer","Finance","13387","615","76228","121","24.790000915527344","Completed","2026-02-28"
-"2","Email Marketing2","Retargeting","Healthcare","36750","2634","89725","203","5.420000076293945","Completed","2026-05-05"
-"3","Retargeting3","Festival Offer","Technology","93777","4725","8128","115","16.420000076293945","Active","2026-05-05"
-"4","Discount Campaign4","Email Marketing","Retail","11817","8830","15803","26","17.600000381469727","Active","2026-03-22"
-"5","Discount Campaign5","Retargeting","Finance","38602","2691","85710","461","22.260000228881836","Paused","2026-03-24"
-"6","Email Marketing6","Discount Campaign","Technology","59538","1756","23174","68","8.319999694824219","Paused","2026-02-06"
-"7","Discount Campaign7","Retargeting","Real Estate","11057","5897","74149","49","23.040000915527344","Completed","2026-03-19"
-"8","Product Launch8","Email Marketing","E-commerce","57104","4928","69201","293","11.449999809265137","Paused","2026-04-27"
-"9","Discount Campaign9","Awareness Campaign","Technology","72583","9329","37864","56","11.470000267028809","Completed","2026-02-23"
-"10","Discount Campaign10","Festival Offer","E-commerce","61254","381","94422","426","6.53000020980835","Active","2026-04-05"
-"11","Discount Campaign11","Email Marketing","Education","42990","1060","50171","31","4.679999828338623","Completed","2026-03-25"
-"12","Discount Campaign12","Retargeting","Real Estate","50999","841","51981","322","9.8100004196167","Completed","2026-02-28"
-"13","Product Launch13","Email Marketing","Healthcare","56274","9215","62368","259","15.520000457763672","Paused","2026-05-17"
-"14","Retargeting14","Awareness Campaign","Real Estate","60835","3935","29658","463","19.93000030517578","Paused","2026-03-09"
-"15","Product Launch15","Awareness Campaign","Finance","53250","9195","91642","87","20.700000762939453","Paused","2026-03-04"
-"16","Festival Offer16","Email Marketing","Retail","82765","1669","11828","423","15.229999542236328","Active","2026-03-12"
-"17","Retargeting17","Product Launch","Real Estate","31388","9986","82996","412","9.569999694824219","Active","2026-01-21"
-"18","Email Marketing18","Discount Campaign","Finance","93295","8126","11679","70","5.650000095367432","Paused","2026-04-23"
-"19","Festival Offer19","Awareness Campaign","Retail","14647","6395","97161","220","5.309999942779541","Paused","2026-02-12"
-"20","Discount Campaign20","Email Marketing","Finance","82799","8392","4820","260","1.7100000381469727","Completed","2026-03-27"
-"21","Email Marketing21","Product Launch","Retail","39979","3758","64833","293","12.930000305175781","Active","2026-05-04"
-"22","Retargeting22","Awareness Campaign","Real Estate","95186","5683","64875","90","23.209999084472656","Paused","2026-04-24"
-"23","Retargeting23","Retargeting","Real Estate","57269","5542","39746","56","24.43000030517578","Completed","2026-03-10"
-"24","Email Marketing24","Festival Offer","Healthcare","69633","748","46587","453","1.8799999952316284","Paused","2026-01-01"
-"25","Festival Offer25","Discount Campaign","Technology","10380","8590","33358","42","11.760000228881836","Completed","2026-01-11"
-"26","Festival Offer26","Retargeting","Healthcare","28854","1570","41205","498","9.279999732971191","Active","2026-05-06"
-"27","Email Marketing27","Festival Offer","Retail","79216","6499","18467","265","13.739999771118164","Active","2026-03-09"
-"28","Email Marketing28","Awareness Campaign","Retail","67867","8469","41761","187","23.6299991607666","Completed","2026-02-28"
-"29","Discount Campaign29","Awareness Campaign","Finance","72066","852","16977","69","23.90999984741211","Active","2026-03-30"
-"30","Product Launch30","Festival Offer","Healthcare","35963","4190","59548","267","4.96999979019165","Active","2026-03-16"
-"31","Discount Campaign31","Festival Offer","Real Estate","24427","464","18732","343","16.920000076293945","Active","2026-04-22"
-"32","Festival Offer32","Retargeting","Technology","72843","2606","24570","172","19.59000015258789","Completed","2026-01-03"
-"33","Email Marketing33","Email Marketing","E-commerce","38061","8789","95505","62","20.010000228881836","Active","2026-01-06"
-"34","Festival Offer34","Product Launch","Education","66497","9601","48199","99","2.819999933242798","Paused","2026-04-01"
-"35","Discount Campaign35","Email Marketing","E-commerce","17475","1913","80887","230","18.809999465942383","Active","2026-01-24"
-"36","Awareness Campaign36","Email Marketing","Healthcare","11412","9883","57000","11","21.100000381469727","Completed","2026-04-30"
-"37","Festival Offer37","Festival Offer","Real Estate","73807","791","18584","357","14.300000190734863","Active","2026-05-12"
-"38","Festival Offer38","Email Marketing","Finance","69105","801","74162","322","1.1299999952316284","Paused","2026-02-17"
-"39","Retargeting39","Awareness Campaign","Retail","75900","3152","18582","51","22.920000076293945","Active","2026-01-05"
-"40","Festival Offer40","Festival Offer","Healthcare","36412","2334","13597","343","7.639999866485596","Paused","2026-03-18"
-"41","Retargeting41","Awareness Campaign","E-commerce","60406","3036","73320","480","5.369999885559082","Paused","2026-02-08"
-"42","Awareness Campaign42","Festival Offer","Real Estate","27505","7421","19058","196","1.690000057220459","Completed","2026-03-31"
-"43","Festival Offer43","Discount Campaign","Healthcare","91795","4927","11902","339","3.5299999713897705","Active","2026-04-16"
-"44","Awareness Campaign44","Email Marketing","E-commerce","38479","1916","45749","425","19.56999969482422","Active","2026-03-25"
-"45","Festival Offer45","Festival Offer","E-commerce","35996","5564","35198","202","9.449999809265137","Completed","2026-04-06"
-"46","Product Launch46","Retargeting","Retail","29361","5762","19005","106","19.0","Active","2026-01-30"
-"47","Discount Campaign47","Awareness Campaign","E-commerce","59214","6168","21689","154","18.959999084472656","Completed","2026-01-13"
-"48","Awareness Campaign48","Retargeting","Retail","40194","5449","24307","102","6.579999923706055","Completed","2026-03-01"
-"49","Email Marketing49","Retargeting","Technology","50354","9395","35919","339","24.1200008392334","Active","2026-03-07"
-"50","Product Launch50","Product Launch","Technology","82291","9367","20672","258","11.5600004196167","Paused","2026-02-18"
-"51","Email Marketing51","Email Marketing","Retail","6665","5352","34016","346","4.519999980926514","Completed","2026-04-09"
-"52","Awareness Campaign52","Awareness Campaign","Healthcare","77870","758","55478","498","17.219999313354492","Paused","2026-05-11"
-"53","Awareness Campaign53","Festival Offer","Real Estate","79957","4340","30323","394","8.109999656677246","Paused","2026-02-10"
-"54","Awareness Campaign54","Product Launch","Finance","82751","6420","66989","71","11.010000228881836","Paused","2026-02-25"
-"55","Retargeting55","Retargeting","Finance","31645","7014","99135","500","7.340000152587891","Paused","2026-03-24"
-"56","Discount Campaign56","Festival Offer","Healthcare","90238","9516","77389","70","1.9500000476837158","Completed","2026-04-14"
-"57","Awareness Campaign57","Discount Campaign","Education","54852","9574","18358","377","15.350000381469727","Active","2026-01-12"
-"58","Email Marketing58","Retargeting","Real Estate","77358","431","4432","262","6.139999866485596","Active","2026-04-18"
-"59","Discount Campaign59","Email Marketing","Education","75088","8849","39124","142","3.4100000858306885","Completed","2026-02-17"
-"60","Retargeting60","Email Marketing","Retail","66370","471","73089","403","20.690000534057617","Completed","2026-05-05"
-"61","Product Launch61","Email Marketing","Real Estate","10087","5583","35612","86","8.899999618530273","Active","2026-01-01"
-"62","Product Launch62","Awareness Campaign","Finance","95974","5958","55121","348","4.320000171661377","Paused","2026-01-12"
-"63","Email Marketing63","Email Marketing","Technology","75644","614","2298","446","23.829999923706055","Active","2026-01-28"
-"64","Discount Campaign64","Discount Campaign","Technology","7469","8771","48897","203","13.600000381469727","Active","2026-05-11"
-"65","Festival Offer65","Retargeting","Healthcare","53833","9727","42230","454","13.390000343322754","Paused","2026-04-21"
-"66","Awareness Campaign66","Product Launch","Finance","82457","8573","94937","419","19.93000030517578","Paused","2026-05-11"
-"67","Product Launch67","Awareness Campaign","Retail","76354","1603","65647","369","4.820000171661377","Active","2026-01-30"
-"68","Awareness Campaign68","Festival Offer","Finance","8856","695","22260","341","2.2699999809265137","Active","2026-01-02"
-"69","Product Launch69","Festival Offer","Healthcare","94767","3838","14616","64","23.950000762939453","Active","2026-03-25"
-"70","Email Marketing70","Festival Offer","E-commerce","40560","8848","59708","455","11.300000190734863","Paused","2026-02-09"
-"71","Retargeting71","Retargeting","Education","43237","4120","49456","237","11.600000381469727","Paused","2026-01-13"
-"72","Discount Campaign72","Awareness Campaign","Finance","50124","3795","29747","370","4.110000133514404","Completed","2026-05-12"
-"73","Festival Offer73","Awareness Campaign","Technology","52675","1170","3764","134","10.630000114440918","Active","2026-03-12"
-"74","Retargeting74","Awareness Campaign","E-commerce","92346","9010","52512","465","9.359999656677246","Paused","2026-03-06"
-"75","Product Launch75","Festival Offer","Retail","55488","1234","36430","385","16.459999084472656","Active","2026-04-27"
-"76","Festival Offer76","Festival Offer","Education","36348","835","66809","378","22.1299991607666","Completed","2026-02-09"
-"77","Product Launch77","Retargeting","Education","28663","6595","11816","335","9.760000228881836","Completed","2026-05-07"
-"78","Discount Campaign78","Festival Offer","Healthcare","79259","1959","64598","200","12.470000267028809","Paused","2026-03-12"
-"79","Retargeting79","Festival Offer","Finance","46429","1299","83798","32","6.989999771118164","Completed","2026-02-13"
-"80","Product Launch80","Product Launch","Finance","40401","3920","70102","430","12.899999618530273","Paused","2026-03-15"
-"81","Email Marketing81","Awareness Campaign","Education","51536","8158","91421","88","8.5600004196167","Paused","2026-02-25"
-"82","Email Marketing82","Awareness Campaign","Real Estate","78201","3129","46559","440","14.619999885559082","Active","2026-03-09"
-"83","Discount Campaign83","Product Launch","Retail","10925","5224","57571","244","23.309999465942383","Paused","2026-05-12"
-"84","Festival Offer84","Festival Offer","Healthcare","95600","7848","45006","226","2.5299999713897705","Active","2026-04-24"
-"85","Email Marketing85","Awareness Campaign","Finance","81454","7442","67327","238","16.899999618530273","Paused","2026-02-11"
-"86","Discount Campaign86","Festival Offer","Real Estate","9387","7895","55572","51","3.180000066757202","Completed","2026-02-27"
-"87","Awareness Campaign87","Awareness Campaign","Healthcare","34105","5725","21519","237","11.859999656677246","Active","2026-05-02"
-"88","Discount Campaign88","Product Launch","Finance","37084","8639","80088","378","6.130000114440918","Completed","2026-04-03"
-"89","Discount Campaign89","Retargeting","Technology","50749","9300","71191","49","19.649999618530273","Completed","2026-04-14"
-"90","Discount Campaign90","Discount Campaign","E-commerce","7157","649","66281","405","15.369999885559082","Active","2026-04-06"
-"91","Email Marketing91","Festival Offer","Finance","7039","6667","75626","57","4.010000228881836","Active","2026-04-23"
-"92","Discount Campaign92","Festival Offer","Education","44004","494","88704","18","18.8700008392334","Paused","2026-04-15"
-"93","Email Marketing93","Retargeting","Real Estate","80989","773","69046","182","16.290000915527344","Completed","2026-02-03"
-"94","Discount Campaign94","Email Marketing","Technology","9300","3378","8212","273","23.079999923706055","Completed","2026-02-21"
-"95","Festival Offer95","Festival Offer","Real Estate","79969","517","30213","263","2.799999952316284","Completed","2026-01-15"
-"96","Email Marketing96","Awareness Campaign","Technology","40991","4072","9809","134","14.739999771118164","Active","2026-04-03"
-"97","Discount Campaign97","Retargeting","Real Estate","73319","3578","56774","467","17.040000915527344","Paused","2026-01-24"
-"98","Product Launch98","Discount Campaign","Real Estate","70778","490","51533","275","19.200000762939453","Paused","2026-02-22"
-"99","Awareness Campaign99","Festival Offer","Healthcare","16415","5115","73436","411","7.840000152587891","Completed","2026-02-27"
-"100","Festival Offer100","Retargeting","E-commerce","81893","5983","11688","10","4.389999866485596","Active","2026-01-13"
-"101","Retargeting101","Email Marketing","Healthcare","90934","5390","50359","394","15.710000038146973","Paused","2026-02-17"
-"102","Awareness Campaign102","Retargeting","Finance","31111","1789","1299","276","9.199999809265137","Paused","2026-05-17"
-"103","Awareness Campaign103","Retargeting","Technology","19493","2166","45513","276","4.329999923706055","Paused","2026-03-17"
-"104","Email Marketing104","Product Launch","Healthcare","80763","555","19250","284","12.210000038146973","Active","2026-05-17"
-"105","Awareness Campaign105","Festival Offer","Real Estate","25660","5395","13167","201","12.630000114440918","Paused","2026-03-29"
-"106","Retargeting106","Product Launch","Finance","54104","8903","3491","408","20.049999237060547","Paused","2026-01-31"
-"107","Festival Offer107","Discount Campaign","E-commerce","66359","2430","74689","296","24.780000686645508","Paused","2026-04-07"
-"108","Discount Campaign108","Discount Campaign","Finance","88033","7691","96282","57","14.329999923706055","Paused","2026-03-03"
-"109","Festival Offer109","Discount Campaign","Education","71400","8125","77389","411","14.210000038146973","Completed","2026-03-29"
-"110","Discount Campaign110","Product Launch","Finance","88332","4729","31335","388","14.109999656677246","Completed","2026-04-28"
-"111","Retargeting111","Awareness Campaign","Healthcare","50977","4539","12987","117","4.210000038146973","Active","2026-03-27"
-"112","Festival Offer112","Retargeting","Education","17461","6516","33355","455","7.210000038146973","Completed","2026-04-24"
-"113","Retargeting113","Email Marketing","Technology","49209","3246","34866","38","6.269999980926514","Completed","2026-05-03"
-"114","Festival Offer114","Awareness Campaign","Healthcare","88773","8669","65836","458","19.5","Active","2026-03-12"
-"115","Retargeting115","Email Marketing","Real Estate","6027","7853","83906","134","20.1200008392334","Completed","2026-01-26"
-"116","Awareness Campaign116","Festival Offer","Real Estate","95038","9367","60997","33","8.739999771118164","Paused","2026-01-09"
-"117","Festival Offer117","Retargeting","Finance","52306","7027","79653","395","22.8799991607666","Completed","2026-01-03"
-"118","Festival Offer118","Email Marketing","Finance","9838","3236","9928","340","13.100000381469727","Paused","2026-03-26"
-"119","Awareness Campaign119","Festival Offer","Real Estate","65071","6780","75231","84","19.0","Paused","2026-03-12"
-"120","Product Launch120","Retargeting","Technology","28837","1518","85411","212","6.449999809265137","Active","2026-02-19"
-"121","Festival Offer121","Discount Campaign","Real Estate","31223","388","14147","355","8.520000457763672","Active","2026-01-27"
-"122","Festival Offer122","Discount Campaign","Technology","60891","5717","44724","194","1.1799999475479126","Paused","2026-04-22"
-"123","Awareness Campaign123","Email Marketing","Retail","55727","8741","70840","256","8.470000267028809","Completed","2026-01-23"
-"124","Awareness Campaign124","Discount Campaign","Technology","12273","8653","52785","304","15.670000076293945","Completed","2026-02-14"
-"125","Product Launch125","Discount Campaign","E-commerce","24345","1532","16839","130","17.020000457763672","Active","2026-05-16"
-"126","Awareness Campaign126","Discount Campaign","Technology","60981","1893","92376","189","15.0","Completed","2026-01-27"
-"127","Awareness Campaign127","Festival Offer","Real Estate","61963","3540","61975","106","12.609999656677246","Active","2026-02-07"
-"128","Discount Campaign128","Retargeting","Finance","77026","3113","47771","157","1.1100000143051147","Paused","2026-05-05"
-"129","Awareness Campaign129","Festival Offer","Finance","97554","6454","4060","476","13.770000457763672","Active","2026-03-20"
-"130","Discount Campaign130","Awareness Campaign","Retail","65008","4178","58317","436","14.550000190734863","Paused","2026-02-08"
-"131","Festival Offer131","Awareness Campaign","E-commerce","67647","8546","44415","280","12.050000190734863","Active","2026-03-14"
-"132","Festival Offer132","Festival Offer","Technology","22810","3643","17079","207","1.7200000286102295","Active","2026-01-10"
-"133","Awareness Campaign133","Discount Campaign","Technology","58562","934","59294","431","10.720000267028809","Active","2026-02-16"
-"134","Discount Campaign134","Awareness Campaign","Healthcare","59905","3401","53051","118","12.890000343322754","Paused","2026-05-07"
-"135","Product Launch135","Discount Campaign","Technology","30996","3959","14829","173","5.0","Completed","2026-01-28"
-"136","Awareness Campaign136","Discount Campaign","Healthcare","30725","8710","57456","37","6.110000133514404","Active","2026-03-16"
-"137","Email Marketing137","Retargeting","Real Estate","93785","5946","30580","238","11.760000228881836","Completed","2026-01-19"
-"138","Discount Campaign138","Discount Campaign","E-commerce","5579","3717","74853","365","2.75","Completed","2026-03-04"
-"139","Festival Offer139","Retargeting","Healthcare","29661","5402","13918","333","4.289999961853027","Active","2026-04-16"
-"140","Email Marketing140","Discount Campaign","Real Estate","71066","3479","93114","120","20.489999771118164","Active","2026-03-18"
-"141","Retargeting141","Product Launch","Real Estate","84096","7436","20515","85","12.760000228881836","Completed","2026-02-14"
-"142","Email Marketing142","Discount Campaign","Technology","64051","1812","38281","243","2.5299999713897705","Active","2026-01-12"
-"143","Awareness Campaign143","Awareness Campaign","Healthcare","64073","3314","55516","59","19.530000686645508","Active","2026-03-27"
-"144","Product Launch144","Retargeting","Healthcare","29462","3643","30657","342","4.659999847412109","Paused","2026-05-07"
-"145","Email Marketing145","Discount Campaign","Education","72051","5616","52220","122","7.070000171661377","Paused","2026-03-09"
-"146","Festival Offer146","Discount Campaign","Retail","82756","420","24213","229","19.040000915527344","Paused","2026-05-04"
-"147","Discount Campaign147","Retargeting","E-commerce","64728","4318","99578","179","21.530000686645508","Completed","2026-01-02"
-"148","Product Launch148","Email Marketing","Technology","50634","1944","20586","322","21.280000686645508","Completed","2026-05-09"
-"149","Product Launch149","Festival Offer","Real Estate","35228","2391","84967","284","10.640000343322754","Paused","2026-02-25"
-"150","Email Marketing150","Email Marketing","E-commerce","91835","4117","32249","380","9.779999732971191","Active","2026-02-14"
-"151","Retargeting151","Retargeting","Real Estate","48441","4145","60862","40","18.790000915527344","Active","2026-03-03"
-"152","Awareness Campaign152","Festival Offer","Healthcare","80765","1928","40451","179","9.479999542236328","Active","2026-04-04"
-"153","Discount Campaign153","Retargeting","Retail","44900","3827","68477","307","12.649999618530273","Active","2026-03-31"
-"154","Awareness Campaign154","Awareness Campaign","Healthcare","59659","8966","12967","30","3.1500000953674316","Active","2026-05-12"
-"155","Awareness Campaign155","Festival Offer","Finance","71454","7383","26431","312","23.25","Active","2026-02-17"
-"156","Festival Offer156","Product Launch","Retail","28957","7817","66028","69","21.729999542236328","Active","2026-04-18"
-"157","Festival Offer157","Email Marketing","E-commerce","53453","6222","88771","100","1.3799999952316284","Active","2026-05-12"
-"158","Retargeting158","Product Launch","Healthcare","51110","9509","37423","110","13.869999885559082","Active","2026-04-09"
-"159","Retargeting159","Retargeting","Finance","69707","1885","17796","192","12.479999542236328","Completed","2026-03-30"
-"160","Product Launch160","Festival Offer","E-commerce","11941","5683","52354","43","19.479999542236328","Paused","2026-02-18"
-"161","Awareness Campaign161","Discount Campaign","Technology","89375","2101","36319","416","1.1299999952316284","Completed","2026-01-24"
-"162","Retargeting162","Discount Campaign","Education","5683","6650","63605","158","8.75","Paused","2026-05-07"
-"163","Festival Offer163","Festival Offer","Technology","76050","2618","37057","332","11.34000015258789","Completed","2026-01-31"
-"164","Email Marketing164","Festival Offer","Real Estate","9733","6080","58311","42","15.510000228881836","Active","2026-01-11"
-"165","Email Marketing165","Email Marketing","E-commerce","17327","4920","73921","376","1.9500000476837158","Completed","2026-01-23"
-"166","Retargeting166","Awareness Campaign","Retail","51184","4338","85132","290","17.889999389648438","Paused","2026-05-04"
-"167","Festival Offer167","Discount Campaign","E-commerce","44196","1419","34336","105","21.610000610351562","Active","2026-01-15"
-"168","Email Marketing168","Retargeting","Retail","23666","183","2853","392","9.109999656677246","Active","2026-01-31"
-"169","Email Marketing169","Discount Campaign","Healthcare","41996","2215","16598","134","5.789999961853027","Active","2026-04-24"
-"170","Discount Campaign170","Retargeting","Technology","84526","4354","25548","31","8.819999694824219","Active","2026-01-12"
-"171","Product Launch171","Festival Offer","Real Estate","12519","7410","10719","132","19.440000534057617","Paused","2026-04-23"
-"172","Product Launch172","Product Launch","Finance","87081","1481","14836","37","11.170000076293945","Completed","2026-01-17"
-"173","Festival Offer173","Discount Campaign","Technology","89655","4699","58912","122","20.860000610351562","Paused","2026-04-10"
-"174","Product Launch174","Festival Offer","Education","35284","9011","7177","392","21.350000381469727","Completed","2026-02-12"
-"175","Awareness Campaign175","Discount Campaign","Education","63779","3826","43379","18","21.15999984741211","Paused","2026-05-10"
-"176","Awareness Campaign176","Awareness Campaign","Healthcare","8285","9421","32802","151","7.329999923706055","Completed","2026-04-14"
-"177","Awareness Campaign177","Retargeting","Healthcare","83913","1778","41579","75","20.030000686645508","Completed","2026-04-13"
-"178","Product Launch178","Discount Campaign","Technology","25181","6135","48703","331","19.190000534057617","Paused","2026-02-07"
-"179","Awareness Campaign179","Discount Campaign","Healthcare","83463","4997","45176","386","8.84000015258789","Active","2026-04-16"
-"180","Awareness Campaign180","Discount Campaign","Finance","23324","1197","41317","266","10.130000114440918","Paused","2026-02-19"
-"181","Awareness Campaign181","Product Launch","Real Estate","75893","5853","25426","152","24.639999389648438","Active","2026-04-13"
-"182","Festival Offer182","Discount Campaign","Education","28276","4876","39719","195","6.909999847412109","Active","2026-02-03"
-"183","Festival Offer183","Email Marketing","E-commerce","29140","3470","49792","50","5.010000228881836","Paused","2026-01-17"
-"184","Email Marketing184","Retargeting","Healthcare","44327","1879","3502","353","3.880000114440918","Completed","2026-01-28"
-"185","Product Launch185","Awareness Campaign","Retail","78076","7383","76496","433","24.739999771118164","Paused","2026-03-01"
-"186","Email Marketing186","Discount Campaign","Healthcare","36271","7814","63447","71","17.360000610351562","Completed","2026-01-27"
-"187","Awareness Campaign187","Product Launch","Education","55864","6234","39437","86","4.579999923706055","Completed","2026-03-15"
-"188","Email Marketing188","Festival Offer","E-commerce","56967","528","86779","77","3.119999885559082","Completed","2026-04-11"
-"189","Discount Campaign189","Festival Offer","Technology","45009","8622","11803","104","12.109999656677246","Active","2026-02-27"
-"190","Product Launch190","Discount Campaign","Healthcare","57580","292","89702","71","7.010000228881836","Paused","2026-02-27"
-"191","Discount Campaign191","Awareness Campaign","Education","84802","3172","75745","253","10.760000228881836","Paused","2026-03-01"
-"192","Product Launch192","Awareness Campaign","Healthcare","24486","727","56766","496","10.050000190734863","Active","2026-02-09"
-"193","Festival Offer193","Product Launch","Healthcare","56155","5639","6390","274","7.369999885559082","Paused","2026-03-06"
-"194","Discount Campaign194","Email Marketing","Finance","53759","9974","52366","277","24.989999771118164","Paused","2026-03-30"
-"195","Awareness Campaign195","Product Launch","Retail","47754","8436","51811","356","24.309999465942383","Completed","2026-01-12"
-"196","Festival Offer196","Discount Campaign","E-commerce","72766","3109","16853","92","19.770000457763672","Completed","2026-02-19"
-"197","Festival Offer197","Retargeting","Finance","55962","6540","61894","290","20.34000015258789","Completed","2026-03-30"
-"198","Awareness Campaign198","Discount Campaign","E-commerce","72654","7644","49265","174","24.920000076293945","Completed","2026-05-15"
-"199","Festival Offer199","Email Marketing","Retail","31155","7367","54068","456","24.68000030517578","Paused","2026-03-01"
-"200","Retargeting200","Awareness Campaign","Healthcare","51676","510","77689","89","20.09000015258789","Completed","2026-02-28"
+campaign_id,campaign_name,campaign_type,target_industry,budget,clicks,impressions,conversions,conversion_rate,status,launch_date
+1,Retargeting 1,Retargeting,Retail,65505,11601,150000,1592,13.73,Completed,2026-01-05
+2,Email Marketing 2,Email Marketing,Technology,58627,5092,150000,520,10.22,Completed,2026-04-29
+3,Festival Offer 3,Festival Offer,E-commerce,60460,7641,150000,903,11.82,Completed,2026-04-04
+4,Discount Campaign 4,Discount Campaign,Real Estate,71402,2663,150000,370,13.91,Completed,2026-03-27
+5,Product Launch 5,Product Launch,E-commerce,75373,5042,150000,516,10.24,Paused,2026-03-22
+6,Awareness Campaign 6,Awareness Campaign,Finance,26802,9871,150000,546,5.53,Completed,2026-04-19
+7,Discount Campaign 7,Discount Campaign,Technology,48463,4265,123968,579,13.59,Completed,2026-04-18
+8,Retargeting 8,Retargeting,E-commerce,72999,6458,150000,972,15.06,Paused,2026-04-21
+9,Discount Campaign 9,Discount Campaign,Technology,94070,2526,150000,308,12.2,Paused,2026-02-07
+10,Email Marketing 10,Email Marketing,Finance,59522,10464,150000,979,9.36,Completed,2026-03-22
+11,Product Launch 11,Product Launch,Finance,49966,7606,150000,480,6.32,Paused,2026-02-06
+12,Discount Campaign 12,Discount Campaign,E-commerce,96326,10246,150000,1147,11.2,Paused,2026-04-11
+13,Email Marketing 13,Email Marketing,Technology,49967,13318,150000,1575,11.83,Completed,2026-04-23
+14,Festival Offer 14,Festival Offer,Real Estate,27865,6703,135006,495,7.39,Paused,2026-03-19
+15,Discount Campaign 15,Discount Campaign,E-commerce,29176,9590,136418,1263,13.17,Active,2026-05-02
+16,Festival Offer 16,Festival Offer,Education,82621,5381,150000,538,10.01,Active,2026-04-22
+17,Awareness Campaign 17,Awareness Campaign,Technology,13200,3054,71978,170,5.6,Paused,2026-03-17
+18,Festival Offer 18,Festival Offer,Education,19936,6778,107702,717,10.59,Active,2026-05-26
+19,Retargeting 19,Retargeting,Education,85125,7400,150000,987,13.34,Active,2026-02-20
+20,Festival Offer 20,Festival Offer,Technology,93288,3203,150000,416,12.99,Completed,2026-05-18
+21,Festival Offer 21,Festival Offer,Finance,20448,2383,93103,227,9.55,Active,2026-03-12
+22,Discount Campaign 22,Discount Campaign,Education,83174,9399,150000,1142,12.15,Active,2026-02-21
+23,Awareness Campaign 23,Awareness Campaign,E-commerce,27706,3498,90643,191,5.47,Paused,2026-03-25
+24,Discount Campaign 24,Discount Campaign,Real Estate,12026,1840,62118,223,12.16,Completed,2026-03-13
+25,Discount Campaign 25,Discount Campaign,Real Estate,71248,10239,150000,1282,12.53,Completed,2026-03-12
+26,Discount Campaign 26,Discount Campaign,Education,26922,5536,150000,531,9.59,Active,2026-02-15
+27,Product Launch 27,Product Launch,Healthcare,75465,10941,150000,1120,10.24,Active,2026-03-04
+28,Discount Campaign 28,Discount Campaign,Real Estate,71952,11511,150000,1259,10.94,Active,2026-04-15
+29,Product Launch 29,Product Launch,Real Estate,10453,1814,38696,129,7.12,Completed,2026-03-11
+30,Awareness Campaign 30,Awareness Campaign,Technology,90678,7309,150000,620,8.49,Completed,2026-01-15
+31,Product Launch 31,Product Launch,Technology,16401,3636,110968,359,9.88,Active,2026-05-15
+32,Awareness Campaign 32,Awareness Campaign,Real Estate,95326,4117,150000,297,7.23,Active,2026-01-27
+33,Festival Offer 33,Festival Offer,Technology,32082,8238,150000,1072,13.02,Completed,2026-03-04
+34,Retargeting 34,Retargeting,Real Estate,27069,3881,110748,512,13.21,Active,2026-05-17
+35,Retargeting 35,Retargeting,E-commerce,17481,1619,83275,242,14.95,Active,2026-02-17
+36,Product Launch 36,Product Launch,Technology,90969,10253,150000,1178,11.5,Active,2026-04-15
+37,Festival Offer 37,Festival Offer,Technology,93635,9312,150000,1101,11.83,Active,2026-04-23
+38,Discount Campaign 38,Discount Campaign,Education,14898,2408,44873,297,12.34,Completed,2026-01-26
+39,Product Launch 39,Product Launch,E-commerce,53374,12025,150000,981,8.16,Paused,2026-01-19
+40,Awareness Campaign 40,Awareness Campaign,Retail,65089,11201,150000,861,7.69,Completed,2026-04-09
+41,Discount Campaign 41,Discount Campaign,Healthcare,61314,5440,150000,695,12.78,Completed,2026-05-18
+42,Retargeting 42,Retargeting,Real Estate,22117,6427,97106,697,10.86,Paused,2026-04-03
+43,Email Marketing 43,Email Marketing,Retail,18051,3959,46743,392,9.91,Completed,2026-04-14
+44,Festival Offer 44,Festival Offer,Education,64836,9996,150000,1206,12.07,Active,2026-03-02
+45,Festival Offer 45,Festival Offer,E-commerce,44566,9614,150000,1316,13.7,Active,2026-01-21
+46,Product Launch 46,Product Launch,Retail,53738,9266,149651,884,9.55,Completed,2026-04-28
+47,Awareness Campaign 47,Awareness Campaign,E-commerce,35689,3345,107906,199,5.97,Active,2026-02-14
+48,Email Marketing 48,Email Marketing,Healthcare,82814,10075,150000,1102,10.94,Active,2026-05-20
+49,Email Marketing 49,Email Marketing,Technology,60353,3254,150000,365,11.23,Completed,2026-03-09
+50,Email Marketing 50,Email Marketing,Retail,46071,11400,150000,1002,8.8,Active,2026-05-20
+51,Festival Offer 51,Festival Offer,E-commerce,93753,9562,150000,1270,13.29,Active,2026-05-17
+52,Discount Campaign 52,Discount Campaign,Finance,99690,9180,150000,1280,13.94,Active,2026-05-06
+53,Discount Campaign 53,Discount Campaign,Technology,33474,8882,150000,994,11.2,Active,2026-04-18
+54,Discount Campaign 54,Discount Campaign,Finance,61280,3197,150000,361,11.32,Active,2026-02-13
+55,Retargeting 55,Retargeting,Real Estate,83644,2551,150000,361,14.15,Completed,2026-04-01
+56,Awareness Campaign 56,Awareness Campaign,Finance,31928,5574,150000,252,4.53,Paused,2026-02-22
+57,Email Marketing 57,Email Marketing,Technology,36370,8931,150000,628,7.04,Paused,2026-04-22
+58,Retargeting 58,Retargeting,Retail,52329,8644,150000,1166,13.5,Completed,2026-01-11
+59,Product Launch 59,Product Launch,Real Estate,94514,3071,150000,261,8.51,Active,2026-03-31
+60,Retargeting 60,Retargeting,Retail,6807,1430,19281,161,11.32,Active,2026-05-01
+61,Retargeting 61,Retargeting,Finance,87388,6775,150000,1131,16.7,Completed,2026-03-27
+62,Awareness Campaign 62,Awareness Campaign,Real Estate,75471,8002,150000,530,6.63,Completed,2026-04-07
+63,Festival Offer 63,Festival Offer,Technology,25365,11638,150000,1090,9.37,Paused,2026-04-25
+64,Awareness Campaign 64,Awareness Campaign,E-commerce,13665,3481,105819,226,6.51,Active,2026-03-26
+65,Festival Offer 65,Festival Offer,Retail,61948,9743,150000,1094,11.24,Active,2026-01-13
+66,Awareness Campaign 66,Awareness Campaign,E-commerce,28022,4093,150000,320,7.82,Active,2026-02-03
+67,Product Launch 67,Product Launch,Real Estate,72793,3677,150000,366,9.96,Completed,2026-01-05
+68,Product Launch 68,Product Launch,E-commerce,20473,5028,142064,426,8.49,Completed,2026-04-19
+69,Email Marketing 69,Email Marketing,Finance,98365,7996,150000,942,11.78,Completed,2026-03-29
+70,Email Marketing 70,Email Marketing,Education,79302,12310,150000,1104,8.97,Active,2026-04-19
+71,Awareness Campaign 71,Awareness Campaign,E-commerce,20117,4397,55165,317,7.23,Active,2026-05-07
+72,Festival Offer 72,Festival Offer,Retail,66835,13053,150000,1587,12.16,Active,2026-01-12
+73,Email Marketing 73,Email Marketing,Real Estate,98588,6932,150000,697,10.06,Completed,2026-03-09
+74,Awareness Campaign 74,Awareness Campaign,Finance,40554,8385,128017,655,7.81,Completed,2026-04-03
+75,Email Marketing 75,Email Marketing,Healthcare,34253,3025,150000,334,11.04,Completed,2026-05-18
+76,Discount Campaign 76,Discount Campaign,Technology,42002,6155,124961,814,13.23,Completed,2026-01-29
+77,Product Launch 77,Product Launch,Healthcare,43219,7469,150000,471,6.31,Paused,2026-01-13
+78,Retargeting 78,Retargeting,Education,30614,3943,150000,545,13.84,Completed,2026-05-13
+79,Discount Campaign 79,Discount Campaign,Retail,35539,2357,150000,233,9.91,Paused,2026-03-10
+80,Product Launch 80,Product Launch,Retail,91154,4558,150000,451,9.91,Active,2026-01-13
+81,Festival Offer 81,Festival Offer,Education,69491,5398,150000,691,12.82,Completed,2026-05-20
+82,Email Marketing 82,Email Marketing,Healthcare,73125,10663,150000,1235,11.59,Active,2026-02-23
+83,Retargeting 83,Retargeting,Retail,71247,8637,150000,1352,15.66,Active,2026-04-21
+84,Discount Campaign 84,Discount Campaign,E-commerce,22132,7031,93674,842,11.98,Active,2026-02-18
+85,Awareness Campaign 85,Awareness Campaign,Technology,47762,4199,139024,290,6.92,Active,2026-05-22
+86,Retargeting 86,Retargeting,Retail,25369,2579,107239,336,13.05,Active,2026-01-06
+87,Product Launch 87,Product Launch,Technology,32215,3267,150000,231,7.09,Paused,2026-05-19
+88,Awareness Campaign 88,Awareness Campaign,Finance,97367,5937,150000,416,7.02,Completed,2026-04-27
+89,Email Marketing 89,Email Marketing,E-commerce,37534,3888,103940,411,10.59,Completed,2026-04-06
+90,Festival Offer 90,Festival Offer,Retail,58004,3315,150000,390,11.77,Completed,2026-03-25
+91,Email Marketing 91,Email Marketing,Technology,23322,4750,150000,407,8.59,Active,2026-05-17
+92,Festival Offer 92,Festival Offer,Technology,57505,8801,150000,1099,12.49,Active,2026-05-29
+93,Product Launch 93,Product Launch,Technology,14828,5340,110672,378,7.09,Active,2026-01-26
+94,Festival Offer 94,Festival Offer,Retail,48456,11351,134635,1387,12.23,Active,2026-03-18
+95,Discount Campaign 95,Discount Campaign,Technology,99952,4194,150000,523,12.49,Active,2026-02-11
+96,Festival Offer 96,Festival Offer,Healthcare,41042,6784,110426,831,12.25,Active,2026-05-09
+97,Festival Offer 97,Festival Offer,E-commerce,43680,3236,150000,383,11.85,Paused,2026-03-29
+98,Discount Campaign 98,Discount Campaign,Healthcare,59949,9345,150000,1238,13.25,Active,2026-03-02
+99,Retargeting 99,Retargeting,Technology,7559,1888,33827,291,15.45,Completed,2026-04-15
+100,Discount Campaign 100,Discount Campaign,Finance,79141,5837,150000,651,11.17,Paused,2026-05-16
+101,Festival Offer 101,Festival Offer,Retail,41822,10876,150000,1345,12.37,Active,2026-05-12
+102,Festival Offer 102,Festival Offer,Healthcare,18124,7323,98509,668,9.12,Active,2026-03-01
+103,Awareness Campaign 103,Awareness Campaign,Retail,33758,12771,150000,695,5.45,Paused,2026-03-06
+104,Festival Offer 104,Festival Offer,Healthcare,36005,12532,150000,1205,9.62,Paused,2026-02-15
+105,Email Marketing 105,Email Marketing,E-commerce,96823,12919,150000,1537,11.9,Active,2026-04-21
+106,Discount Campaign 106,Discount Campaign,Real Estate,45508,7685,127828,761,9.91,Active,2026-04-09
+107,Email Marketing 107,Email Marketing,Real Estate,67650,3718,150000,373,10.05,Active,2026-03-21
+108,Awareness Campaign 108,Awareness Campaign,Healthcare,47413,3843,150000,213,5.54,Active,2026-01-29
+109,Email Marketing 109,Email Marketing,Technology,73982,12846,150000,1731,13.48,Completed,2026-05-29
+110,Discount Campaign 110,Discount Campaign,Real Estate,18242,10035,143514,960,9.57,Active,2026-04-15
+111,Discount Campaign 111,Discount Campaign,Technology,88789,13148,150000,1978,15.05,Completed,2026-05-13
+112,Awareness Campaign 112,Awareness Campaign,Real Estate,51769,5701,150000,345,6.07,Active,2026-04-24
+113,Awareness Campaign 113,Awareness Campaign,Finance,21691,7997,137977,376,4.71,Active,2026-03-03
+114,Retargeting 114,Retargeting,Retail,28865,4735,150000,717,15.16,Completed,2026-01-02
+115,Retargeting 115,Retargeting,Retail,70035,13301,150000,2053,15.44,Active,2026-04-29
+116,Festival Offer 116,Festival Offer,E-commerce,16629,4350,108272,539,12.41,Completed,2026-01-11
+117,Email Marketing 117,Email Marketing,Finance,32483,2935,127061,231,7.9,Active,2026-05-19
+118,Email Marketing 118,Email Marketing,Retail,55585,6907,150000,632,9.16,Active,2026-05-27
+119,Discount Campaign 119,Discount Campaign,Finance,76568,8753,150000,1241,14.19,Active,2026-03-11
+120,Awareness Campaign 120,Awareness Campaign,Healthcare,26319,1165,70634,59,5.1,Paused,2026-04-25
+121,Product Launch 121,Product Launch,Retail,14725,1028,49843,85,8.36,Active,2026-01-24
+122,Email Marketing 122,Email Marketing,Finance,82860,7102,150000,893,12.58,Completed,2026-05-31
+123,Awareness Campaign 123,Awareness Campaign,Healthcare,84602,4562,150000,322,7.07,Completed,2026-01-14
+124,Festival Offer 124,Festival Offer,Education,96382,9681,150000,1072,11.08,Paused,2026-04-30
+125,Product Launch 125,Product Launch,Healthcare,17571,3317,125091,252,7.62,Active,2026-01-13
+126,Product Launch 126,Product Launch,Retail,61047,7653,150000,717,9.37,Active,2026-04-13
+127,Email Marketing 127,Email Marketing,Retail,32125,7420,94789,599,8.08,Active,2026-03-22
+128,Product Launch 128,Product Launch,Technology,57096,9470,150000,860,9.08,Paused,2026-05-22
+129,Discount Campaign 129,Discount Campaign,Healthcare,53630,5212,150000,646,12.41,Completed,2026-02-01
+130,Discount Campaign 130,Discount Campaign,Finance,34654,7761,115440,977,12.59,Completed,2026-05-23
+131,Email Marketing 131,Email Marketing,Retail,92574,8884,150000,917,10.32,Active,2026-02-07
+132,Retargeting 132,Retargeting,Retail,55738,12002,150000,1722,14.36,Completed,2026-02-18
+133,Discount Campaign 133,Discount Campaign,Real Estate,35886,10285,150000,785,7.64,Paused,2026-04-27
+134,Retargeting 134,Retargeting,Real Estate,72740,3603,150000,552,15.33,Completed,2026-05-31
+135,Discount Campaign 135,Discount Campaign,Healthcare,26910,4018,85951,523,13.03,Completed,2026-05-28
+136,Awareness Campaign 136,Awareness Campaign,Education,31465,5151,150000,339,6.58,Completed,2026-02-04
+137,Awareness Campaign 137,Awareness Campaign,Technology,13783,6047,76306,397,6.57,Active,2026-02-05
+138,Retargeting 138,Retargeting,Education,6620,1653,35576,224,13.57,Completed,2026-01-06
+139,Discount Campaign 139,Discount Campaign,Healthcare,24424,3377,150000,335,9.95,Paused,2026-05-07
+140,Email Marketing 140,Email Marketing,Real Estate,18237,10822,133873,1017,9.4,Completed,2026-04-07
+141,Product Launch 141,Product Launch,Education,90824,5348,150000,407,7.63,Paused,2026-05-22
+142,Festival Offer 142,Festival Offer,Real Estate,84777,12138,150000,1396,11.51,Completed,2026-01-24
+143,Awareness Campaign 143,Awareness Campaign,Healthcare,11460,1407,85189,103,7.36,Completed,2026-03-06
+144,Product Launch 144,Product Launch,Finance,41745,13190,150000,1407,10.67,Completed,2026-01-18
+145,Festival Offer 145,Festival Offer,Healthcare,44384,5280,150000,614,11.63,Completed,2026-01-19
+146,Discount Campaign 146,Discount Campaign,Real Estate,89614,6830,150000,814,11.93,Active,2026-03-20
+147,Discount Campaign 147,Discount Campaign,Technology,72698,4038,150000,628,15.56,Completed,2026-04-22
+148,Product Launch 148,Product Launch,E-commerce,71426,8647,150000,997,11.54,Active,2026-05-17
+149,Festival Offer 149,Festival Offer,Healthcare,31309,12577,150000,1301,10.35,Completed,2026-05-14
+150,Awareness Campaign 150,Awareness Campaign,Healthcare,40910,12634,150000,820,6.49,Active,2026-03-17
+151,Awareness Campaign 151,Awareness Campaign,Retail,36711,10247,127633,612,5.98,Active,2026-03-21
+152,Retargeting 152,Retargeting,Real Estate,50843,11597,150000,1659,14.31,Active,2026-03-16
+153,Email Marketing 153,Email Marketing,Finance,8597,4241,48550,326,7.69,Active,2026-05-16
+154,Festival Offer 154,Festival Offer,E-commerce,34505,2475,150000,289,11.71,Completed,2026-04-03
+155,Awareness Campaign 155,Awareness Campaign,Retail,67140,2345,150000,176,7.54,Completed,2026-01-27
+156,Product Launch 156,Product Launch,Real Estate,45037,12324,150000,1124,9.13,Completed,2026-03-08
+157,Product Launch 157,Product Launch,Education,38029,9265,150000,639,6.91,Active,2026-02-05
+158,Retargeting 158,Retargeting,Retail,5963,1833,42564,210,11.49,Paused,2026-01-19
+159,Awareness Campaign 159,Awareness Campaign,Real Estate,84829,6033,150000,431,7.15,Active,2026-03-02
+160,Product Launch 160,Product Launch,E-commerce,47616,12289,150000,1214,9.88,Completed,2026-03-10
+161,Product Launch 161,Product Launch,Healthcare,24651,5497,69325,297,5.42,Paused,2026-02-04
+162,Retargeting 162,Retargeting,Education,91577,7845,150000,1052,13.42,Active,2026-05-18
+163,Product Launch 163,Product Launch,Finance,59862,13440,150000,1291,9.61,Active,2026-03-25
+164,Festival Offer 164,Festival Offer,Finance,98502,12448,150000,1531,12.3,Active,2026-02-18
+165,Awareness Campaign 165,Awareness Campaign,Finance,71494,8530,150000,572,6.71,Active,2026-04-08
+166,Product Launch 166,Product Launch,Retail,66706,10832,150000,831,7.68,Active,2026-01-18
+167,Festival Offer 167,Festival Offer,E-commerce,48992,12053,150000,1478,12.27,Completed,2026-02-05
+168,Discount Campaign 168,Discount Campaign,Technology,48426,3575,150000,477,13.36,Active,2026-02-20
+169,Email Marketing 169,Email Marketing,Technology,88151,12256,150000,1352,11.03,Paused,2026-03-19
+170,Retargeting 170,Retargeting,Retail,94220,11860,150000,1671,14.1,Active,2026-02-08
+171,Festival Offer 171,Festival Offer,Healthcare,49914,7397,150000,836,11.31,Active,2026-02-14
+172,Product Launch 172,Product Launch,Technology,98804,13349,150000,1220,9.14,Active,2026-03-10
+173,Product Launch 173,Product Launch,E-commerce,12603,2329,84270,186,8.02,Active,2026-05-06
+174,Festival Offer 174,Festival Offer,Education,16539,3793,80408,352,9.3,Active,2026-05-03
+175,Discount Campaign 175,Discount Campaign,Education,5611,410,25541,39,9.6,Active,2026-01-16
+176,Product Launch 176,Product Launch,Technology,74603,5049,150000,551,10.93,Active,2026-03-07
+177,Awareness Campaign 177,Awareness Campaign,Finance,45906,4128,150000,270,6.55,Active,2026-03-29
+178,Email Marketing 178,Email Marketing,Finance,43119,7128,150000,588,8.26,Paused,2026-05-26
+179,Awareness Campaign 179,Awareness Campaign,Healthcare,49922,4104,150000,298,7.27,Completed,2026-01-19
+180,Discount Campaign 180,Discount Campaign,Retail,34939,2129,127930,269,12.65,Active,2026-04-12
+181,Retargeting 181,Retargeting,Healthcare,21143,4618,57202,639,13.85,Active,2026-02-20
+182,Product Launch 182,Product Launch,Technology,75088,3466,150000,394,11.38,Completed,2026-01-04
+183,Email Marketing 183,Email Marketing,Retail,95406,5093,150000,510,10.03,Active,2026-04-28
+184,Awareness Campaign 184,Awareness Campaign,Healthcare,31934,8577,132722,599,6.99,Completed,2026-01-12
+185,Awareness Campaign 185,Awareness Campaign,Real Estate,40386,12359,150000,877,7.1,Completed,2026-04-19
+186,Retargeting 186,Retargeting,E-commerce,85962,4484,150000,674,15.04,Active,2026-01-12
+187,Festival Offer 187,Festival Offer,Technology,39471,6859,150000,927,13.52,Completed,2026-05-13
+188,Festival Offer 188,Festival Offer,Retail,76845,5969,150000,544,9.12,Paused,2026-03-14
+189,Email Marketing 189,Email Marketing,Retail,93032,7808,150000,705,9.03,Active,2026-01-19
+190,Email Marketing 190,Email Marketing,Technology,72070,9498,150000,1146,12.07,Active,2026-02-02
+191,Discount Campaign 191,Discount Campaign,Finance,39619,2462,137115,216,8.8,Paused,2026-01-01
+192,Product Launch 192,Product Launch,Finance,93705,10779,150000,1122,10.42,Active,2026-04-13
+193,Email Marketing 193,Email Marketing,Retail,23139,4942,103348,415,8.41,Completed,2026-01-03
+194,Retargeting 194,Retargeting,Finance,17183,2418,53715,307,12.73,Active,2026-01-01
+195,Discount Campaign 195,Discount Campaign,Finance,55556,12218,150000,1592,13.03,Completed,2026-03-05
+196,Festival Offer 196,Festival Offer,Retail,22368,4043,150000,387,9.58,Completed,2026-03-16
+197,Discount Campaign 197,Discount Campaign,Real Estate,68265,6522,150000,817,12.54,Completed,2026-03-01
+198,Product Launch 198,Product Launch,Real Estate,8777,4671,57050,394,8.44,Completed,2026-01-06
+199,Discount Campaign 199,Discount Campaign,Education,19802,3616,56402,398,11.02,Completed,2026-04-21
+200,Email Marketing 200,Email Marketing,E-commerce,93857,4769,150000,511,10.73,Paused,2026-04-20
+201,Awareness Campaign 201,Awareness Campaign,Technology,49341,7119,150000,460,6.46,Paused,2026-03-14
+202,Awareness Campaign 202,Awareness Campaign,Healthcare,68167,11689,150000,833,7.13,Active,2026-01-14
+203,Retargeting 203,Retargeting,Real Estate,12152,3221,64170,431,13.4,Active,2026-02-03
+204,Discount Campaign 204,Discount Campaign,Technology,26679,8955,102044,1108,12.37,Active,2026-02-06
+205,Email Marketing 205,Email Marketing,Real Estate,34190,3136,150000,189,6.04,Paused,2026-05-04
+206,Discount Campaign 206,Discount Campaign,Technology,80108,3585,150000,536,14.97,Active,2026-05-01
+207,Discount Campaign 207,Discount Campaign,E-commerce,90638,8427,150000,1172,13.91,Active,2026-04-07
+208,Email Marketing 208,Email Marketing,Technology,84194,8576,150000,1073,12.51,Completed,2026-02-05
+209,Awareness Campaign 209,Awareness Campaign,E-commerce,64796,4757,150000,389,8.19,Completed,2026-04-14
+210,Discount Campaign 210,Discount Campaign,Finance,78420,6337,150000,899,14.2,Completed,2026-02-12
+211,Discount Campaign 211,Discount Campaign,Retail,17771,6008,77791,634,10.57,Completed,2026-03-09
+212,Product Launch 212,Product Launch,Real Estate,73417,7789,150000,577,7.42,Active,2026-01-19
+213,Awareness Campaign 213,Awareness Campaign,E-commerce,99576,3608,150000,287,7.96,Active,2026-05-13
+214,Discount Campaign 214,Discount Campaign,Healthcare,64905,10767,150000,1278,11.87,Completed,2026-01-31
+215,Email Marketing 215,Email Marketing,E-commerce,93098,9657,150000,1044,10.82,Paused,2026-04-27
+216,Retargeting 216,Retargeting,Healthcare,70382,7119,150000,1111,15.61,Active,2026-03-14
+217,Retargeting 217,Retargeting,Education,71628,4203,150000,690,16.43,Completed,2026-04-22
+218,Festival Offer 218,Festival Offer,Retail,55778,12165,150000,1449,11.92,Completed,2026-02-04
+219,Discount Campaign 219,Discount Campaign,Real Estate,95769,13168,150000,1596,12.12,Completed,2026-03-27
+220,Discount Campaign 220,Discount Campaign,Technology,22481,8013,150000,1018,12.71,Active,2026-05-18
+221,Awareness Campaign 221,Awareness Campaign,Real Estate,46144,4510,150000,352,7.81,Completed,2026-05-30
+222,Retargeting 222,Retargeting,E-commerce,43086,9501,139154,1649,17.36,Completed,2026-02-04
+223,Festival Offer 223,Festival Offer,Real Estate,76105,6212,150000,699,11.27,Completed,2026-04-09
+224,Discount Campaign 224,Discount Campaign,Real Estate,79794,12305,150000,1652,13.43,Completed,2026-01-29
+225,Retargeting 225,Retargeting,Finance,60363,3884,150000,589,15.17,Completed,2026-03-28
+226,Awareness Campaign 226,Awareness Campaign,Retail,31201,9938,150000,651,6.56,Active,2026-01-06
+227,Festival Offer 227,Festival Offer,Technology,13130,1520,87245,166,10.99,Completed,2026-05-01
+228,Discount Campaign 228,Discount Campaign,Retail,85754,10602,150000,1496,14.12,Completed,2026-01-08
+229,Retargeting 229,Retargeting,Education,36142,10045,150000,1224,12.19,Paused,2026-04-15
+230,Email Marketing 230,Email Marketing,Education,55797,13115,150000,1319,10.06,Active,2026-01-24
+231,Email Marketing 231,Email Marketing,Retail,37943,7234,150000,709,9.81,Active,2026-03-02
+232,Festival Offer 232,Festival Offer,E-commerce,97357,10557,150000,1425,13.5,Completed,2026-02-26
+233,Festival Offer 233,Festival Offer,Technology,30362,4353,150000,454,10.43,Active,2026-01-21
+234,Festival Offer 234,Festival Offer,E-commerce,72350,5222,150000,617,11.82,Active,2026-03-09
+235,Festival Offer 235,Festival Offer,Real Estate,38425,2699,150000,256,9.5,Active,2026-05-13
+236,Product Launch 236,Product Launch,Real Estate,11665,3129,83256,240,7.68,Completed,2026-02-05
+237,Retargeting 237,Retargeting,Real Estate,51934,13016,150000,1812,13.92,Active,2026-04-25
+238,Retargeting 238,Retargeting,Retail,71209,6180,150000,916,14.83,Active,2026-04-11
+239,Festival Offer 239,Festival Offer,E-commerce,48500,9205,150000,1084,11.78,Active,2026-02-02
+240,Discount Campaign 240,Discount Campaign,Real Estate,90105,12425,150000,1566,12.61,Active,2026-01-20
+241,Retargeting 241,Retargeting,Real Estate,36958,12554,150000,1738,13.85,Completed,2026-04-07
+242,Email Marketing 242,Email Marketing,Education,38631,11498,150000,706,6.15,Paused,2026-02-07
+243,Product Launch 243,Product Launch,Real Estate,71680,4415,150000,319,7.23,Active,2026-04-28
+244,Retargeting 244,Retargeting,Retail,17577,1492,95950,209,14.07,Active,2026-01-31
+245,Email Marketing 245,Email Marketing,Healthcare,92862,11651,150000,1193,10.24,Completed,2026-04-30
+246,Festival Offer 246,Festival Offer,Real Estate,97109,11438,150000,1432,12.52,Completed,2026-03-07
+247,Email Marketing 247,Email Marketing,E-commerce,94921,3234,150000,374,11.58,Active,2026-03-30
+248,Email Marketing 248,Email Marketing,Healthcare,38018,4906,142645,364,7.42,Paused,2026-05-08
+249,Discount Campaign 249,Discount Campaign,Education,87603,3580,150000,427,11.95,Active,2026-04-17
+250,Email Marketing 250,Email Marketing,E-commerce,99409,10134,150000,1334,13.17,Completed,2026-03-17
+251,Email Marketing 251,Email Marketing,Finance,70907,3223,150000,372,11.56,Active,2026-03-28
+252,Discount Campaign 252,Discount Campaign,Education,56788,4723,150000,519,10.99,Completed,2026-01-23
+253,Awareness Campaign 253,Awareness Campaign,Education,76529,12228,150000,905,7.4,Active,2026-05-10
+254,Awareness Campaign 254,Awareness Campaign,E-commerce,53906,3840,150000,273,7.13,Completed,2026-04-18
+255,Email Marketing 255,Email Marketing,Retail,80067,5677,150000,488,8.61,Paused,2026-01-13
+256,Awareness Campaign 256,Awareness Campaign,E-commerce,50069,3852,150000,351,9.12,Active,2026-03-07
+257,Festival Offer 257,Festival Offer,Healthcare,85856,11246,150000,1313,11.68,Completed,2026-02-17
+258,Email Marketing 258,Email Marketing,Technology,76939,3007,150000,296,9.85,Paused,2026-03-13
+259,Email Marketing 259,Email Marketing,Healthcare,81099,9624,150000,788,8.19,Paused,2026-01-28
+260,Email Marketing 260,Email Marketing,Finance,86201,5943,150000,581,9.78,Active,2026-02-16
+261,Awareness Campaign 261,Awareness Campaign,Finance,95892,5808,150000,359,6.2,Paused,2026-04-06
+262,Discount Campaign 262,Discount Campaign,Healthcare,5633,2279,36147,267,11.76,Active,2026-02-06
+263,Product Launch 263,Product Launch,Technology,52118,7457,150000,767,10.3,Active,2026-03-20
+264,Product Launch 264,Product Launch,Technology,45038,3172,150000,213,6.73,Paused,2026-01-09
+265,Product Launch 265,Product Launch,Technology,23350,9299,150000,808,8.69,Completed,2026-03-11
+266,Awareness Campaign 266,Awareness Campaign,Retail,7441,3029,51860,190,6.29,Completed,2026-01-12
+267,Retargeting 267,Retargeting,Healthcare,9804,3950,78363,447,11.33,Paused,2026-04-04
+268,Festival Offer 268,Festival Offer,Finance,56445,5523,150000,674,12.22,Active,2026-05-09
+269,Discount Campaign 269,Discount Campaign,Real Estate,71900,4937,150000,577,11.69,Active,2026-05-18
+270,Retargeting 270,Retargeting,E-commerce,26737,5187,90256,742,14.32,Completed,2026-05-27
+271,Retargeting 271,Retargeting,E-commerce,24162,3395,108085,521,15.35,Completed,2026-04-25
+272,Discount Campaign 272,Discount Campaign,Healthcare,13239,4403,81780,444,10.1,Active,2026-01-20
+273,Product Launch 273,Product Launch,Education,66561,9545,150000,958,10.04,Completed,2026-04-11
+274,Email Marketing 274,Email Marketing,E-commerce,73337,8759,150000,1026,11.72,Completed,2026-01-18
+275,Retargeting 275,Retargeting,Healthcare,54369,11649,150000,1676,14.4,Completed,2026-05-09
+276,Retargeting 276,Retargeting,Finance,54326,11443,150000,1632,14.27,Completed,2026-05-08
+277,Product Launch 277,Product Launch,Education,68191,7198,150000,534,7.42,Completed,2026-03-04
+278,Festival Offer 278,Festival Offer,Retail,72441,6325,150000,729,11.53,Completed,2026-04-13
+279,Awareness Campaign 279,Awareness Campaign,Technology,20509,2080,88521,152,7.34,Completed,2026-04-20
+280,Awareness Campaign 280,Awareness Campaign,Education,67786,2502,150000,129,5.18,Active,2026-04-22
+281,Email Marketing 281,Email Marketing,Healthcare,80168,12271,150000,933,7.6,Paused,2026-05-17
+282,Festival Offer 282,Festival Offer,Retail,26802,8992,150000,830,9.24,Active,2026-04-14
+283,Retargeting 283,Retargeting,E-commerce,7440,4492,52207,700,15.58,Completed,2026-04-12
+284,Festival Offer 284,Festival Offer,Education,84498,11591,150000,1541,13.3,Completed,2026-03-18
+285,Retargeting 285,Retargeting,Healthcare,81368,5225,150000,765,14.65,Completed,2026-05-27
+286,Awareness Campaign 286,Awareness Campaign,E-commerce,49914,6230,143684,553,8.89,Completed,2026-04-17
+287,Festival Offer 287,Festival Offer,Retail,7170,1757,37814,189,10.78,Active,2026-05-05
+288,Festival Offer 288,Festival Offer,Real Estate,17622,8260,102189,851,10.3,Active,2026-02-09
+289,Retargeting 289,Retargeting,Real Estate,20403,8316,150000,1087,13.08,Active,2026-02-24
+290,Email Marketing 290,Email Marketing,Technology,93940,2738,150000,333,12.17,Completed,2026-03-04
+291,Retargeting 291,Retargeting,Education,35079,6193,150000,845,13.65,Completed,2026-01-27
+292,Awareness Campaign 292,Awareness Campaign,Technology,96318,10865,150000,703,6.48,Paused,2026-03-28
+293,Email Marketing 293,Email Marketing,Finance,83419,10227,150000,1137,11.13,Completed,2026-05-29
+294,Email Marketing 294,Email Marketing,Real Estate,73490,9987,150000,811,8.12,Active,2026-02-08
+295,Product Launch 295,Product Launch,Education,52483,5189,150000,413,7.98,Active,2026-02-26
+296,Retargeting 296,Retargeting,Education,79012,10743,150000,1485,13.83,Active,2026-05-02
+297,Discount Campaign 297,Discount Campaign,Real Estate,78080,5104,150000,510,10.01,Paused,2026-03-24
+298,Product Launch 298,Product Launch,Real Estate,50135,11968,150000,980,8.19,Completed,2026-03-20
+299,Email Marketing 299,Email Marketing,E-commerce,35116,3700,119038,399,10.8,Active,2026-03-26
+300,Discount Campaign 300,Discount Campaign,Technology,49359,2835,150000,400,14.14,Completed,2026-03-15
+301,Discount Campaign 301,Discount Campaign,E-commerce,5693,1740,29001,241,13.87,Completed,2026-01-16
+302,Email Marketing 302,Email Marketing,Retail,39483,4685,106906,348,7.44,Active,2026-04-06
+303,Discount Campaign 303,Discount Campaign,Real Estate,91006,12889,150000,1422,11.03,Paused,2026-01-05
+304,Festival Offer 304,Festival Offer,E-commerce,69797,11293,150000,1299,11.51,Active,2026-04-06
+305,Product Launch 305,Product Launch,Healthcare,9405,3646,59641,296,8.13,Completed,2026-01-21
+306,Awareness Campaign 306,Awareness Campaign,Retail,52151,13464,150000,659,4.9,Active,2026-03-04
+307,Discount Campaign 307,Discount Campaign,Finance,92773,10540,150000,1418,13.46,Active,2026-04-19
+308,Email Marketing 308,Email Marketing,Retail,77036,6166,150000,689,11.19,Active,2026-04-05
+309,Product Launch 309,Product Launch,Healthcare,84477,2302,150000,229,9.96,Completed,2026-04-29
+310,Festival Offer 310,Festival Offer,Education,71353,12903,150000,1318,10.22,Active,2026-03-17
+311,Retargeting 311,Retargeting,Finance,75504,13118,150000,2115,16.12,Completed,2026-03-01
+312,Retargeting 312,Retargeting,Education,36886,7433,150000,1121,15.08,Completed,2026-04-07
+313,Retargeting 313,Retargeting,Technology,8584,2930,39526,336,11.47,Paused,2026-05-30
+314,Festival Offer 314,Festival Offer,E-commerce,96904,8060,150000,1019,12.65,Active,2026-02-25
+315,Email Marketing 315,Email Marketing,E-commerce,39517,11487,150000,1031,8.98,Active,2026-05-30
+316,Email Marketing 316,Email Marketing,Real Estate,28394,5277,150000,314,5.96,Paused,2026-05-13
+317,Awareness Campaign 317,Awareness Campaign,E-commerce,29925,12068,150000,555,4.6,Paused,2026-05-16
+318,Festival Offer 318,Festival Offer,Healthcare,31577,10335,140775,1251,12.11,Completed,2026-01-11
+319,Email Marketing 319,Email Marketing,Retail,93580,11892,150000,1293,10.88,Completed,2026-04-13
+320,Email Marketing 320,Email Marketing,Technology,68214,12161,150000,1221,10.05,Active,2026-01-09
+321,Retargeting 321,Retargeting,Technology,41009,5402,150000,802,14.85,Paused,2026-02-06
+322,Festival Offer 322,Festival Offer,Technology,80584,12821,150000,1663,12.98,Active,2026-01-18
+323,Email Marketing 323,Email Marketing,Real Estate,50519,13235,150000,1238,9.36,Active,2026-03-01
+324,Awareness Campaign 324,Awareness Campaign,Real Estate,65302,6518,150000,281,4.33,Active,2026-04-25
+325,Email Marketing 325,Email Marketing,Finance,52395,4917,150000,485,9.88,Completed,2026-05-26
+326,Discount Campaign 326,Discount Campaign,Real Estate,49970,10133,150000,1144,11.3,Active,2026-04-21
+327,Product Launch 327,Product Launch,Finance,57506,8728,150000,692,7.94,Active,2026-04-16
+328,Festival Offer 328,Festival Offer,Technology,18090,7960,100478,995,12.51,Completed,2026-02-03
+329,Festival Offer 329,Festival Offer,Healthcare,24601,2973,118536,214,7.23,Paused,2026-05-05
+330,Awareness Campaign 330,Awareness Campaign,Real Estate,74990,8574,150000,699,8.16,Completed,2026-03-02
+331,Retargeting 331,Retargeting,Retail,57219,5110,150000,658,12.89,Active,2026-05-24
+332,Awareness Campaign 332,Awareness Campaign,Retail,63963,8521,150000,543,6.38,Completed,2026-01-10
+333,Product Launch 333,Product Launch,Finance,7599,2863,47400,207,7.25,Active,2026-04-14
+334,Retargeting 334,Retargeting,Real Estate,90179,6244,150000,863,13.82,Completed,2026-01-06
+335,Awareness Campaign 335,Awareness Campaign,Real Estate,68896,9153,150000,580,6.34,Completed,2026-01-10
+336,Discount Campaign 336,Discount Campaign,E-commerce,23985,6995,150000,966,13.82,Completed,2026-02-28
+337,Retargeting 337,Retargeting,Real Estate,58054,4817,150000,612,12.71,Completed,2026-03-16
+338,Product Launch 338,Product Launch,E-commerce,43188,12236,150000,1335,10.92,Completed,2026-02-06
+339,Product Launch 339,Product Launch,E-commerce,81928,11859,150000,1049,8.85,Paused,2026-03-10
+340,Festival Offer 340,Festival Offer,E-commerce,35753,3150,150000,432,13.72,Completed,2026-04-15
+341,Festival Offer 341,Festival Offer,Education,18501,1797,94401,194,10.81,Active,2026-01-11
+342,Discount Campaign 342,Discount Campaign,Real Estate,15911,4002,47155,418,10.45,Active,2026-05-13
+343,Discount Campaign 343,Discount Campaign,Finance,35062,3726,150000,411,11.05,Active,2026-03-26
+344,Festival Offer 344,Festival Offer,Retail,9607,2089,41200,239,11.48,Completed,2026-05-24
+345,Retargeting 345,Retargeting,Finance,76898,4241,150000,704,16.61,Active,2026-04-09
+346,Retargeting 346,Retargeting,Education,87712,9447,150000,1542,16.33,Completed,2026-04-12
+347,Retargeting 347,Retargeting,Finance,50504,5713,150000,678,11.88,Paused,2026-02-04
+348,Discount Campaign 348,Discount Campaign,Finance,25410,11789,150000,1202,10.2,Active,2026-04-09
+349,Product Launch 349,Product Launch,Finance,66498,10749,150000,834,7.76,Paused,2026-03-14
+350,Product Launch 350,Product Launch,Retail,61418,8417,150000,790,9.39,Completed,2026-05-13
+351,Festival Offer 351,Festival Offer,Education,78472,9517,150000,1023,10.75,Active,2026-05-16
+352,Discount Campaign 352,Discount Campaign,Healthcare,39469,11249,150000,1324,11.78,Active,2026-01-09
+353,Retargeting 353,Retargeting,Technology,95954,11349,150000,1810,15.95,Completed,2026-02-11
+354,Discount Campaign 354,Discount Campaign,Healthcare,13973,5144,83878,528,10.27,Active,2026-01-20
+355,Product Launch 355,Product Launch,E-commerce,86625,13159,150000,1113,8.46,Paused,2026-03-30
+356,Email Marketing 356,Email Marketing,Healthcare,18405,1411,90392,102,7.28,Active,2026-02-06
+357,Email Marketing 357,Email Marketing,Healthcare,6930,2188,29200,136,6.23,Paused,2026-02-13
+358,Product Launch 358,Product Launch,Education,96348,12955,150000,1190,9.19,Completed,2026-05-19
+359,Email Marketing 359,Email Marketing,Finance,56435,11717,150000,1149,9.81,Active,2026-03-04
+360,Discount Campaign 360,Discount Campaign,Technology,6653,1875,25742,238,12.7,Active,2026-01-15
+361,Discount Campaign 361,Discount Campaign,Healthcare,9392,1840,28333,213,11.61,Active,2026-05-19
+362,Festival Offer 362,Festival Offer,Education,56003,9328,150000,1010,10.84,Completed,2026-02-09
+363,Email Marketing 363,Email Marketing,E-commerce,77034,4485,150000,415,9.26,Paused,2026-04-07
+364,Email Marketing 364,Email Marketing,Technology,92385,5900,150000,604,10.24,Active,2026-02-10
+365,Festival Offer 365,Festival Offer,Technology,41188,13149,150000,1326,10.09,Paused,2026-04-21
+366,Retargeting 366,Retargeting,Technology,95538,3256,150000,471,14.49,Paused,2026-05-05
+367,Festival Offer 367,Festival Offer,Education,16980,9571,133005,929,9.72,Completed,2026-04-30
+368,Email Marketing 368,Email Marketing,Retail,51598,3665,150000,392,10.7,Completed,2026-01-04
+369,Festival Offer 369,Festival Offer,Finance,78184,7185,150000,982,13.67,Completed,2026-01-09
+370,Festival Offer 370,Festival Offer,Retail,95341,2694,150000,333,12.37,Active,2026-03-16
+371,Awareness Campaign 371,Awareness Campaign,Education,78272,4349,150000,330,7.59,Active,2026-02-10
+372,Product Launch 372,Product Launch,Finance,66393,8488,150000,839,9.89,Active,2026-05-14
+373,Email Marketing 373,Email Marketing,Real Estate,25319,6804,138718,616,9.06,Active,2026-01-23
+374,Awareness Campaign 374,Awareness Campaign,Real Estate,54681,6345,150000,485,7.65,Completed,2026-02-26
+375,Retargeting 375,Retargeting,Healthcare,47034,6609,150000,1009,15.27,Completed,2026-01-01
+376,Retargeting 376,Retargeting,E-commerce,70214,6860,150000,1088,15.86,Completed,2026-02-16
+377,Product Launch 377,Product Launch,Retail,17616,3090,124960,129,4.2,Paused,2026-05-09
+378,Email Marketing 378,Email Marketing,Healthcare,19031,8343,107345,458,5.5,Paused,2026-03-06
+379,Awareness Campaign 379,Awareness Campaign,Education,73920,4733,150000,377,7.97,Completed,2026-02-04
+380,Awareness Campaign 380,Awareness Campaign,Retail,6715,2855,34936,143,5.03,Completed,2026-03-17
+381,Email Marketing 381,Email Marketing,Education,88744,6929,150000,704,10.17,Active,2026-02-14
+382,Product Launch 382,Product Launch,Technology,97855,10510,150000,1129,10.75,Active,2026-03-14
+383,Product Launch 383,Product Launch,Retail,33298,8231,150000,591,7.19,Completed,2026-03-20
+384,Festival Offer 384,Festival Offer,Healthcare,73969,8532,150000,1092,12.81,Completed,2026-01-09
+385,Retargeting 385,Retargeting,Education,18829,7914,116922,1062,13.43,Completed,2026-01-31
+386,Discount Campaign 386,Discount Campaign,Retail,26864,9115,141729,1098,12.05,Completed,2026-01-28
+387,Retargeting 387,Retargeting,Real Estate,63066,13464,150000,2047,15.21,Completed,2026-04-27
+388,Product Launch 388,Product Launch,Education,88000,8585,150000,830,9.68,Active,2026-02-17
+389,Festival Offer 389,Festival Offer,Education,77120,7284,150000,834,11.46,Completed,2026-05-01
+390,Discount Campaign 390,Discount Campaign,Retail,9543,4567,51025,533,11.69,Completed,2026-05-10
+391,Product Launch 391,Product Launch,Retail,44365,10929,150000,901,8.24,Completed,2026-02-20
+392,Awareness Campaign 392,Awareness Campaign,Technology,41170,8680,150000,723,8.33,Completed,2026-03-24
+393,Email Marketing 393,Email Marketing,Retail,65341,8799,150000,731,8.32,Active,2026-05-13
+394,Festival Offer 394,Festival Offer,Finance,44361,10510,150000,1166,11.1,Active,2026-04-21
+395,Awareness Campaign 395,Awareness Campaign,Finance,68246,8732,150000,687,7.88,Active,2026-05-18
+396,Email Marketing 396,Email Marketing,Real Estate,89181,3132,150000,322,10.29,Active,2026-05-02
+397,Email Marketing 397,Email Marketing,Technology,48829,12013,150000,1387,11.55,Active,2026-03-02
+398,Festival Offer 398,Festival Offer,E-commerce,90561,9362,150000,1421,15.19,Completed,2026-02-09
+399,Email Marketing 399,Email Marketing,Finance,73731,7902,150000,854,10.82,Active,2026-05-07
+400,Festival Offer 400,Festival Offer,Healthcare,11621,6511,91117,787,12.09,Completed,2026-05-24
+401,Retargeting 401,Retargeting,Real Estate,16807,1954,78468,224,11.47,Active,2026-02-22
+402,Email Marketing 402,Email Marketing,Education,79899,6733,150000,730,10.84,Completed,2026-03-21
+403,Discount Campaign 403,Discount Campaign,Technology,96471,7738,150000,990,12.8,Active,2026-05-15
+404,Awareness Campaign 404,Awareness Campaign,Real Estate,30703,4976,150000,243,4.89,Paused,2026-01-02
+405,Product Launch 405,Product Launch,Technology,61369,9807,150000,1066,10.87,Active,2026-03-22
+406,Discount Campaign 406,Discount Campaign,Finance,50653,10908,150000,1301,11.93,Active,2026-03-22
+407,Festival Offer 407,Festival Offer,Finance,85769,7205,150000,994,13.81,Completed,2026-03-15
+408,Festival Offer 408,Festival Offer,Healthcare,94831,3514,150000,445,12.67,Active,2026-02-23
+409,Email Marketing 409,Email Marketing,Healthcare,86396,2404,150000,293,12.21,Completed,2026-02-06
+410,Awareness Campaign 410,Awareness Campaign,Technology,19585,5972,84711,377,6.31,Active,2026-06-01
+411,Festival Offer 411,Festival Offer,Healthcare,76620,10461,150000,991,9.48,Paused,2026-04-05
+412,Festival Offer 412,Festival Offer,E-commerce,96587,8176,150000,1106,13.53,Completed,2026-02-19
+413,Product Launch 413,Product Launch,Healthcare,12878,1441,75964,119,8.27,Active,2026-04-27
+414,Awareness Campaign 414,Awareness Campaign,Retail,13729,6364,98662,287,4.51,Active,2026-01-03
+415,Email Marketing 415,Email Marketing,Retail,43337,6532,150000,689,10.55,Completed,2026-05-02
+416,Awareness Campaign 416,Awareness Campaign,Retail,46347,4137,138304,206,4.99,Paused,2026-05-15
+417,Discount Campaign 417,Discount Campaign,Real Estate,98384,6002,150000,680,11.34,Active,2026-03-18
+418,Discount Campaign 418,Discount Campaign,E-commerce,25578,4292,113939,568,13.25,Active,2026-01-09
+419,Retargeting 419,Retargeting,Finance,13127,7390,97103,1111,15.04,Completed,2026-05-16
+420,Email Marketing 420,Email Marketing,Real Estate,41725,3794,150000,315,8.33,Active,2026-05-29
+421,Awareness Campaign 421,Awareness Campaign,Education,73251,4808,150000,386,8.04,Completed,2026-03-29
+422,Festival Offer 422,Festival Offer,Real Estate,25021,7101,145860,641,9.04,Active,2026-01-26
+423,Festival Offer 423,Festival Offer,Healthcare,90520,11954,150000,1437,12.02,Active,2026-05-09
+424,Product Launch 424,Product Launch,E-commerce,97423,12476,150000,1575,12.63,Completed,2026-05-14
+425,Festival Offer 425,Festival Offer,E-commerce,79035,12921,150000,1725,13.35,Completed,2026-02-13
+426,Email Marketing 426,Email Marketing,Healthcare,46628,4828,124131,445,9.24,Completed,2026-01-14
+427,Discount Campaign 427,Discount Campaign,Education,44760,12749,150000,1657,13.0,Active,2026-05-04
+428,Product Launch 428,Product Launch,Healthcare,29632,9134,150000,635,6.95,Active,2026-01-23
+429,Product Launch 429,Product Launch,Real Estate,79323,2543,150000,243,9.59,Completed,2026-01-23
+430,Email Marketing 430,Email Marketing,E-commerce,67469,9557,150000,1140,11.94,Active,2026-01-31
+431,Festival Offer 431,Festival Offer,Technology,55785,2612,150000,243,9.31,Paused,2026-04-05
+432,Email Marketing 432,Email Marketing,Finance,59138,4551,150000,473,10.41,Active,2026-01-13
+433,Festival Offer 433,Festival Offer,Education,85879,5026,150000,466,9.27,Paused,2026-02-05
+434,Discount Campaign 434,Discount Campaign,Technology,10482,3017,67725,409,13.57,Completed,2026-04-15
+435,Awareness Campaign 435,Awareness Campaign,Real Estate,82831,2683,150000,142,5.32,Paused,2026-03-05
+436,Email Marketing 436,Email Marketing,Education,64886,8085,150000,689,8.53,Completed,2026-02-02
+437,Discount Campaign 437,Discount Campaign,E-commerce,10144,1132,60545,119,10.55,Paused,2026-05-24
+438,Product Launch 438,Product Launch,Education,57171,4122,150000,400,9.72,Completed,2026-02-19
+439,Product Launch 439,Product Launch,Real Estate,12149,3892,61348,331,8.51,Completed,2026-05-13
+440,Email Marketing 440,Email Marketing,E-commerce,70622,10081,150000,1263,12.54,Active,2026-05-19
+441,Festival Offer 441,Festival Offer,Education,59206,12336,150000,1144,9.27,Active,2026-05-15
+442,Festival Offer 442,Festival Offer,Education,16820,9414,125971,948,10.08,Active,2026-03-19
+443,Awareness Campaign 443,Awareness Campaign,E-commerce,21193,2715,126890,212,7.82,Active,2026-02-25
+444,Awareness Campaign 444,Awareness Campaign,Education,72065,2743,150000,183,6.68,Completed,2026-04-15
+445,Festival Offer 445,Festival Offer,Finance,79120,3876,150000,542,13.99,Completed,2026-02-25
+446,Awareness Campaign 446,Awareness Campaign,Retail,59995,5498,150000,389,7.09,Active,2026-02-25
+447,Festival Offer 447,Festival Offer,Retail,22245,2375,149256,223,9.41,Completed,2026-04-21
+448,Discount Campaign 448,Discount Campaign,Technology,70358,4926,150000,527,10.72,Paused,2026-02-20
+449,Retargeting 449,Retargeting,E-commerce,67352,2323,150000,314,13.53,Paused,2026-01-22
+450,Retargeting 450,Retargeting,Finance,86233,4329,150000,729,16.86,Completed,2026-05-28
+451,Email Marketing 451,Email Marketing,E-commerce,50746,11677,150000,1396,11.96,Active,2026-01-24
+452,Product Launch 452,Product Launch,Finance,16495,3754,57408,279,7.45,Active,2026-03-18
+453,Retargeting 453,Retargeting,E-commerce,95638,13120,150000,2245,17.12,Completed,2026-02-09
+454,Awareness Campaign 454,Awareness Campaign,Real Estate,52210,6396,150000,337,5.28,Completed,2026-01-17
+455,Discount Campaign 455,Discount Campaign,Technology,13869,1993,39625,271,13.63,Completed,2026-04-18
+456,Email Marketing 456,Email Marketing,E-commerce,40968,4592,149703,488,10.64,Active,2026-04-07
+457,Email Marketing 457,Email Marketing,Retail,79890,7691,150000,868,11.29,Completed,2026-02-08
+458,Awareness Campaign 458,Awareness Campaign,Real Estate,97642,8160,150000,565,6.93,Active,2026-01-25
+459,Retargeting 459,Retargeting,Finance,22001,7495,143237,1078,14.39,Completed,2026-04-11
+460,Festival Offer 460,Festival Offer,Real Estate,35503,1496,89066,175,11.74,Completed,2026-01-07
+461,Awareness Campaign 461,Awareness Campaign,Technology,20456,5548,120367,372,6.72,Completed,2026-04-02
+462,Email Marketing 462,Email Marketing,Finance,50829,3918,130230,337,8.61,Paused,2026-04-03
+463,Product Launch 463,Product Launch,Finance,13891,919,59475,70,7.72,Active,2026-01-22
+464,Awareness Campaign 464,Awareness Campaign,Finance,49742,11610,150000,825,7.11,Active,2026-01-22
+465,Festival Offer 465,Festival Offer,Finance,49294,2650,150000,318,12.04,Completed,2026-02-14
+466,Festival Offer 466,Festival Offer,Education,25366,5551,138328,659,11.88,Completed,2026-01-08
+467,Discount Campaign 467,Discount Campaign,E-commerce,12342,3095,80066,380,12.3,Completed,2026-03-17
+468,Retargeting 468,Retargeting,Retail,32297,11202,150000,1231,11.0,Paused,2026-02-05
+469,Email Marketing 469,Email Marketing,Healthcare,41760,8260,150000,810,9.82,Completed,2026-01-17
+470,Festival Offer 470,Festival Offer,Real Estate,84388,10704,150000,1218,11.39,Active,2026-05-29
+471,Awareness Campaign 471,Awareness Campaign,Technology,46222,11116,137620,846,7.61,Completed,2026-05-15
+472,Product Launch 472,Product Launch,Education,44666,10285,139236,782,7.61,Active,2026-01-14
+473,Festival Offer 473,Festival Offer,Retail,63166,3983,150000,402,10.1,Paused,2026-02-16
+474,Product Launch 474,Product Launch,Education,73632,3355,150000,284,8.48,Active,2026-03-26
+475,Retargeting 475,Retargeting,E-commerce,22395,8283,103727,1102,13.31,Active,2026-04-30
+476,Email Marketing 476,Email Marketing,Retail,45760,3229,150000,344,10.66,Completed,2026-03-14
+477,Discount Campaign 477,Discount Campaign,Retail,18513,4554,78099,431,9.48,Paused,2026-03-27
+478,Product Launch 478,Product Launch,E-commerce,32504,5089,130717,421,8.28,Active,2026-05-24
+479,Discount Campaign 479,Discount Campaign,E-commerce,20420,5551,63905,647,11.67,Active,2026-01-28
+480,Retargeting 480,Retargeting,Real Estate,18418,2005,78307,233,11.65,Active,2026-03-27
+481,Awareness Campaign 481,Awareness Campaign,Technology,42128,12287,150000,603,4.91,Paused,2026-04-26
+482,Retargeting 482,Retargeting,Education,11648,1661,72394,206,12.41,Active,2026-05-30
+483,Email Marketing 483,Email Marketing,Retail,60897,9331,150000,934,10.01,Active,2026-01-08
+484,Awareness Campaign 484,Awareness Campaign,E-commerce,63436,10270,150000,825,8.04,Completed,2026-05-09
+485,Awareness Campaign 485,Awareness Campaign,Technology,74924,8637,150000,835,9.67,Active,2026-04-08
+486,Email Marketing 486,Email Marketing,Technology,96566,10239,150000,979,9.57,Paused,2026-05-29
+487,Discount Campaign 487,Discount Campaign,Education,35368,5153,150000,547,10.63,Completed,2026-02-06
+488,Product Launch 488,Product Launch,Education,29032,12177,150000,1058,8.7,Completed,2026-05-30
+489,Discount Campaign 489,Discount Campaign,Education,8966,3609,46018,337,9.34,Active,2026-02-10
+490,Product Launch 490,Product Launch,Technology,50693,11447,150000,1051,9.18,Completed,2026-05-21
+491,Email Marketing 491,Email Marketing,Finance,77895,6759,150000,829,12.28,Completed,2026-03-03
+492,Discount Campaign 492,Discount Campaign,Healthcare,86379,2993,150000,355,11.88,Active,2026-01-09
+493,Festival Offer 493,Festival Offer,Technology,95971,11107,150000,1338,12.05,Paused,2026-04-21
+494,Retargeting 494,Retargeting,E-commerce,35953,10258,150000,1560,15.21,Active,2026-01-03
+495,Discount Campaign 495,Discount Campaign,Retail,82616,7258,150000,760,10.48,Paused,2026-01-30
+496,Product Launch 496,Product Launch,Education,14123,6244,81634,365,5.86,Paused,2026-03-08
+497,Product Launch 497,Product Launch,Education,89540,12231,150000,1036,8.47,Completed,2026-02-18
+498,Awareness Campaign 498,Awareness Campaign,Technology,5024,924,25076,70,7.58,Completed,2026-02-04
+499,Retargeting 499,Retargeting,Real Estate,63610,8665,150000,1199,13.84,Active,2026-03-09
+500,Awareness Campaign 500,Awareness Campaign,Finance,61980,8805,150000,778,8.85,Completed,2026-03-31

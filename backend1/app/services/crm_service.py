@@ -6,7 +6,6 @@ from app.core.crm_repository import crm_repository
 from app.core.lead_scoring import score_lead
 from app.core.synthetic_crm_data import build_synthetic_dataset
 
-
 class CRMService:
     @staticmethod
     def _serialize_sample(frame) -> dict | None:
@@ -50,6 +49,14 @@ class CRMService:
         return crm_repository.create_lead(payload)
 
     @staticmethod
+    def update_lead(identifier: dict, updates: dict) -> dict | None:
+        return crm_repository.update_lead(identifier, updates)
+
+    @staticmethod
+    def delete_lead(identifier: dict) -> dict | None:
+        return crm_repository.delete_lead(identifier)
+
+    @staticmethod
     def qualify_lead(payload: dict) -> dict:
         score = score_lead(payload)
         return {
@@ -78,8 +85,24 @@ class CRMService:
         return crm_repository.create_campaign(payload)
 
     @staticmethod
+    def update_campaign(identifier: dict, updates: dict) -> dict | None:
+        return crm_repository.update_campaign(identifier, updates)
+
+    @staticmethod
+    def delete_campaign(identifier: dict) -> dict | None:
+        return crm_repository.delete_campaign(identifier)
+
+    @staticmethod
     def create_support_ticket(payload: dict) -> dict:
         return crm_repository.create_ticket(payload)
+
+    @staticmethod
+    def update_support_ticket(identifier: dict, updates: dict) -> dict | None:
+        return crm_repository.update_ticket(identifier, updates)
+
+    @staticmethod
+    def delete_support_ticket(identifier: dict) -> dict | None:
+        return crm_repository.delete_ticket(identifier)
 
     @staticmethod
     def get_insights() -> dict:

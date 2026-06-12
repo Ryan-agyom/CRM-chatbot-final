@@ -3,8 +3,8 @@ from __future__ import annotations
 import os
 from pathlib import Path
 
-import google.generativeai as genai
 from dotenv import load_dotenv
+from langchain_ollama import OllamaLLM
 
 
 ROOT_ENV = Path(__file__).resolve().parents[3] / ".env"
@@ -13,19 +13,18 @@ LOCAL_ENV = Path(__file__).resolve().parents[2] / ".env"
 load_dotenv(ROOT_ENV)
 load_dotenv(LOCAL_ENV, override=False)
 
-GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
-GEMINI_MODEL = os.getenv("GEMINI_MODEL", "gemini-2.5-flash")
+CHAT_MODEL = os.getenv("OLLAMA_CHAT_MODEL", "llama3").strip()
+OLLAMA_API_URL = os.getenv("OLLAMA_API_URL", "http://127.0.0.1:11434").strip()
+OLLAMA_API_KEY = os.getenv("OLLAMA_API_KEY", "").strip()
 
-if GEMINI_API_KEY:
-    genai.configure(api_key=GEMINI_API_KEY)
-    model = genai.GenerativeModel(GEMINI_MODEL)
-else:
-    model = None
+model = OllamaLLM(
+    model=CHAT_MODEL,
+    base_url=OLLAMA_API_URL,
+    api_key=OLLAMA_API_KEY or None,
+    temperature=0.3,
+)
 
 
 async def generate_reply(prompt: str) -> str:
-    if model is None:
-        return "The AI provider is not configured yet. Set GEMINI_API_KEY to enable model responses."
-
-    response = model.generate_content(prompt)
-    return response.text
+    response = model.invoke(prompt)
+    return str(response).strip()

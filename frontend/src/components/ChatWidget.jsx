@@ -8,6 +8,11 @@ export default function ChatWidget() {
 
   async function handleSubmit(event) {
     event.preventDefault();
+
+    if (!message.trim()) {
+      return;
+    }
+
     setIsLoading(true);
 
     try {
@@ -20,21 +25,29 @@ export default function ChatWidget() {
   }
 
   return (
-    <section className="card chatbot-panel">
-      <h2>General Chatbot</h2>
-      <p>This section is intentionally separate from CRM logic.</p>
+    <section className="card chatbot-panel" id="chat-widget">
+      <div className="panel-header">
+        <div>
+          <h2>Live Chat Assistant</h2>
+          <p>Ask anything and get instant responses from the chatbot demo.</p>
+        </div>
+        <span className="status-badge">Live Demo</span>
+      </div>
+
       <form onSubmit={handleSubmit} className="chat-form">
         <input
           value={message}
           onChange={(event) => setMessage(event.target.value)}
-          placeholder="Type a message"
+          placeholder="Ask a question or describe a task"
           disabled={isLoading}
         />
-        <button type="submit" disabled={isLoading}>
+        <button type="submit" disabled={isLoading || !message.trim()}>
           {isLoading ? "Sending..." : "Send"}
         </button>
       </form>
-      <div className="response-box">{reply}</div>
+
+      <div className="response-box" aria-live="polite">{reply}</div>
+      <p className="hint">Try: “Suggest a follow-up email for a new lead.”</p>
     </section>
   );
 }

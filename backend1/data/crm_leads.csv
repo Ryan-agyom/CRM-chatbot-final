@@ -1,502 +1,501 @@
 lead_id,customer_name,email,phone,company,industry,lead_source,budget,interest_level,status,city,created_at
-1,Michelle Dean,josephfoster@example.net,001-516-605-0009,"Gregory, Anderson and Jacobs",Real Estate,Website,40518,Medium,Converted,Johnsonberg,2026-04-21
-2,Jorge Barton,cookjuan@example.org,+1-354-400-0809x90697,Santana-Turner,Healthcare,Facebook Ads,6123,Low,Lost,Ramseyside,2026-04-22
-3,Clinton Webb,akline@example.org,(308)307-1497x067,Durham-Kramer,Technology,Facebook Ads,19169,Medium,New,Bradleyhaven,2026-05-06
-4,Julia Martin,htrujillo@example.org,740-817-8487x98530,Pierce-Arnold,Real Estate,Google Ads,4311,High,Lost,Lake Gabriel,2026-04-30
-5,Mr. George Mercado,jacqueline50@example.net,712-605-4221,Hughes-Foster,Finance,LinkedIn,44891,Medium,Qualified,South Clarence,2026-02-21
-6,Jennifer Clark,andrew52@example.net,+1-774-884-1769x257,Davis-Peterson,Real Estate,LinkedIn,13137,Medium,New,West Seanbury,2026-03-13
-7,Stacy Parker,colsen@example.com,+1-767-683-6239x924,"Deleon, Taylor and Bell",E-commerce,Chatbot,14181,Low,Converted,Port Richard,2026-02-24
-8,Daniel Alexander,nwarren@example.net,945.606.0373x697,Beck Ltd,Technology,Website,29108,High,New,South Tiffany,2026-02-09
-9,Gregory Le,catherinethompson@example.net,2819923547,Copeland Inc,Real Estate,Google Ads,48264,Medium,New,Mosesview,2026-01-10
-10,Justin Craig,stephen03@example.net,(647)779-9038x626,Turner-Morgan,Education,Instagram,25974,Low,Lost,East Jessicafurt,2026-04-02
-11,Robert Cook,nguyenstephanie@example.com,001-366-936-9700x75648,"Carr, Smith and Sellers",Healthcare,Referral,20342,High,Qualified,Port Dianachester,2026-04-22
-12,Daniel Hartman,tgates@example.com,(532)443-4117x5970,"Williams, Davis and Middleton",Real Estate,Website,26959,Medium,Converted,Calebport,2026-05-15
-13,Evan Reynolds,torreseric@example.net,355.894.4194x6331,"Tyler, Smith and Shepard",Retail,Instagram,33420,High,Converted,New Scott,2026-05-14
-14,Chelsea Sandoval,lewisconnie@example.net,+1-391-828-5401,Francis-Strong,Education,Google Ads,17680,Medium,Converted,Foleyport,2026-01-19
-15,Toni Walker,williamsimmons@example.org,001-970-709-3459x69316,Sharp PLC,Technology,Instagram,49259,Low,Qualified,West Justin,2026-01-20
-16,David Holland,darrylgraham@example.net,491.458.4342,"Becker, Gutierrez and Patterson",Technology,Instagram,44444,Low,Converted,Gutierreztown,2026-03-21
-17,John Brown,fuentesmichael@example.net,(741)761-0714x883,"Hansen, Hall and Stephens",E-commerce,Chatbot,23779,High,Lost,South Alexander,2026-03-10
-18,Craig Chen,yroman@example.org,661-955-8680x114,Mitchell Inc,Education,Chatbot,8082,High,Converted,South Ralph,2026-02-26
-19,Daniel Morales,kmorgan@example.com,+1-945-532-1260,Miller PLC,Real Estate,Website,28516,Low,Converted,South Lori,2026-03-05
-20,Mrs. Brooke Lewis,kwhite@example.org,530.884.9723x84943,"Duke, Glenn and Bush",Education,Instagram,12476,High,Converted,Jacksonborough,2026-03-19
-21,Holly Adams,xfox@example.com,+1-475-777-0475x54394,"Ramirez, Huang and Suarez",Education,Instagram,45411,High,New,Lake Anthonyburgh,2026-02-09
-22,Lori Cooper,paul36@example.net,7106198619,Travis-Hanson,E-commerce,Referral,19903,High,New,East Stephanieshire,2026-03-08
-23,Haley Myers,mitchellcynthia@example.org,832-728-9715x5359,"Lynch, Strong and Jones",Retail,LinkedIn,3532,Low,Converted,Ericaport,2026-04-23
-24,Jeffrey Allen,wanda48@example.org,945-297-5192,Sweeney Group,Retail,Chatbot,48769,High,New,West Monicafort,2026-02-10
-25,Catherine Smith,edyer@example.com,001-538-352-9375,Andersen-Stevens,Real Estate,Instagram,38675,Low,Converted,Marieland,2026-01-11
-26,Bonnie Terry,usimmons@example.net,970.333.9983x508,Peterson PLC,Education,Referral,24229,Low,New,Lindatown,2026-04-03
-27,Mark Bennett,damon14@example.org,353-592-6981x22118,Torres Ltd,Technology,Chatbot,2011,Medium,New,Simpsonton,2026-04-28
-28,Kevin Jones,emoore@example.org,580.961.8858x4561,George-Stephens,Education,LinkedIn,46504,Low,Qualified,Guerraland,2026-05-06
-29,Ashley Nicholson,vincentcraig@example.com,(329)476-9243x4479,Ross-Cruz,Healthcare,Instagram,3369,Low,Lost,Elliston,2026-02-10
-30,Martha Hawkins,sheenabrown@example.com,001-423-827-5137x97120,"Brown, Smith and Manning",Education,Facebook Ads,49041,Low,Qualified,East Colin,2026-05-17
-31,Mr. Christopher Thompson,hebertkimberly@example.org,294-652-2572,Carrillo-Johnson,Healthcare,LinkedIn,26135,High,Lost,Youngshire,2026-03-07
-32,Kenneth Jimenez,aherrera@example.org,+1-337-389-9758,Chang Group,Retail,Website,3132,High,New,Meyersport,2026-02-21
-33,Brandon Brown,lisa68@example.org,001-534-800-8228x1590,Lawson Ltd,Real Estate,Referral,4899,Medium,New,West Jacob,2026-05-17
-34,Daniel Baker,rbright@example.org,971.853.4949,Bailey-Perez,Technology,Instagram,28733,Low,Lost,Wheelershire,2026-04-18
-35,Jasmine Meyers DVM,john41@example.com,+1-726-505-7487x354,Floyd Inc,E-commerce,Google Ads,2532,High,Lost,North Ashley,2026-04-05
-36,Steven Mueller,annettepoole@example.net,746.319.5990x6278,Everett Inc,Finance,Referral,33973,Medium,Converted,New Danielmouth,2026-05-06
-37,Ariana Daniels,timothywalker@example.org,(324)243-8193,Proctor PLC,Technology,Website,33344,Low,Converted,New Scott,2026-03-22
-38,Margaret Clark,sjohnson@example.net,+1-523-237-2105x568,Dillon-Wright,E-commerce,Instagram,39510,Medium,Lost,North Matthewton,2026-01-03
-39,Wesley Douglas,donnaknight@example.net,372-421-6252,Price PLC,Retail,Referral,40404,Low,Qualified,Lake Edwardmouth,2026-05-05
-40,Jon Snyder,amanda97@example.com,640.839.9347,Mcmahon Ltd,Finance,Referral,19538,High,Converted,Kristaborough,2026-04-15
-41,Ryan Boyd Jr.,lawrence73@example.net,001-864-938-9368x61528,"Rivera, Mcdonald and Mcdowell",Finance,Website,37431,Medium,Lost,South Timothy,2026-03-29
-42,James Porter,rlyons@example.org,001-954-580-7365x45462,"Flynn, Nguyen and Larson",Retail,Google Ads,36724,High,Qualified,Gregoryshire,2026-01-15
-43,John Kim,crawfordtabitha@example.net,8549220552,Smith-Roberts,Education,Instagram,34845,High,Lost,West Markberg,2026-02-07
-44,Alisha Hodges,matthew45@example.org,001-625-414-6041x358,Hernandez-Reed,Retail,Instagram,48706,Medium,Lost,Jamesview,2026-03-12
-45,Katelyn Hull,ashleystone@example.net,+1-664-402-1939x268,"Bell, Brown and Smith",Retail,Google Ads,12054,Low,New,New Cameronmouth,2026-03-25
-46,Steven Townsend,fduncan@example.org,(952)204-5781,"Johnson, Dyer and Shelton",Healthcare,Referral,45978,High,Lost,Veronicabury,2026-05-11
-47,Willie Parker,xsmith@example.org,922.233.3697x23884,Marsh Inc,Technology,Instagram,17142,Medium,Qualified,Roberthaven,2026-01-13
-48,Jason Blackwell,anthonydavid@example.org,(315)450-2698x354,"Johnson, Pham and Harper",Retail,LinkedIn,38932,Medium,Lost,East Luis,2026-01-31
-49,Jacob Stevenson,wbrown@example.org,(358)940-5717x6864,Campbell Ltd,Real Estate,LinkedIn,12492,Medium,Qualified,Lake Holly,2026-04-24
-50,Evan Cortez,kennethcook@example.com,495-677-5292x71651,Williams-Dudley,Technology,Instagram,20393,High,Lost,South William,2026-02-13
-51,Jodi Mitchell,jonathansnyder@example.net,472-276-8355,Henderson-Williams,Finance,Google Ads,48042,Low,New,South Francisco,2026-04-06
-52,Nicholas Padilla DDS,stevenbrooks@example.net,001-896-614-8924x91475,Davis-Fowler,Technology,Chatbot,4189,Medium,Qualified,West Kurt,2026-01-05
-53,Jean Henson,lamjason@example.org,5206440334,Lucas Group,E-commerce,Referral,10357,Medium,Converted,Lake Kaylafort,2026-01-01
-54,Jasmine Williams,aliciagoodman@example.com,262-481-8267x40805,Butler LLC,Healthcare,Referral,45073,High,Lost,Lake Normashire,2026-02-09
-55,Mary Graham,pbarker@example.org,9157883572,Dillon-Perry,E-commerce,Google Ads,43388,Medium,New,Garciaton,2026-04-28
-56,Gina Campbell,rachelleach@example.com,332-246-0835,Williams-Wagner,Healthcare,Facebook Ads,44168,High,Lost,Lake Nathan,2026-03-15
-57,John Cooper,levinetimothy@example.com,(200)668-9569,Wilkins-Miller,Real Estate,Google Ads,49015,High,Lost,Powerston,2026-03-27
-58,Benjamin Morgan,garciagregory@example.com,202.439.5268x067,Gomez and Sons,Healthcare,Chatbot,33659,High,Qualified,Brandonton,2026-04-28
-59,Debra Moss,matthew12@example.com,(652)693-7849x784,Higgins LLC,Education,Google Ads,23477,High,Qualified,Daniellemouth,2026-02-03
-60,Travis James,martindaniel@example.com,(766)994-9566,Campbell-Williams,Finance,Facebook Ads,8766,Low,Lost,Davisland,2026-03-15
-61,Annette Robinson,davisjames@example.net,410.786.8281x2323,Hayes-Wilson,Education,Chatbot,19444,Low,Converted,New Kevinville,2026-05-13
-62,Joe Davis,michaelataylor@example.net,775-941-3677x32894,"Sharp, Matthews and Ferguson",Finance,Instagram,33808,Low,New,South Amychester,2026-04-17
-63,Darryl Parker,jonathanwhite@example.net,001-735-898-1114x73352,Salinas Inc,E-commerce,Chatbot,45967,Medium,New,Port Michele,2026-04-25
-64,Jessica Martinez,jadkins@example.com,553-308-3498,Hubbard-Hartman,Retail,Referral,40449,High,Qualified,Williamsside,2026-04-26
-65,Tara Benson,richard56@example.net,001-600-797-6251x68018,Harris and Sons,Finance,LinkedIn,7195,Low,Converted,New Michael,2026-01-11
-66,Allison Taylor,rebeccahood@example.com,9266556317,Perez-Yu,Technology,Google Ads,21193,High,Qualified,New Kennethmouth,2026-02-21
-67,Brenda Bryan,zachary65@example.net,001-537-373-3148,Harrison Inc,Technology,LinkedIn,19677,Medium,Converted,Colemouth,2026-02-17
-68,Jacqueline Rogers,courtney77@example.com,309.919.6064,"Jackson, Mitchell and Morgan",E-commerce,Facebook Ads,36491,High,Lost,East Gloria,2026-05-06
-69,Daniel Johnson,oconnellmichael@example.com,863-855-7196x58031,"Thomas, Lambert and Vega",Finance,Google Ads,33243,Medium,Converted,Jimmychester,2026-02-09
-70,Thomas Cox,icampbell@example.org,+1-654-937-4320x326,Wilkinson-Larsen,Healthcare,Website,33643,Medium,New,Carlstad,2026-01-06
-71,Robert Valenzuela,christopher72@example.com,911-971-1073x0727,Barnes and Sons,Technology,Referral,48780,Medium,New,Davidshire,2026-03-09
-72,Jennifer Simon,brandon72@example.net,754.495.9505,Ewing Ltd,Finance,Facebook Ads,40601,Medium,Qualified,Hamiltonstad,2026-04-07
-73,Terri Peters,rojasjason@example.org,8103861126,Martinez-Woods,Real Estate,Instagram,32612,High,Converted,Peggymouth,2026-02-06
-74,Mitchell Miller,tcruz@example.com,+1-312-378-8203x57559,Brown and Sons,Technology,LinkedIn,17872,Medium,Lost,New Jose,2026-01-03
-75,Barbara Wilson,ashort@example.net,(770)967-4433x416,Soto-Wise,E-commerce,Referral,31010,High,Lost,West Kaitlinberg,2026-01-14
-76,Lisa Cook,icook@example.com,4342993884,"Conrad, Mccormick and Navarro",Education,Google Ads,12404,Medium,Lost,West Michael,2026-04-12
-77,Adam Ewing,sue87@example.net,(614)230-6025,Smith-Martinez,Finance,LinkedIn,4746,Low,Lost,Torresview,2026-05-07
-78,Reginald Baker,kyleburns@example.com,4608500858,Evans-Knight,Real Estate,Website,6523,High,Qualified,Tammieburgh,2026-03-27
-79,Lindsey Collins,shane01@example.org,(332)287-1170,Madden and Sons,Healthcare,Facebook Ads,8271,Medium,Lost,North Ryanburgh,2026-02-13
-80,Katherine Wood,nina79@example.net,412-450-8155,"Brown, Pearson and Terrell",Retail,Google Ads,15199,High,Lost,Smithfurt,2026-02-05
-81,Brian Flowers,rbooth@example.com,943-501-3430,Martinez-Evans,Healthcare,Referral,28784,High,New,New Christina,2026-02-13
-82,Vincent Woods,samantha23@example.com,366-272-7150,"Joyce, Davies and Hunter",Real Estate,LinkedIn,18903,High,Converted,Alexandraberg,2026-01-08
-83,Stephanie Cunningham,brian24@example.net,001-920-395-5137x064,Chapman-Meadows,Finance,Google Ads,37592,Low,Converted,Lake Joseph,2026-02-16
-84,Scott Johnson,reedjulie@example.com,602-797-8674x7825,Brewer-Rodriguez,Technology,Referral,34576,Medium,Converted,Normamouth,2026-02-01
-85,Kari Day,cassidy83@example.net,+1-970-654-3763x86028,"Mitchell, Phillips and Thompson",Healthcare,LinkedIn,4444,Medium,Qualified,Garciatown,2026-04-26
-86,William Farrell,mooremichelle@example.net,001-620-807-1436x471,Campbell-Matthews,Education,Website,24969,Medium,New,Washingtonstad,2026-04-13
-87,Jessica Anderson,christopheryates@example.net,506.340.5355x7180,"Becker, Daniel and Daniels",Education,Facebook Ads,4506,High,New,Austinland,2026-05-08
-88,Mathew Stevens,leonardkatherine@example.org,566.750.7223x158,"Allen, Clements and Snyder",Real Estate,Facebook Ads,23893,High,Qualified,South Amanda,2026-04-04
-89,Matthew Gibson,suzanne88@example.com,001-456-654-9061x906,Barton and Sons,E-commerce,Google Ads,39839,High,Qualified,Roytown,2026-05-08
-90,Patricia Rogers,samanthaclark@example.com,731-342-5179,"Martin, Espinoza and Wiley",Education,LinkedIn,22394,Low,New,Juliebury,2026-04-19
-91,George Roberson,fordmatthew@example.net,236.743.7949x344,"Wagner, Mason and Parker",Education,Website,24884,Medium,Lost,Loriborough,2026-03-11
-92,Lisa Reynolds,shannon29@example.net,+1-560-262-4502,"Woods, Vargas and Larson",Finance,Chatbot,6383,Low,Qualified,Port Joelton,2026-05-03
-93,Lauren Hoffman,ysmith@example.com,(707)866-8858x301,"Powers, Garcia and Pena",Education,LinkedIn,8413,Medium,Converted,Port Katherinechester,2026-04-24
-94,Kaitlin Barnes,danielscott@example.org,(693)669-7531x460,Hunt Group,E-commerce,Facebook Ads,17602,Medium,Qualified,North Colleen,2026-04-02
-95,Charles Beasley,burgessdarren@example.com,+1-295-778-9870x4195,"Snow, Pace and Smith",Technology,Google Ads,13580,Medium,Converted,Travisfurt,2026-01-12
-96,Janet Ward,frank81@example.org,877.844.3044,Baker-Marshall,Finance,Chatbot,47633,High,Lost,East Lauren,2026-01-07
-97,Dawn Lawrence,michaelmccoy@example.com,001-552-405-8114x352,Fox-Fitzgerald,Real Estate,Instagram,48767,Medium,Lost,Wellston,2026-05-10
-98,Allison Hudson,ncobb@example.com,987-511-6148,"Avila, Gregory and Dunn",Education,Website,49059,High,Qualified,South Amberberg,2026-01-15
-99,Rebecca Warren,matthewwright@example.org,(227)461-1233,Dorsey-Jones,Education,Facebook Ads,15207,Low,Converted,West Erin,2026-03-22
-100,James Lopez,maddoxtracey@example.org,969.422.7986,"Mayo, Stafford and Schwartz",Retail,LinkedIn,45881,High,Converted,Myersstad,2026-05-16
-101,Rebecca Wright,nicholsrachel@example.com,001-654-525-4045x9175,Ross-Lee,Healthcare,Chatbot,40574,High,New,West Scott,2026-02-21
-102,Melinda Cordova,erinfernandez@example.org,+1-902-722-3395x8707,Jackson-Perez,Retail,Website,26649,Medium,Converted,East Elizabeth,2026-03-17
-103,David Mckay,samantha44@example.com,786-276-4589x981,Tucker-Flores,Technology,Facebook Ads,1469,High,Converted,Rachelberg,2026-02-17
-104,Melissa Bishop,aaronmcdowell@example.org,(566)302-7633,Dunn Inc,Healthcare,Instagram,20722,Medium,New,Michaelmouth,2026-05-15
-105,Joseph Mueller,alyssa90@example.net,+1-274-838-4585x233,Patterson PLC,Real Estate,LinkedIn,32963,High,New,Alexandraville,2026-05-08
-106,Valerie Patel,ebrown@example.net,463.583.6960,Joyce LLC,Finance,Website,28996,High,Lost,North Denise,2026-03-04
-107,Michael Hughes,juliablack@example.org,001-648-747-7778x220,Sanchez-Boone,Healthcare,Instagram,33287,Medium,Converted,Stevenside,2026-03-23
-108,Gloria Abbott,karen20@example.org,+1-235-975-8105x14017,Keller LLC,Education,Facebook Ads,8089,High,Lost,West Jesus,2026-03-30
-109,Karla Williams,grayrobert@example.com,001-915-238-8933x8238,Taylor Group,Technology,Website,42776,Low,Converted,West Jessica,2026-02-20
-110,Michael Walker,jonathan56@example.net,(811)360-3341,Cannon-Bradley,Technology,LinkedIn,26583,High,Qualified,Hallshire,2026-05-05
-111,Jared Gonzales,hahnelizabeth@example.net,999-985-6361,West Inc,Retail,Facebook Ads,6775,Low,Qualified,Port Christopher,2026-03-03
-112,Dawn Reed,kenneth14@example.com,+1-368-929-4462x66163,"Spencer, Edwards and King",Real Estate,Referral,36338,Medium,Qualified,East Micheal,2026-04-27
-113,Mr. Albert Potter Jr.,tyroneking@example.com,001-919-358-5432x264,Taylor-Smith,Education,LinkedIn,2738,High,Qualified,Lake Sheila,2026-03-05
-114,Emily Clark,gomezkathryn@example.net,(319)900-7068x5208,"Hicks, Norton and Higgins",Retail,Chatbot,17190,Medium,Lost,Lindsaymouth,2026-04-19
-115,Brian Gonzalez,michael26@example.org,+1-840-969-9132,King-Salazar,E-commerce,Chatbot,34216,High,Lost,Mcdonaldbury,2026-04-29
-116,Isaac Morris,katherinelynch@example.net,001-692-416-4794x938,"Fischer, Garner and Wilson",Healthcare,LinkedIn,13135,Low,Converted,Harrisonbury,2026-02-04
-117,Joshua Martin,toddrobinson@example.com,+1-967-689-4343,"Stevens, Warner and Allen",Retail,Facebook Ads,37503,Low,New,New Frank,2026-01-20
-118,Scott Palmer,oliu@example.org,949.865.9508x8170,Hansen-Guerra,Healthcare,Website,49044,Medium,Lost,New Meagan,2026-05-11
-119,Justin Berry,brookemoss@example.com,941.324.9170x846,Long-Nicholson,Retail,Google Ads,19763,Medium,Qualified,East Pennyberg,2026-04-24
-120,Kenneth Rogers,vparks@example.net,645-831-5578x495,Robinson-Mcdonald,Education,Website,18613,Low,Converted,Marissaborough,2026-03-04
-121,Thomas Hardin,fisherchristopher@example.com,214-814-1741,Mcmillan and Sons,Retail,Facebook Ads,29924,High,Converted,Christophershire,2026-04-18
-122,Jeremy Perry,david27@example.com,(373)413-1203x08162,Parker-Smith,Finance,Instagram,21710,Low,Converted,West Jason,2026-04-10
-123,Nancy Pierce,rodriguezrichard@example.com,498.254.8134x11592,"Davis, Williams and Harris",Healthcare,Google Ads,34227,Medium,New,Thorntonbury,2026-05-11
-124,Kristin Gomez,alexander68@example.org,(922)381-8328,Lee LLC,Healthcare,Chatbot,17777,Low,New,Singletonhaven,2026-01-15
-125,Shannon Mitchell,jbates@example.com,(225)543-7954,Swanson Group,E-commerce,Facebook Ads,33212,Low,Lost,New Michaelbury,2026-03-20
-126,Zachary Thomas,williamtate@example.net,705-747-7170,Williamson-James,Real Estate,Referral,1159,Low,Qualified,Millerhaven,2026-04-28
-127,Holly Thompson,zsims@example.org,7257587661,Walker Inc,Finance,Instagram,28630,Low,Converted,South Dustinton,2026-04-21
-128,Richard Ross,aprilmclaughlin@example.org,914.900.0770,Johnson-Donovan,Real Estate,Website,17016,Low,Converted,Lake Courtney,2026-01-13
-129,Robert Neal,karinabell@example.com,923-677-6325,Rivera-Cordova,Healthcare,Referral,25520,Low,Converted,Quinnburgh,2026-03-26
-130,Brooke Banks,hughesmichael@example.com,686.401.9548x155,"Woods, Curry and Lane",Healthcare,Facebook Ads,9157,Low,Qualified,Paynehaven,2026-03-24
-131,Nicole Fletcher,miguelestrada@example.org,(585)311-2159x24345,Sanchez Inc,Finance,Instagram,8345,Low,Qualified,Fosterburgh,2026-05-10
-132,Patrick Meza,pstrickland@example.org,+1-880-808-1294x372,Jones-Kennedy,Finance,Facebook Ads,33319,Low,Qualified,Mcconnellside,2026-04-04
-133,Wesley Bond,chad41@example.org,706.337.9602x67894,Luna and Sons,Real Estate,Instagram,4996,High,Lost,North Kylie,2026-02-26
-134,Tammy Robertson,zhoward@example.net,+1-983-712-2303,Williams-Mcdaniel,E-commerce,Chatbot,12301,Medium,Lost,Port Diamond,2026-03-19
-135,Robert Austin,medinajames@example.org,+1-401-457-3764x06556,Mills-Hernandez,Retail,Instagram,17461,Low,Lost,South Barbara,2026-03-10
-136,Sara Barker,vmacdonald@example.org,(340)654-0649x2750,"Weiss, Lam and Ortiz",Technology,Chatbot,44918,High,Qualified,West Danielleside,2026-03-27
-137,Steven Davis,holly65@example.com,+1-664-636-0334x289,James-Reid,Retail,LinkedIn,7340,Medium,Converted,Port Kiara,2026-02-22
-138,Carrie Franklin,wilkinsrobert@example.org,9273369001,James-Cooper,Finance,Website,41763,Medium,Converted,Austinport,2026-05-05
-139,Julie Butler,travismorgan@example.net,001-485-215-6882x8030,Henry-Gardner,Technology,Instagram,37109,Low,New,Bergerside,2026-03-10
-140,Jessica Ramos,juliespencer@example.com,891-572-7415,Shaffer Ltd,Retail,Chatbot,23843,High,New,New Jennifer,2026-02-23
-141,Monica Tapia,osmith@example.net,+1-477-242-6535x8064,"Davis, Morrow and Lambert",Technology,Google Ads,49903,High,Converted,Shepherdchester,2026-05-15
-142,Lauren Armstrong,timlittle@example.com,(682)494-6077x647,Shields-Arellano,Healthcare,Website,11112,High,Qualified,Lake Jessicaville,2026-04-21
-143,Marcus Hanson,dana58@example.net,695.291.5265x415,"Stout, Dougherty and Williams",Education,Chatbot,19854,Low,Lost,Staffordborough,2026-02-06
-144,Dr. Jill King,jessica89@example.org,+1-220-773-5022x2588,Miller-Daniels,Retail,Referral,8475,Low,Qualified,Ayersside,2026-02-17
-145,William Callahan,julia51@example.org,(287)498-9236x654,"Lawson, Day and Jimenez",Technology,LinkedIn,12138,Medium,Qualified,North Davidshire,2026-03-23
-146,Jordan Cooley,jessica53@example.org,+1-408-877-1370x417,"Cruz, Butler and Foster",Healthcare,Referral,30106,Medium,Converted,Taylorburgh,2026-01-31
-147,Angel Miller,vincenthart@example.com,708.728.7065x6106,Myers-Rodriguez,Retail,Chatbot,35148,High,Lost,Michaelborough,2026-02-11
-148,Natalie Johnson,robertnelson@example.org,001-246-322-8345,Walters-Henson,Technology,Chatbot,46941,High,Qualified,West Danielle,2026-02-11
-149,Cynthia Rivera,choward@example.org,001-866-814-7508x349,Foley Ltd,Technology,Google Ads,35592,Low,Lost,Margaretberg,2026-04-27
-150,Bradley Perez,rickeyjohnson@example.com,(719)417-3839,Brown Inc,Education,LinkedIn,35183,High,New,Figueroaview,2026-03-16
-151,George Patel,moranrichard@example.net,215.384.6151,Hale-Watson,Real Estate,LinkedIn,4705,Low,New,South Alexandraville,2026-05-05
-152,Brooke Palmer,freemantravis@example.org,259-744-9900,Thomas-Mata,Technology,Website,23779,High,Lost,Lake Natalieport,2026-04-08
-153,Anna Nichols,andre92@example.com,500.320.7058,Jefferson-Roberts,Technology,Referral,26385,Medium,Qualified,South Austinshire,2026-03-15
-154,Tiffany Medina,kenneth47@example.org,001-435-922-9426x397,Blair-Clark,Healthcare,Google Ads,30668,Medium,New,East Josephchester,2026-01-02
-155,Noah Harris,maryball@example.org,822-322-7676x114,"Wilson, Chen and Keller",Technology,LinkedIn,26212,Medium,Lost,Davisland,2026-02-20
-156,Eric Smith,christophergriffin@example.org,543.992.7631,Jones-Jensen,Retail,Google Ads,40588,Low,Converted,West Bridgetside,2026-04-24
-157,Joyce Butler,amy09@example.com,001-756-273-9889x0949,"Barnes, Dennis and Peck",Finance,Website,11880,Medium,New,Lake Elizabeth,2026-04-21
-158,Jay King,thompsonjoanna@example.com,932.844.2286x099,Marshall-Dixon,E-commerce,Google Ads,21583,Medium,Qualified,New Gregorytown,2026-02-06
-159,Vincent Fitzgerald,kristenrivera@example.org,(675)642-7194x55297,Cruz and Sons,Healthcare,Google Ads,18824,Low,Converted,New Austin,2026-01-21
-160,Cynthia Miller,christopheranthony@example.org,+1-496-792-9041x29365,"Mendez, Dudley and Reeves",Education,LinkedIn,13333,Low,Qualified,New Amanda,2026-01-04
-161,Ashley Torres,rlutz@example.com,536.240.8007x6335,Phillips-Marsh,Retail,LinkedIn,10281,High,New,Staceychester,2026-02-23
-162,Matthew Smith,ljackson@example.net,+1-373-675-1397x2125,Woodard Group,Technology,Instagram,47807,High,Converted,Dudleystad,2026-02-18
-163,Brandi Kim,danielle79@example.net,316.832.9200x45010,Wright-Myers,E-commerce,Instagram,23392,High,New,Tracyview,2026-04-10
-164,Crystal Clark,jessicajohnson@example.org,7185178371,"Zamora, Mcclure and Andrews",Technology,Facebook Ads,7218,High,Converted,Taylormouth,2026-03-15
-165,Daniel Stone,wnielsen@example.com,7948787726,Barnes-Burns,Healthcare,Instagram,5602,High,New,New James,2026-04-25
-166,Cindy Delacruz,carolynproctor@example.org,+1-423-988-7025x941,Ellis-Gutierrez,Healthcare,Website,24209,Low,Lost,East Jeffrey,2026-01-30
-167,Ronald Reynolds,gibsonkimberly@example.net,(429)904-1630x18235,"Ward, Robbins and Manning",Real Estate,Chatbot,49144,Medium,Lost,Taylorstad,2026-02-02
-168,Dennis Hensley,sean50@example.com,915.429.6853x5472,Smith Group,Finance,Referral,34637,High,Qualified,Rogersfort,2026-03-25
-169,Jennifer Dunn,amanda45@example.org,213.674.3245,"Nguyen, Smith and Ramsey",Real Estate,Facebook Ads,31289,Low,Lost,North Curtisbury,2026-02-12
-170,Denise Smith,rfletcher@example.com,766.746.4794,Oneal and Sons,Education,Instagram,20283,Low,Qualified,Lake Tanyaside,2026-05-14
-171,John Reyes,daniellemiller@example.org,544.328.2279x97675,Brennan-Lopez,E-commerce,Referral,23432,Low,Qualified,Thomasport,2026-05-08
-172,John Holder,tammy88@example.org,810.933.5163,Harvey Ltd,Technology,Website,8725,High,Lost,Ellisport,2026-03-26
-173,Scott Parker,johnsonbilly@example.org,(897)347-5355,Silva Ltd,Retail,Referral,29467,Low,New,Griffinchester,2026-03-30
-174,Crystal Price,miguelclark@example.com,7648002633,Fowler LLC,Education,LinkedIn,36493,Low,Qualified,New Vincentberg,2026-01-31
-175,Sara Ferguson,ryanevans@example.net,(483)666-4151x612,"Mitchell, Velasquez and Foley",Healthcare,Referral,7991,Medium,New,Youngberg,2026-01-08
-176,Kathleen Douglas,michael09@example.net,(510)515-7231x95633,Cooke-Cohen,Education,Google Ads,13357,Low,Converted,Marcusburgh,2026-03-17
-177,Stacy Myers,hectorchristensen@example.net,001-729-447-7061x5502,"Rowe, Erickson and Hurley",Finance,Referral,28149,Low,Lost,North Heathermouth,2026-01-13
-178,Margaret Crawford,paulnewman@example.net,+1-563-710-5795,"Williams, Rhodes and Foster",Real Estate,Instagram,23160,Low,Qualified,East Rickyburgh,2026-01-20
-179,Sean Cruz,aguirrebarbara@example.org,001-396-342-0083x22602,"Stephenson, Duncan and Clarke",Healthcare,Referral,36069,Medium,New,Adamsberg,2026-02-28
-180,Emily Johnson,jamesquinn@example.com,200-765-6238x645,King-Martinez,Real Estate,Website,2717,Low,Lost,Dannyfort,2026-03-23
-181,Brittany Hoffman,alejandro94@example.com,+1-930-654-9051x0165,Jones-Wilson,Finance,Facebook Ads,39444,High,New,Dominguezshire,2026-01-27
-182,Michelle Fry,gutierrezmelissa@example.net,638.439.0355x788,Torres-Baker,Retail,Facebook Ads,2226,High,Lost,Reedstad,2026-04-19
-183,Jeremiah Burton,sherri98@example.net,654-628-2967x3375,Carter Inc,Finance,Referral,8684,Low,Lost,New Markbury,2026-01-24
-184,Tiffany Roberts,hayden58@example.org,001-823-399-5515,Downs-Anderson,Retail,Google Ads,32157,Medium,Converted,East Jasontown,2026-02-11
-185,Daniel Pineda,christinebranch@example.net,+1-902-464-6915x619,Patel-Jacobs,Technology,Facebook Ads,24993,Low,Qualified,Carterberg,2026-04-09
-186,John Norris,crystalhenderson@example.com,+1-518-207-4980,"Reed, Mosley and Clayton",Healthcare,LinkedIn,43191,High,Qualified,Lake Lawrence,2026-03-08
-187,Miranda Price,thomassullivan@example.net,552-499-1967,Simmons PLC,Retail,Referral,15947,Low,Lost,Martinezview,2026-04-27
-188,Laura Smith,vcortez@example.net,(412)628-1493x9436,"Young, Juarez and Dalton",Technology,Referral,44551,Low,New,Lake Julieport,2026-03-09
-189,Michelle Case,mcguirechad@example.org,(540)758-3306,Hardy LLC,Healthcare,Referral,6496,Medium,New,East Rachelberg,2026-03-04
-190,Jean Lamb,randall31@example.net,743-592-7774x5281,Taylor PLC,E-commerce,Instagram,48648,High,Converted,North Alexandratown,2026-01-19
-191,Laura Schultz,hcameron@example.org,6218819827,Johnson LLC,Education,Google Ads,41589,Medium,New,Buchananmouth,2026-03-16
-192,Lauren Brown,maria75@example.net,8938967707,Shea-Davis,Technology,LinkedIn,49653,Medium,Qualified,Port Jessicaton,2026-03-12
-193,James Ortega,emilysanford@example.org,(842)818-5401,"Macias, Duran and Larson",Finance,Chatbot,23134,Low,New,Kevinton,2026-03-28
-194,Dale Mayer,drodgers@example.com,759.943.7638x8790,Johnson-Huynh,E-commerce,Instagram,40434,Medium,New,New Lauren,2026-04-09
-195,Russell Best,katelyn18@example.com,+1-957-819-6840x259,Velasquez-Bernard,Healthcare,Instagram,47851,High,Qualified,East Kyle,2026-03-10
-196,Lauren Rodriguez,sara41@example.net,(223)399-3993x2625,Riley-Irwin,Finance,Google Ads,35168,High,New,Lake Tracy,2026-02-11
-197,Faith Fleming,lekelly@example.com,+1-545-689-2048x81828,"Meyer, Chen and Jones",Technology,LinkedIn,25250,High,New,Hannahfurt,2026-03-08
-198,Craig Jarvis,santosshannon@example.com,+1-813-230-8925x1259,"Mccoy, Smith and Hansen",Healthcare,LinkedIn,47516,Medium,Converted,Jordanmouth,2026-03-26
-199,Erica Norton,velasquezkelli@example.com,+1-525-649-9692x88392,"Brown, Barber and Roberts",Finance,Google Ads,39984,High,Lost,West Petermouth,2026-04-09
-200,Andrew Berry,luis10@example.org,670.328.6649,Wheeler Group,Healthcare,LinkedIn,1814,Low,Qualified,South Rebeccamouth,2026-01-03
-201,Debbie Andrews,barberelizabeth@example.net,+1-375-713-3102x123,"Smith, Marshall and Lewis",Finance,Google Ads,40259,Medium,Lost,Jonathantown,2026-01-12
-202,Danielle Richardson,dnelson@example.net,333-924-1736x803,Leonard-Burgess,E-commerce,Referral,46682,High,New,Jennifertown,2026-01-17
-203,Chad Hunt,jill81@example.org,321-224-9000x457,Downs Group,Healthcare,Chatbot,47087,Medium,Converted,Port Susan,2026-01-07
-204,Michael Curry,rlutz@example.com,863-439-2300x391,Humphrey-Walker,Finance,Facebook Ads,41808,Low,Qualified,Barronmouth,2026-04-28
-205,Michelle Kemp,foxandrew@example.com,+1-778-284-5374,Crosby-Wilkinson,E-commerce,Chatbot,41210,Medium,New,South Joshua,2026-04-19
-206,Trevor Murray,arthurrodriguez@example.org,466-504-3411x317,Thomas-Wang,Healthcare,Referral,49948,Low,Qualified,Kristinberg,2026-04-20
-207,Sarah Contreras,peggy05@example.com,+1-676-926-6750x419,Hunt-Phillips,Technology,Chatbot,3566,Medium,Converted,Perkinsberg,2026-02-04
-208,Renee Rodgers,parkerjamie@example.net,880.653.6999x296,Boyd-Cline,Education,Chatbot,35355,Low,Converted,Lake Jessicastad,2026-03-21
-209,Cindy Liu,brodriguez@example.org,(202)492-3285x02522,Martin Ltd,Healthcare,Chatbot,33890,Low,New,Amberside,2026-03-03
-210,Christine Clements,browntyler@example.com,+1-373-371-7564x595,Ali-White,Real Estate,Referral,41544,High,Converted,Bobbyview,2026-03-15
-211,Michael Mccarthy,darren97@example.com,415.677.7484x9913,Wise LLC,Real Estate,Google Ads,21701,Low,Qualified,Candiceshire,2026-01-20
-212,Isaiah Perry,nicole59@example.com,+1-298-874-0757x9457,Morton and Sons,Finance,Google Ads,24044,Medium,Qualified,Colemanfort,2026-03-21
-213,Manuel Martin,mia20@example.org,891-201-8804,Chandler Ltd,Technology,Instagram,34230,Medium,Lost,Lake James,2026-05-14
-214,Brittany Taylor,robertmccarthy@example.net,(964)961-1188,Herring Inc,Finance,Website,36897,Medium,Converted,East Latoya,2026-01-27
-215,Travis Buchanan,joe39@example.com,001-630-588-0296x549,Dennis-Paul,E-commerce,Facebook Ads,9845,Low,Lost,New Jennifer,2026-04-16
-216,Lisa Christian,jonesjasmin@example.net,966.750.7036,"Carlson, Jacobs and Santana",Retail,LinkedIn,11973,Medium,New,Davidville,2026-05-06
-217,Paul Johnston,michellelyons@example.com,460.475.3705x312,Burns-Barry,Finance,Website,9187,High,Qualified,Cookbury,2026-03-09
-218,Belinda Lamb,heather43@example.org,8844111954,Andrews Ltd,Technology,Referral,40706,Medium,New,Lake Mariahmouth,2026-02-05
-219,Amy Guzman,marksnow@example.net,001-759-586-2012,Rodriguez LLC,Technology,Chatbot,9904,Low,Lost,North Janetport,2026-01-02
-220,Dr. Ann Chung,brittney45@example.com,930.289.3376x90568,"Pham, Patton and Atkins",E-commerce,Website,34228,Medium,Lost,Rachelview,2026-01-05
-221,Sarah Lynch,jterry@example.net,549.392.8548x538,Oneal Inc,Healthcare,Referral,18462,Medium,Qualified,Lake Thomas,2026-03-01
-222,Kyle Johnson,bowenjulie@example.org,249.918.7445x0722,Curtis Inc,Finance,Referral,38637,Low,New,Michaelberg,2026-02-19
-223,George Roberts,mkirby@example.net,001-378-770-1340x844,Turner PLC,Finance,Website,25857,High,Qualified,Lewisfurt,2026-01-09
-224,Jonathan Thomas,danielthompson@example.org,(320)694-0687x2622,Preston-Brown,Technology,Referral,4775,Low,Lost,Michelleton,2026-01-12
-225,Marcus Smith,rosariokayla@example.net,366.493.6597,"Dalton, Chapman and Haas",Finance,Instagram,33374,Medium,Lost,North Timothyfurt,2026-02-08
-226,Matthew Robinson,jeremyjohnson@example.org,854.777.0218,Wang and Sons,Technology,Google Ads,9775,High,New,West Victorialand,2026-03-04
-227,Patty Jones,larsenmichelle@example.com,597-360-9009x22330,Henson-Young,Healthcare,Chatbot,23724,High,Lost,Petersenberg,2026-03-17
-228,Christopher Richardson,amartin@example.net,(309)205-7265,Powers-Brown,Education,Google Ads,49545,Low,New,New Steveport,2026-04-09
-229,Michael Reyes,zfletcher@example.com,2909202440,Perry Ltd,E-commerce,Website,16986,Medium,Converted,New Robertmouth,2026-04-18
-230,Emma Oliver,abrown@example.com,(202)994-4417,"Hicks, Carter and Scott",E-commerce,Chatbot,3846,Low,Lost,Davisburgh,2026-05-12
-231,Gary Ward,timothy86@example.org,971-402-9057x83465,Carter Inc,Healthcare,Google Ads,4787,Medium,New,East Edward,2026-01-12
-232,Lauren Tate,torresashlee@example.net,+1-446-795-8071,"Walker, Lewis and Hodges",Healthcare,Website,44331,High,Qualified,New Claireton,2026-02-15
-233,Robert Moreno,rachaelgrant@example.org,809-852-5943,Price Inc,Education,Instagram,5338,High,Qualified,South Stacey,2026-02-28
-234,Nicholas Rosales,gainessamantha@example.org,235-712-5709x15029,Castro-Barron,Finance,Website,6279,Medium,Converted,Shaunberg,2026-05-15
-235,Megan Evans,ganderson@example.org,+1-254-890-8035x963,"Smith, Mason and Johnson",Technology,LinkedIn,49130,Low,Converted,Johnsonside,2026-04-16
-236,Richard Willis,phillipscameron@example.com,+1-805-857-1749x54169,Andrews LLC,Technology,Chatbot,3901,Medium,New,Andrewside,2026-01-05
-237,Joshua Lewis,brianavila@example.org,+1-678-558-7489,West-Kennedy,Education,Chatbot,20971,Medium,New,Joshuastad,2026-04-27
-238,Pamela Gray,justin53@example.com,+1-813-668-8053x124,"Mcgee, Ramirez and Martinez",Education,Chatbot,42582,Low,Lost,Lake Amandafort,2026-03-06
-239,Peter West,vlewis@example.net,565.900.1670x19625,Davis-Ramos,Real Estate,Referral,43690,Low,Lost,Jessicaton,2026-01-25
-240,James Juarez,kglover@example.com,(460)836-8560,Lewis-Nguyen,Education,Facebook Ads,44979,Low,New,East Jason,2026-04-07
-241,Kathryn Bullock,zacharywoodard@example.com,+1-860-628-4197x8790,Rogers-Lucas,Education,Referral,5733,Medium,Lost,West Ericport,2026-01-28
-242,Christopher Adams,chrisrichard@example.org,201-638-0814,Mitchell PLC,Technology,Chatbot,35160,Low,Qualified,Lake Kellyburgh,2026-01-15
-243,Christopher Washington,lsmith@example.com,354.240.4268,Wells Ltd,Real Estate,Facebook Ads,26694,High,Lost,Whitehaven,2026-01-22
-244,Rachel Harris,karenbryant@example.com,6198088058,"Weiss, Jackson and Mueller",Real Estate,Chatbot,11457,Low,New,Lake Shannon,2026-05-08
-245,Ashley Dominguez,dylan24@example.com,979-881-1736,"Thompson, Collins and Taylor",E-commerce,Referral,36760,Low,Qualified,Sanchezland,2026-03-07
-246,Tanya Lozano,simmonstammy@example.net,(347)913-3802x7479,Martinez-Archer,Education,Chatbot,22649,Low,Lost,Lake Jefferystad,2026-02-18
-247,Terry Patel,michaelmccullough@example.com,497.979.4696x5354,Jenkins Ltd,Technology,Chatbot,21735,Low,Lost,New Lisa,2026-04-22
-248,Daniel Wagner,peter51@example.net,577.487.2405x59354,Fletcher LLC,Technology,Website,21702,Medium,Converted,North Jennifer,2026-02-14
-249,Jeffrey Mathis,paul29@example.net,001-542-769-1298x405,Simmons PLC,Finance,Website,21355,High,New,Leslieport,2026-03-11
-250,Jennifer Moore,fordangela@example.org,911-569-9589,Goodman-Wheeler,Education,LinkedIn,27354,Medium,New,Russellchester,2026-04-02
-251,Tammy Brown,annatodd@example.net,001-951-832-3059,"Myers, Torres and Martin",Healthcare,Facebook Ads,19624,Low,Lost,East Christopherchester,2026-03-17
-252,Clinton Hamilton,kirbytiffany@example.org,001-592-589-5309x9491,Wilson-Smith,Retail,Chatbot,1911,High,Qualified,Eatonbury,2026-04-04
-253,Shannon Dyer,hdavis@example.com,380.653.2760x90359,Mack-Miranda,Retail,LinkedIn,38264,High,New,Georgemouth,2026-02-28
-254,Mark Adams,kthompson@example.org,(640)742-3824,Anderson-Thomas,Real Estate,Referral,4031,Medium,Lost,New Craigland,2026-04-14
-255,Monica Moore,brittneypierce@example.org,616-673-8222x678,"Jones, Garcia and Nelson",Retail,Google Ads,15281,Low,New,Gallagherstad,2026-03-09
-256,Amy Lambert,jasmineboone@example.net,001-334-867-0191,"Blair, Klein and Wagner",Healthcare,Google Ads,10000,Medium,Lost,Tammytown,2026-05-05
-257,Nathan Foster,mariecooper@example.net,(424)501-8451,"Oconnor, Harrison and Noble",Finance,Instagram,26718,Low,Qualified,Roberttown,2026-03-18
-258,Christina White,adamseric@example.org,(323)308-5496x7635,Brown-Atkins,Healthcare,Facebook Ads,46473,Medium,Converted,Andersonport,2026-02-27
-259,Cole Reynolds Jr.,cynthia80@example.net,950.931.8708,"Simmons, Burns and Allen",Real Estate,Google Ads,39626,Low,New,Danamouth,2026-04-23
-260,Timothy Dixon,matthew19@example.org,001-740-203-4157x0129,Moody-Blake,Finance,LinkedIn,38169,Low,Qualified,North Raymond,2026-04-07
-261,Jaime Taylor,julia44@example.net,206-810-6422,"Cooper, Alvarado and Weiss",Retail,Instagram,4825,Low,Lost,Jacksonmouth,2026-03-25
-262,Stacy Paul,tiffany37@example.com,001-241-813-0742x65552,Allen Inc,Retail,Referral,13937,Low,New,Conleyton,2026-03-14
-263,Brent Zuniga,fjohnson@example.net,(527)754-3415x10583,Alvarez-Mckay,E-commerce,Google Ads,12927,High,Lost,Lake Michaeltown,2026-03-29
-264,Aaron Mclean,qhenderson@example.net,001-769-417-0274x3259,"Marshall, Pitts and Woods",Technology,Instagram,4760,Low,Qualified,South Jermaine,2026-03-27
-265,Joshua Thomas,zacharydougherty@example.net,762.699.3813x878,"Huynh, Lee and Johnson",Healthcare,Google Ads,28977,High,Qualified,New Peterfort,2026-04-22
-266,Bryan Rios DDS,madison31@example.org,(383)508-5606x7503,Jensen PLC,Education,Chatbot,7691,High,New,New Jeffbury,2026-01-19
-267,Amanda Sullivan,angelagarcia@example.net,967.661.0671x08403,Willis-Hughes,Finance,Google Ads,26403,High,Converted,Port Maryton,2026-02-26
-268,Brent Anderson,alexahoffman@example.com,735-767-3838,Walker Inc,Retail,Chatbot,30265,Medium,Qualified,Christopherburgh,2026-01-30
-269,Nancy Montgomery,jamesyoung@example.com,+1-911-970-7150x9567,Campbell-Boyer,Retail,Website,11361,Medium,Qualified,Sandraberg,2026-03-21
-270,Katherine Li,matthew86@example.com,5406100228,Avila-Scott,Real Estate,Google Ads,18500,Medium,Qualified,West Gary,2026-03-25
-271,John Berry,ttaylor@example.com,001-427-405-2770x485,"Henry, Edwards and Peterson",Healthcare,Instagram,5650,Medium,Lost,Lake John,2026-03-03
-272,Kristen Haynes,megan26@example.net,001-360-372-3085x393,Whitehead and Sons,Technology,Facebook Ads,16496,High,Lost,Mooneyfurt,2026-04-09
-273,Alexis Jones,rogerskirsten@example.net,+1-339-937-1417,Mitchell-Noble,Real Estate,Referral,44962,Low,New,South Jason,2026-01-15
-274,Zachary Wood,jglenn@example.net,417-705-5975,Ware-Jennings,Technology,Facebook Ads,30415,Medium,New,Ashleymouth,2026-05-08
-275,Mr. Jacob Mcknight,william83@example.net,933-850-5871x23408,Anderson LLC,Education,Instagram,23963,Low,Qualified,Lake Miranda,2026-04-14
-276,Zachary Key,grichardson@example.org,656.229.4159x40049,Estrada-Vega,Finance,Facebook Ads,21980,High,Lost,Jeffreyshire,2026-01-12
-277,Maria Reyes,pstewart@example.org,001-654-713-9732,White-Carter,Real Estate,Google Ads,38856,Medium,Qualified,Richardborough,2026-02-26
-278,Adam James,uneal@example.com,+1-812-671-9569x19309,Baker Group,Healthcare,Google Ads,49518,Medium,Lost,Leeburgh,2026-05-04
-279,Brittney Meadows,cshah@example.com,880-817-4624,Lopez-Henry,Retail,Instagram,28822,High,Lost,Lake Patrick,2026-04-28
-280,Nathan Johnson,felliott@example.com,911-626-8982,Arroyo Ltd,E-commerce,Instagram,16161,Low,Qualified,Williamsstad,2026-04-23
-281,Robert Mitchell,rebecca30@example.org,(885)627-7158x24694,Henry-Gilbert,Finance,Facebook Ads,15832,Medium,Qualified,Kennethland,2026-04-27
-282,Micheal Gilmore,garciajoseph@example.net,208.416.0216x97664,"Morgan, Martinez and Campbell",Finance,Google Ads,42548,High,Qualified,Phyllisstad,2026-02-09
-283,Kimberly Morris,joseph04@example.com,759-746-8396x30488,Rogers Inc,Real Estate,Facebook Ads,11567,Medium,Qualified,Lake Jennifertown,2026-01-13
-284,Rebecca Hunt,vickie92@example.org,559-216-6570x5292,"Baker, Bass and Hamilton",E-commerce,Referral,9210,High,Converted,West Richard,2026-03-25
-285,Jonathan Ellis,derek68@example.org,+1-868-663-0559,"Lawrence, Stephens and Harris",Real Estate,Facebook Ads,36168,High,New,Port Benjaminburgh,2026-04-29
-286,Robert Walker,riverabrian@example.org,(603)744-7430,"Love, Fuller and Barajas",E-commerce,LinkedIn,5070,Low,New,Welchberg,2026-02-24
-287,John Carson,ukennedy@example.org,276-817-3808x56417,King-Dixon,Retail,Google Ads,33702,High,Qualified,Williamville,2026-04-28
-288,Gary Warren,peter36@example.org,616.511.9872x038,Jones Group,Education,Facebook Ads,10522,High,Qualified,South Michael,2026-01-05
-289,David Marshall,samuel15@example.net,389.335.3675,Williams-Freeman,Retail,Referral,12002,High,Qualified,Griffithborough,2026-01-24
-290,Michael Sloan,annasullivan@example.org,325-566-2151x884,Black PLC,Technology,Website,5177,Medium,New,West Kimberlyfurt,2026-01-17
-291,Shelly Martinez,albertanderson@example.org,462-229-3109x62049,"Donaldson, Walker and Bailey",Education,Website,28582,Low,New,Watkinsfurt,2026-04-16
-292,Patrick Holmes,nking@example.org,+1-899-375-9598x17746,Hall Group,Finance,Instagram,25641,Low,Converted,New Victoriamouth,2026-04-02
-293,Amy Hickman,elizabethcole@example.org,392-281-7214,"Dawson, Blackwell and Mcdonald",Technology,Referral,23442,High,New,Jacobland,2026-04-05
-294,Carl Jackson,julie02@example.org,(601)216-0544,Campbell-Riley,Education,Google Ads,29348,High,New,Wilkinsfurt,2026-01-20
-295,Angela Washington,hmyers@example.net,+1-879-654-7029,Obrien LLC,Finance,Facebook Ads,34154,Low,New,Matthewside,2026-01-03
-296,Kevin Shelton,deborahmcconnell@example.net,230.421.9670,Sparks-Little,Retail,Facebook Ads,44034,Low,New,Lake Kimberly,2026-04-05
-297,Mark Williams,stonejacqueline@example.net,001-887-408-6518x78725,"Mills, Thompson and Johnson",Retail,LinkedIn,43573,Low,Converted,Port Glennport,2026-03-23
-298,Kristen Harris,howardpatrick@example.com,+1-851-824-8455,Cain-Brown,Healthcare,Facebook Ads,18334,High,Qualified,East Ivanview,2026-03-04
-299,Patrick Wang,millergarrett@example.org,941-245-4590x15670,Jimenez LLC,Healthcare,Facebook Ads,33666,Low,Converted,New Davidview,2026-02-21
-300,Stanley Hunt,alexanderhudson@example.org,(632)986-2090,Clarke LLC,Education,Facebook Ads,48893,Low,Qualified,Hickmanton,2026-03-27
-301,Jessica Marquez,qlawrence@example.net,426-896-9721x34867,Villanueva-Wallace,Retail,Facebook Ads,9388,High,New,East Francisco,2026-05-16
-302,Suzanne Pena,alicia02@example.com,797-386-3852x82708,Cook-Landry,Technology,Instagram,47536,Low,Converted,West Anthony,2026-01-26
-303,Cindy Henry,rachael86@example.org,+1-772-474-2634x318,Hernandez PLC,Technology,Referral,37007,Low,New,Angelicaview,2026-02-28
-304,Sheila Yates,scottzamora@example.net,8393839074,"Carrillo, Russell and Graham",Technology,Google Ads,27638,High,New,Danahaven,2026-03-05
-305,Wyatt Mathews,lisa88@example.org,832.780.5206,Reyes PLC,Finance,Referral,41810,Medium,Converted,Bowmanport,2026-02-21
-306,Richard Manning,ericroy@example.com,(690)247-4286,Pena-Brown,Finance,Referral,40828,High,Qualified,West Vernon,2026-02-19
-307,Victoria Smith,twright@example.net,464-423-7318x07491,"Marsh, Brooks and Decker",Real Estate,Chatbot,20152,Low,Lost,Kempview,2026-03-02
-308,Stephanie Osborn,lukealexander@example.com,967-233-6417x7999,Cain-Gordon,Finance,Chatbot,45283,Medium,Qualified,Ricardofurt,2026-02-21
-309,Sandra Lyons,michaelbarry@example.com,(777)540-9081x778,"Lane, Johnson and Hodges",Finance,Chatbot,36485,Medium,New,Vincentborough,2026-02-21
-310,Johnathan Martinez,courtneyhogan@example.org,297.900.4618,Melendez Group,Finance,Facebook Ads,30741,High,Qualified,New Nicole,2026-03-06
-311,Richard Graham,natalieellis@example.net,515-694-2411,"Henderson, Duncan and Taylor",Healthcare,Chatbot,9796,High,New,Ashleyborough,2026-03-11
-312,David Jackson,thomasbutler@example.com,+1-916-366-6478x334,Mcintosh-Joseph,E-commerce,Website,49959,Medium,New,Lauriehaven,2026-01-03
-313,Robert Copeland,yvonnelarson@example.com,498.313.5689x475,Tyler-Garrett,Finance,LinkedIn,16054,Medium,Converted,Stevenshire,2026-05-08
-314,Aaron Gould,trose@example.org,(322)264-7881,Melton PLC,E-commerce,Instagram,15057,Low,New,Sullivanbury,2026-05-17
-315,Zachary Smith,travislyons@example.net,799.397.2415x68972,"Valencia, Burton and Navarro",Technology,Facebook Ads,18495,Low,New,East Williamberg,2026-05-14
-316,Angela Rice,lorraine05@example.org,001-227-221-6223x501,Duran PLC,Finance,Google Ads,48580,Low,Qualified,West Maryborough,2026-02-06
-317,Joshua Gomez,qstanley@example.com,979.549.7403,Adams-Hood,Finance,Facebook Ads,43063,Medium,New,West Shelbyborough,2026-02-25
-318,Robin Williams,alicia25@example.org,982.428.8940x2833,"Clay, Hampton and Jones",Retail,Chatbot,30495,High,Lost,Michaelchester,2026-03-31
-319,Tyler Ruiz,ortizyvonne@example.net,974.724.3222x87167,Mcneil-Roth,Healthcare,Google Ads,13019,High,Qualified,East Erinport,2026-02-18
-320,Joshua Hansen,muellermatthew@example.com,(499)686-2637,Fuller-Key,Technology,Facebook Ads,42757,High,Converted,Emilyhaven,2026-02-02
-321,Ryan Harper,mgreen@example.com,8953116010,Baird and Sons,Finance,Facebook Ads,35352,Medium,Lost,Lake Latoya,2026-03-24
-322,Megan Singleton,piercetammy@example.com,5368244760,Turner and Sons,Healthcare,Referral,31266,Low,Lost,Jacksonberg,2026-04-18
-323,Adrian King,hudsonbradley@example.com,749.454.0356x80293,"Smith, Cooper and Peters",Education,Instagram,30159,High,Converted,South Kelly,2026-04-29
-324,Daniel Morales,jordanspears@example.net,3616682136,Martinez Ltd,Real Estate,LinkedIn,38415,Low,Converted,Travisburgh,2026-01-03
-325,Nicholas Sweeney,glenda42@example.org,(921)426-0301x52143,"Sanchez, Williams and Howard",Finance,Google Ads,42766,High,Qualified,Christianchester,2026-02-28
-326,Bradley Caldwell,yandrews@example.net,283-802-4249,Strickland-Garcia,Healthcare,Website,34676,High,Qualified,Potterburgh,2026-04-01
-327,Jennifer Blackburn,browncandice@example.com,766-311-8157x1132,Gray-Hall,Finance,Google Ads,41790,High,Qualified,East Samantha,2026-03-18
-328,Brandon Cain,david13@example.net,+1-377-627-3658,Guzman-Anderson,E-commerce,Website,15570,High,Lost,Port Danielburgh,2026-04-24
-329,Mark Guerra,xdavis@example.net,001-689-557-7437x723,"Alvarado, Baird and Berry",Finance,Referral,2827,Medium,Lost,Mooreburgh,2026-02-07
-330,Mark Jones,angelajohnson@example.com,793.397.0465x2764,Clayton Ltd,Education,Instagram,31711,Low,New,East Brandon,2026-03-14
-331,Keith Crawford,michaelanderson@example.org,348-809-6704x2039,Anderson-Powell,Finance,Instagram,11312,Medium,Qualified,New Justin,2026-03-14
-332,Daniel Wood,leedebra@example.com,335.475.9466x6127,"Cowan, Curtis and Mcgee",E-commerce,Website,5067,Low,Lost,Rodriguezfurt,2026-01-02
-333,Jessica Lawson,leonardfigueroa@example.org,814.444.8214x108,Carlson-Hamilton,Education,Referral,27453,Medium,Converted,South Christopher,2026-05-15
-334,Kimberly Thomas,martineztimothy@example.com,001-393-655-6053x994,Ramos-Harris,Retail,LinkedIn,9301,Low,Qualified,West Sandraton,2026-01-12
-335,Sherry Taylor,lorraine48@example.org,(769)208-4391x83732,Fowler Ltd,Real Estate,Instagram,17454,Medium,Lost,Dawsonmouth,2026-03-08
-336,Tonya Johnson,johnsonangela@example.org,913.616.4329x890,Bates-Scott,Retail,Instagram,13882,Medium,Lost,Russellchester,2026-03-12
-337,Molly Barnes,cody27@example.org,2446309102,Hayes-Miles,Healthcare,Website,9509,Medium,New,Thompsonfurt,2026-02-07
-338,Chelsea Huerta,ggarcia@example.org,001-283-924-9487x9349,Williams and Sons,Healthcare,Instagram,46540,Medium,Lost,North Raymondberg,2026-02-25
-339,Joseph Howe,malexander@example.com,+1-244-948-2523x57002,"Brown, Dillon and Terrell",Technology,Instagram,43380,Low,Converted,Lake Raymondshire,2026-04-17
-340,April Melton,david60@example.com,(270)292-2729x978,"Foster, Archer and Weaver",E-commerce,Referral,40807,High,Qualified,Brownmouth,2026-02-22
-341,Christine Zhang,michelleharrison@example.org,(932)335-9982x92498,Anderson PLC,Real Estate,Website,32061,High,New,Port Emily,2026-03-26
-342,Alyssa Goodman,kmartinez@example.com,823.529.5134x9956,Mccoy-Lambert,Finance,Chatbot,29754,Low,Qualified,Millsland,2026-03-22
-343,Jennifer Mcknight,hreyes@example.com,662-920-5580x0807,Phelps Group,Technology,Referral,42093,High,Lost,Nathanside,2026-04-03
-344,Mary Anderson,fchen@example.com,001-782-316-2421x635,Nguyen LLC,Retail,Instagram,43493,Low,New,West Katieport,2026-05-09
-345,Andrea Dixon,preyes@example.net,250-768-1593,"Malone, Harper and Terry",Real Estate,Chatbot,48619,Low,New,Dylanfurt,2026-03-10
-346,James Jacobs,jessicapeterson@example.org,705-304-9712x05897,"Wolfe, Salinas and Allen",E-commerce,Google Ads,29641,High,Lost,Jordanburgh,2026-03-27
-347,Scott Mann,qbarr@example.net,622.415.1896x7282,Ingram and Sons,E-commerce,Facebook Ads,13579,Low,Converted,South Blakeview,2026-05-02
-348,Gregory Romero,lopezscott@example.net,001-600-531-5426x5779,"Garrett, Montes and Sullivan",Finance,Chatbot,15140,High,Converted,Johnsside,2026-05-13
-349,Dylan Rosario,tortiz@example.net,657.893.6434x18322,Cunningham-Malone,Retail,Instagram,40977,High,Lost,Hernandezhaven,2026-04-22
-350,David David,adam66@example.net,+1-438-464-5950x9240,Henderson-Yang,Technology,LinkedIn,33676,Medium,Converted,Lake Jessica,2026-02-01
-351,Timothy Ritter,travisjones@example.org,893-366-4155x3110,Floyd Ltd,Education,Referral,10450,Low,Qualified,Josephmouth,2026-04-19
-352,Gregory Schmidt,dennis62@example.org,(672)890-6148x777,Fields PLC,Education,Google Ads,6539,Low,Converted,North Patricia,2026-01-21
-353,Veronica Wiggins,jasminemiller@example.net,579.511.0803,"Owen, Torres and Hammond",Finance,Instagram,29357,High,Lost,Whiteborough,2026-04-27
-354,Craig Hernandez,mike16@example.net,609-764-8247,Gomez Inc,Finance,LinkedIn,31727,High,Converted,East Cheyenne,2026-03-29
-355,Garrett Miller,bwalker@example.net,871-387-6174,Cowan-Martinez,Education,Google Ads,34191,Low,Converted,Bentleyton,2026-05-02
-356,Ethan Zamora,mitchellstephanie@example.com,545-245-6308,"Dean, Howard and Bolton",E-commerce,Facebook Ads,10428,Medium,Converted,East Stacey,2026-04-10
-357,Kevin Clark,charlesprice@example.com,(766)921-7155x6629,"Winters, Payne and Taylor",Technology,Website,9217,High,Qualified,Port Debra,2026-01-29
-358,Miranda Moreno,brandon21@example.org,368.683.6746,"Estrada, Rios and Tucker",Real Estate,LinkedIn,23585,Medium,Lost,South Kimberlyborough,2026-01-07
-359,Jack Simmons,ffrost@example.org,550.374.0661,Moody-Ortiz,E-commerce,Referral,37763,Low,Converted,East Gary,2026-04-27
-360,Stephanie Hayes,linda54@example.net,759.294.5136x25531,"Harris, Price and Rodriguez",E-commerce,Chatbot,5206,Low,Converted,North Brianview,2026-02-05
-361,Alfred Thomas,daniel58@example.net,+1-816-376-6611,"Williams, Cooper and Huerta",Retail,LinkedIn,49089,Low,Lost,Kristinchester,2026-05-02
-362,Robert Jones,danielduran@example.org,988.390.8671,"Allen, Nolan and Foster",Education,Instagram,34861,High,Lost,South Brent,2026-04-09
-363,Timothy Parks,sean82@example.net,912-291-2408,Whitaker Ltd,Technology,Facebook Ads,23861,High,Qualified,Kathleenbury,2026-05-07
-364,Jordan Madden,rwilson@example.com,(684)213-9953,Smith Group,Retail,Facebook Ads,13316,Medium,New,Sullivanville,2026-03-10
-365,Gabriel Santos,richardjohns@example.com,+1-779-358-3326x7831,Haynes and Sons,Technology,LinkedIn,48551,Low,New,Gloriaport,2026-01-30
-366,William Adams,timothyrowe@example.net,413-302-0128x2089,Porter-Perez,Technology,LinkedIn,7565,Medium,Lost,North Kirstenbury,2026-02-23
-367,Zachary Atkinson,julie70@example.com,327-209-2692,Roberts PLC,Retail,Referral,5285,Medium,Lost,Gilesburgh,2026-03-10
-368,Julia Garcia,grahamjoel@example.net,+1-613-231-3396x248,Pearson-Beck,Real Estate,Chatbot,38049,Medium,New,West Brentshire,2026-03-13
-369,Victoria Cruz,anachang@example.net,682-720-2659x1324,"Johnson, Williams and Parsons",Real Estate,Referral,1346,Medium,Lost,Ryantown,2026-03-25
-370,Nathan Cooley,christopher16@example.org,001-309-597-4824x06414,Webb-Burke,Real Estate,Chatbot,6202,High,Lost,Mckinneyview,2026-04-12
-371,Brian Barnes,laurenhernandez@example.net,(928)202-9749x03820,"Carter, Meyer and Smith",Real Estate,Referral,5319,High,Lost,Rachelberg,2026-02-09
-372,Elizabeth Hart,sandracooper@example.org,(437)359-1174x29028,Johnson-Huang,Finance,Chatbot,8533,High,New,West Clinton,2026-04-21
-373,Michael Acosta,billyhensley@example.org,(247)369-6031x78879,"Hahn, Robertson and Harding",Technology,Chatbot,22855,Medium,Converted,Manuelshire,2026-05-17
-374,Taylor Chase,robert80@example.org,646-236-2864,"Hall, Brown and Rojas",Retail,Referral,12584,Low,New,Wareview,2026-01-05
-375,Travis Davis,davisbrenda@example.org,+1-599-930-3755x5104,"Boyd, George and Turner",E-commerce,Instagram,10115,Medium,New,South Roy,2026-03-07
-376,Rita Bates,pdavis@example.com,315.982.9582x950,Powers Inc,Retail,Instagram,30892,Low,New,Williamsontown,2026-05-05
-377,James Horton,mstewart@example.org,(829)750-0846,Garcia Inc,Finance,Google Ads,11765,Medium,Converted,South Kathyborough,2026-04-28
-378,Richard Morris,claudia09@example.org,9894794999,Prince-Russell,Education,Chatbot,10972,High,Converted,Klineview,2026-04-17
-379,Austin Perez,kylerichard@example.net,+1-698-719-7705x559,"Fox, Ramirez and Barron",Real Estate,Referral,46526,Medium,Converted,East John,2026-05-05
-380,Richard Singh,mathisscott@example.com,781-621-2788x17540,Roman Ltd,E-commerce,Chatbot,34395,Medium,Converted,Lake Angelafort,2026-05-06
-381,Jennifer Griffin,idouglas@example.net,4527572173,Lowe PLC,Retail,Referral,43427,Medium,Qualified,West Isaiahtown,2026-04-21
-382,Ashley Williams,zjohnson@example.org,001-348-606-8696x95921,"Nash, Vazquez and George",Retail,Instagram,43368,Low,New,New Sarahaven,2026-04-15
-383,Bryan Kramer,torrescarlos@example.org,(558)973-5900,Clarke PLC,E-commerce,Google Ads,28477,High,New,Michaelfurt,2026-03-17
-384,Thomas Brown,smiller@example.org,001-554-665-2953,"Bennett, Jackson and Goodwin",E-commerce,Referral,32568,Low,New,New Melissa,2026-01-16
-385,Sean Drake,stevenhall@example.com,778-840-6656x6259,"Alvarado, Glenn and Bailey",Finance,Website,3887,Medium,Qualified,West Karen,2026-01-29
-386,Lisa Ross,alyssa57@example.com,(660)447-0875,Palmer-Griffin,E-commerce,LinkedIn,10473,Medium,Qualified,Perryville,2026-03-29
-387,Stephanie Flores,alexandriadougherty@example.com,544.393.0634,"Simpson, Collins and Miller",Real Estate,Chatbot,31258,Medium,Lost,Jonathanport,2026-03-02
-388,Jennifer Davis,bushbrittany@example.org,302-275-1943x2985,Gonzalez PLC,Finance,Google Ads,32023,Low,Lost,Campbellland,2026-05-09
-389,Carolyn Sexton,shane42@example.org,(814)409-4277x1212,"Roberts, Williams and Palmer",Real Estate,Referral,24218,Low,Converted,Lake Jeremy,2026-01-06
-390,Julie Reynolds,gbird@example.com,+1-981-828-9981x819,Davis Group,Finance,LinkedIn,28146,Low,Qualified,Mccoyport,2026-03-24
-391,Rodney Mcdonald,imcdonald@example.net,001-432-911-6829x38186,Murray Group,E-commerce,Instagram,44493,High,Converted,Lake Cynthiachester,2026-03-23
-392,Kelsey Hill,bettymason@example.net,(425)987-1639x25604,Richards-Patterson,Healthcare,Website,18394,High,Lost,North Holly,2026-03-27
-393,Jeffery Robles,vmorales@example.com,6535376880,Carroll Group,Finance,LinkedIn,42596,High,Converted,Mccarthyshire,2026-03-04
-394,Thomas Taylor,keithroberts@example.org,440.950.1422,Davidson LLC,Technology,Facebook Ads,41018,Low,New,Greenmouth,2026-02-28
-395,Wendy Martinez,dominguezlarry@example.net,401.836.9743x8227,Jimenez Ltd,E-commerce,LinkedIn,17096,Medium,Qualified,New Tammyville,2026-01-23
-396,Sydney Coleman,kellerjoshua@example.net,(211)460-1146,Watson PLC,Healthcare,LinkedIn,40816,Low,Qualified,Port Sherry,2026-02-26
-397,Christopher James,nicholsonlinda@example.org,238.679.8679,Yoder and Sons,Real Estate,Referral,28826,High,Lost,Joannestad,2026-02-12
-398,Joseph Jones,amandabentley@example.com,001-533-410-1028x0808,"Miranda, Walters and Jones",Finance,Website,48315,Medium,Lost,Gregton,2026-02-03
-399,Taylor Rowe,micheal61@example.org,001-900-682-6900x048,Johnson-Davis,Real Estate,Facebook Ads,1438,Medium,New,Maryside,2026-04-24
-400,Danielle Green,mark89@example.com,8215801754,"Scott, Martin and Jimenez",Healthcare,Facebook Ads,30587,Medium,Qualified,Stephanieview,2026-03-06
-401,Desiree Phelps,damon23@example.com,4227700273,"Russo, Webb and Hester",Finance,Instagram,14659,Low,Converted,Kerriview,2026-01-13
-402,Zachary Silva,jlamb@example.com,+1-653-528-9671,"Hernandez, Kelly and Anderson",Real Estate,Instagram,7978,Low,Lost,Port Brookeburgh,2026-05-01
-403,Joshua Wells,garywade@example.org,200-424-5461x05576,"Owens, Vazquez and Soto",Technology,LinkedIn,24128,Medium,Qualified,New Sylvia,2026-05-03
-404,Jonathon Wong,moorerobert@example.com,+1-412-303-0455,"Levy, Rhodes and Robinson",Technology,Google Ads,1432,High,New,Calhounland,2026-05-05
-405,Joseph Meadows,kaylahines@example.net,001-604-674-3446,Norman-Mcneil,Finance,LinkedIn,32033,Low,Lost,Moralesshire,2026-03-09
-406,Lisa Scott,charles09@example.com,+1-964-936-4662x915,Kennedy Ltd,Finance,Facebook Ads,39946,High,Lost,Port Kristen,2026-04-03
-407,Tyler Robinson,mendezjohn@example.org,558.603.9042x422,Stewart Inc,Education,Chatbot,32204,High,Lost,Jamesshire,2026-04-11
-408,Scott Mueller,millerdavid@example.net,+1-857-502-5525x254,Park-Cruz,Technology,Facebook Ads,14637,Medium,Qualified,West Kevinstad,2026-04-26
-409,Mark Blake,rrodriguez@example.com,001-446-959-1152x792,"Maddox, Brewer and Meza",Retail,Facebook Ads,7674,Medium,Qualified,Melissaville,2026-02-01
-410,Joseph Moore,rivasjennifer@example.net,267.953.1410x31356,Bautista and Sons,Retail,Referral,41455,High,Converted,Odombury,2026-04-07
-411,Whitney Conner,opowell@example.net,4542490467,Stephenson and Sons,E-commerce,Facebook Ads,18332,Low,Qualified,Port Robertstad,2026-04-02
-412,Robert Turner,amitchell@example.com,001-862-464-8740x649,Olson and Sons,Technology,Facebook Ads,17339,Medium,Lost,Davidmouth,2026-02-16
-413,Mary Butler,mmays@example.net,424.618.2712x26844,"Wells, Kim and Mack",Retail,Referral,33716,Medium,Converted,Brendafort,2026-02-08
-414,Travis Weaver,john33@example.net,+1-519-303-2733x448,"Bishop, Randolph and Boyd",Finance,LinkedIn,16464,Medium,Lost,Susanmouth,2026-02-19
-415,Marcus Evans,whanson@example.org,818-842-8969,Wade and Sons,Education,LinkedIn,27552,Medium,Qualified,Kimberlyside,2026-02-23
-416,Alec Smith,carriebrown@example.org,309-810-1906x8906,Gardner Group,E-commerce,Chatbot,40028,Low,Converted,Thomasville,2026-02-04
-417,Jacob Hawkins,adamcaldwell@example.net,+1-214-559-2762x110,Becker-Smith,Education,LinkedIn,48875,High,New,Leeport,2026-01-09
-418,Megan Davis,arnoldrobert@example.net,970.619.6605,Greene-Russell,Retail,Referral,27855,High,New,Port Jasonport,2026-02-23
-419,Thomas Oliver,cherylsantos@example.net,5807611559,"Jones, Rice and Singleton",Technology,Website,12405,Low,New,North Taylorton,2026-04-03
-420,Rachel Landry,michellehamilton@example.net,468.491.5513x1803,Galvan LLC,Retail,Instagram,8930,High,Qualified,North Davidstad,2026-03-10
-421,Kevin Rhodes DVM,lauragonzalez@example.net,+1-990-806-5034x177,Wise-Hawkins,E-commerce,Referral,20621,Low,Lost,West Susanberg,2026-03-04
-422,Christie Rogers,westlinda@example.org,+1-337-573-6739x90405,Davis and Sons,Finance,Website,9280,Low,Qualified,South Robert,2026-03-18
-423,Daniel George,michaelalvarez@example.com,+1-970-472-9235x944,Walker Group,E-commerce,Google Ads,28656,High,Lost,Jessicaton,2026-04-04
-424,Elizabeth Hawkins,abarrett@example.com,001-381-808-6191,Dixon LLC,Healthcare,Chatbot,17981,Medium,Qualified,Merrittside,2026-03-22
-425,Shannon Carey,hannahgomez@example.net,517-300-2541x5115,Long-Morgan,Retail,Facebook Ads,20387,Low,New,Morrisbury,2026-05-13
-426,James Contreras,zmartinez@example.org,439.511.5358,Sawyer-James,Retail,Facebook Ads,37485,High,New,Port Davidfort,2026-04-09
-427,Sara Wallace,hillscott@example.org,773-618-6702,Newman Group,Real Estate,Instagram,14685,High,New,New Patrick,2026-04-02
-428,Sarah Zimmerman,ojohnson@example.net,001-750-826-4990x928,Hicks LLC,Finance,LinkedIn,27191,High,Converted,Jenniferberg,2026-05-13
-429,Ronald Lopez,wwright@example.com,(261)892-4143x11786,Levy Group,Education,Facebook Ads,9524,Medium,New,Deanville,2026-01-26
-430,Jennifer Andrews,heathertorres@example.org,578.564.4412x2246,Anderson Group,E-commerce,Chatbot,23995,High,New,Lake Alan,2026-05-13
-431,Brianna Acosta,stewartjames@example.org,(454)485-0776x75802,Fisher-Barrett,Real Estate,Chatbot,20656,Medium,Lost,New Peter,2026-02-11
-432,Karen Brown,loriblevins@example.com,660-526-2532x189,"Cowan, Scott and Robinson",Technology,Google Ads,18459,Low,New,Lake Jamesstad,2026-03-01
-433,Alex Wallace,dperez@example.com,9094311356,Boyd PLC,E-commerce,Google Ads,6274,High,Lost,Port Morgan,2026-05-11
-434,Alexander Walker,janiceburns@example.net,677.244.2967x111,"Brown, Ayers and Anderson",Healthcare,Referral,21019,Medium,Qualified,East Erika,2026-03-23
-435,Antonio Vargas,yzhang@example.net,4888657273,Perry-Jones,Healthcare,Instagram,8398,Medium,Converted,Port Derrickfurt,2026-04-25
-436,Jonathan Wade,alexallen@example.org,+1-492-303-3281x96062,Ballard Group,Real Estate,LinkedIn,4604,Low,Lost,Victoriaside,2026-01-08
-437,Bianca Miller,dorseyphilip@example.com,+1-547-680-6219x643,Johnson and Sons,E-commerce,Facebook Ads,8946,High,Converted,Lake Nicholas,2026-03-16
-438,Vanessa Simpson,kaylalopez@example.com,714.579.7624x58012,Graves-Williams,Technology,Referral,47781,High,Converted,Johnsonhaven,2026-04-21
-439,Thomas Harper,zachary38@example.com,+1-363-671-2470x665,Peterson-Goodwin,Technology,Facebook Ads,30930,Medium,Qualified,West Heather,2026-03-16
-440,Elizabeth Daniels,amy89@example.com,001-684-519-7215,"Carroll, Estrada and Browning",Education,Referral,16680,Medium,Qualified,Port Anthonyfort,2026-03-01
-441,Anna Ortiz,mmcdonald@example.org,+1-457-671-9996,"Myers, Baker and Gutierrez",Retail,Instagram,41250,Medium,Converted,Josephhaven,2026-01-11
-442,Grace White,xburnett@example.net,289.842.7069x778,Khan-Turner,Healthcare,Referral,30791,Medium,Qualified,West Charles,2026-01-11
-443,Nicole Davis,callahanscott@example.org,(845)983-7696,"Wells, Perez and Johnson",Healthcare,Google Ads,33337,Medium,Lost,Andrewberg,2026-01-28
-444,Anthony Jordan,williamlove@example.com,+1-472-814-3334x59064,Smith Ltd,Finance,LinkedIn,33991,Medium,Lost,West Michelleport,2026-03-17
-445,Peggy Holmes,wreed@example.net,+1-686-836-0633x4421,Brooks LLC,Technology,Website,1853,Medium,Converted,East Robertside,2026-03-19
-446,Stephanie Wagner,angelaweber@example.net,001-509-639-2019x90110,Williams PLC,Retail,Chatbot,44416,Medium,Converted,South John,2026-04-13
-447,Scott Brown,marcparker@example.org,513-759-6246x8935,Delacruz-Gonzales,Healthcare,Instagram,3293,Low,New,Katieburgh,2026-01-05
-448,Miranda Weaver,robert03@example.org,001-844-269-0310x30256,Ramirez and Sons,Finance,LinkedIn,12508,Low,Qualified,Mitchellton,2026-02-13
-449,Michelle Khan,rduffy@example.org,750-467-2161,Scott-Sandoval,Real Estate,Referral,33171,Medium,Converted,Lake Jonathan,2026-01-13
-450,Rebecca Savage,khinton@example.net,001-291-706-3074x001,"Bates, Rhodes and Carter",E-commerce,Google Ads,19023,High,New,West Johnchester,2026-04-28
-451,Amanda Taylor,piercerobert@example.net,+1-245-760-0747x7262,Scott-Welch,Healthcare,Facebook Ads,43478,High,Lost,Lake Andrewberg,2026-01-12
-452,Timothy Wiggins,leah31@example.org,4325798900,Holt-Simmons,E-commerce,Chatbot,6857,Medium,Lost,Annabury,2026-01-19
-453,Crystal Thompson,timothy53@example.com,+1-485-415-9288x4738,"Barrera, Bernard and Arnold",Retail,Instagram,26779,High,New,Port Justinview,2026-05-03
-454,Thomas Roberts,danielsjacob@example.com,(290)831-9696x075,Guzman-Johnson,Retail,Facebook Ads,22565,Low,New,South Derek,2026-05-01
-455,Matthew Vega,fernandezrhonda@example.org,(970)942-5494x89800,"Evans, Williams and Daugherty",Finance,Chatbot,35926,Medium,Lost,Lake Kevin,2026-03-16
-456,Bryce Price,dschneider@example.com,4869368972,Castro LLC,Technology,LinkedIn,22810,Low,Converted,Jillstad,2026-01-26
-457,Stephanie Adkins,forbesjanice@example.org,001-278-300-8168x3768,Hall LLC,Retail,Google Ads,21357,Medium,Lost,Lake Davidchester,2026-02-28
-458,Ralph Chang,qobrien@example.org,+1-936-917-0727,Walker-Beck,Retail,Google Ads,36589,High,New,New Andreafort,2026-02-13
-459,Robin Hodges,martinezjustin@example.com,001-313-391-6528x0364,Villegas Group,Technology,Chatbot,4518,Low,New,Melissaport,2026-04-21
-460,Dennis Morrison,vickiefarley@example.net,+1-310-657-4283x102,Smith and Sons,Education,Website,14663,Low,Converted,Ronaldchester,2026-03-02
-461,Kristina Taylor,lauren86@example.org,677-830-0304x29341,Johnson-Gibson,Education,Website,8776,Medium,New,New Chad,2026-01-12
-462,Jordan Webb,richamy@example.org,7294518082,Hart Group,Healthcare,Facebook Ads,32316,Medium,Qualified,Lake Stephanie,2026-04-14
-463,Mary Stevenson,xcoleman@example.com,001-450-785-9708x5481,Hernandez-Davis,Healthcare,LinkedIn,3667,High,Converted,Lisaburgh,2026-05-10
-464,Kim Horton,reidmelissa@example.org,541-680-3745,Sampson and Sons,Healthcare,Google Ads,29798,High,Qualified,Timothyshire,2026-02-24
-465,Tom Carrillo,csmith@example.net,269-784-6627,"Barrera, Parker and Myers",Technology,Google Ads,35852,High,Qualified,Jamesborough,2026-04-15
-466,Adam Ruiz,penny95@example.org,(599)751-8577x415,"Curtis, Massey and Lang",Real Estate,Website,25373,Low,Qualified,Lake Amandaland,2026-02-08
-467,Jason Morris,carol09@example.org,+1-522-528-5028,Hart-Cox,Real Estate,Instagram,5685,Low,Converted,Anthonyshire,2026-01-11
-468,Julie Johnson,keithalexander@example.net,(981)819-7013x772,Davis and Sons,E-commerce,Website,5729,Low,Qualified,Johnborough,2026-03-09
-469,Anita Frank,kelly19@example.org,(631)479-2483x20820,Atkins PLC,Technology,Website,26947,Low,New,North Patrickborough,2026-04-23
-470,Edwin Williams,anthonycrawford@example.org,372-207-9036x0367,Bell-Hayden,Retail,Chatbot,8563,Medium,New,Thomasberg,2026-02-24
-471,David Mitchell,fletcherdylan@example.com,892-296-4875x639,Trujillo-Wright,Real Estate,Facebook Ads,19481,High,Qualified,West Angelaland,2026-01-14
-472,Timothy Nguyen,crystalmercado@example.com,483.655.2924x27587,"Mccall, Hall and Jackson",Education,Website,35721,Medium,Converted,West Mary,2026-01-07
-473,Stephanie Smith,hopkinschristina@example.net,001-297-998-7659x71576,Green-Day,Technology,Website,6774,Low,New,North Nancy,2026-03-31
-474,Brandon Burnett,mary22@example.org,587.777.7391x1586,Wilson Group,Real Estate,Instagram,20632,Low,Converted,Foxville,2026-02-03
-475,Donald Gonzales,tmatthews@example.net,+1-530-476-5677x248,"Salinas, Matthews and Smith",Retail,Instagram,23621,Medium,New,Crystalborough,2026-03-12
-476,Gregory Taylor,milesjason@example.net,+1-605-435-7953x7486,Smith-Lyons,Finance,LinkedIn,25379,Low,Lost,Shawnhaven,2026-01-14
-477,Jessica Mann,william38@example.com,001-494-268-1538,Ford Group,Technology,LinkedIn,32561,Low,Qualified,Reyeston,2026-02-19
-478,Kimberly Smith,hwilliams@example.com,001-930-836-6152,"Brown, Beltran and Terry",Healthcare,LinkedIn,32349,Low,Qualified,North Austinshire,2026-04-04
-479,Joyce Young DDS,brandon29@example.org,+1-517-632-7419x590,Greer-Pierce,Healthcare,Referral,24720,Medium,Qualified,South Harold,2026-03-16
-480,Howard Lucero,wflores@example.org,(810)692-5746x869,"White, Fuller and Wright",Finance,Referral,22387,High,New,West Jaredchester,2026-01-02
-481,Anthony Mason,jorge49@example.org,872.504.6700,Carlson-Powell,Technology,Referral,13815,Low,Lost,Matthewfort,2026-02-15
-482,Victoria Potts,uroberts@example.net,708.932.7671x78937,"Liu, Pearson and Smith",E-commerce,LinkedIn,19262,High,Converted,West Michaelport,2026-05-13
-483,Gail Williams,diazronald@example.org,(290)716-3519x03498,Rivera-Norris,Education,Website,9505,Medium,New,Juanchester,2026-01-10
-484,Jennifer Baker,ritagriffin@example.org,+1-677-441-6619x5506,"Smith, Blanchard and Bennett",Healthcare,Chatbot,18136,Medium,New,Deborahchester,2026-03-21
-485,Denise Liu,uhamilton@example.net,573.251.5843,"Parks, Mack and Escobar",E-commerce,LinkedIn,29501,Medium,New,Petersonburgh,2026-03-25
-486,Jillian Anderson,jennifermoore@example.com,+1-268-636-5767x120,Vance LLC,Real Estate,Chatbot,3360,High,New,Fergusonshire,2026-01-09
-487,Christian Crawford,thomas42@example.net,+1-200-877-2306x09697,"Kelley, Green and Berry",Healthcare,Referral,23215,Low,Converted,East Monica,2026-05-01
-488,Brandon Miller,phamjenny@example.net,(308)300-9715,"Smith, Warren and Brown",Healthcare,Instagram,4762,Low,Qualified,Feliciaberg,2026-01-08
-489,Tamara Jackson,michael07@example.net,(932)585-8343x25642,"Johnson, Robertson and Ramirez",Finance,Chatbot,29085,Low,Converted,West Sarah,2026-01-31
-490,Angelica Everett,patrick78@example.net,952-505-1457,"Banks, Bender and Lopez",Technology,Chatbot,35738,Medium,Qualified,Hudsonshire,2026-02-14
-491,Laura Russell,andersonsusan@example.com,204-989-5898x52375,Walton-Jordan,Education,Referral,10590,Medium,Converted,Connieborough,2026-02-12
-492,Mary Montoya,bakervanessa@example.com,(220)493-3015x848,"Foley, Todd and Smith",Technology,Chatbot,44872,Medium,Qualified,Lisabury,2026-05-08
-493,John Dodson,thompsonlonnie@example.com,+1-947-353-4535x9196,"Rich, Johnson and Nelson",Healthcare,Chatbot,11480,Low,Qualified,Port Thomashaven,2026-01-05
-494,Jacqueline Sims,elizabethbaker@example.net,(635)664-6586,Ryan-Evans,Real Estate,Website,11105,Medium,Qualified,Lake Taraborough,2026-02-18
-495,Michael Oneal,briananeal@example.net,+1-957-521-5849x6869,"Harris, Patterson and Williams",Technology,Facebook Ads,19109,Medium,Qualified,South Elizabethton,2026-04-21
-496,Linda Anderson,mooremelissa@example.org,982-535-4185x035,Oliver LLC,Education,Website,13472,High,Lost,Patriciaberg,2026-05-10
-497,Stephen Davila,dsmith@example.org,9628280820,"Wells, Gomez and Owens",Retail,Referral,28617,Medium,Qualified,Pattersonmouth,2026-04-01
-498,Eric Mathis,jonathanwheeler@example.net,938.764.9824x79667,Martinez PLC,E-commerce,Facebook Ads,26150,Medium,Qualified,Allenbury,2026-02-23
-499,Danielle Colon,levyjames@example.com,695-245-1193x2950,Johnson Ltd,Healthcare,Instagram,2482,Medium,Converted,North Megan,2026-01-17
-500,Christopher Collins,annsteele@example.net,811.273.5863,"Calhoun, Thomas and Mann",Healthcare,Referral,39494,Low,New,Wileyfurt,2026-04-25
-501,Ryan Jain,ryan@example.com,,OpenAI Test Co,Technology,Chatbot,0,Medium,New,,2026-05-19
+1,Allison Hill,donaldgarcia@example.net,+1-219-560-0133,"Santos, Gardner and Robinson",E-commerce,Website,2639,High,Qualified,Lisatown,2026-05-28
+2,Melissa Peterson,jasongallagher@example.org,361-855-9407,Arnold Ltd,E-commerce,Website,45348,High,Converted,Barbaraland,2026-01-09
+3,Patricia Galloway,michellejames@example.com,+1-952-855-3419x2832,Mayo-Bowman,Education,Website,2952,Low,Lost,Lake Mark,2026-05-30
+4,Crystal Johnson,richard13@example.net,001-653-876-7242x388,"Ross, Robinson and Bright",Retail,Referral,14031,High,Converted,Daviston,2026-01-22
+5,Christopher Becker,cruzcaitlin@example.com,648.401.8451x46270,"Gaines, Harrell and Evans",Education,Referral,19231,High,New,East Nathaniel,2026-02-01
+6,Paula Moreno,georgetracy@example.org,(443)903-9117x182,"Martin, Rose and Obrien",Healthcare,LinkedIn,28696,Medium,Qualified,New Karina,2026-05-14
+7,Eric Carney,samuel87@example.org,531.250.9839,Zimmerman Inc,Technology,Instagram,7698,Low,Lost,North Rebecca,2026-03-06
+8,David Caldwell,ambercummings@example.net,001-773-876-3116,Owens-Daniel,Finance,Referral,18335,High,Converted,North Richardmouth,2026-01-22
+9,Connor West,dwhite@example.org,478-810-8013,Olson-Hancock,Education,Website,37178,Medium,Converted,East Nicholasfurt,2026-02-21
+10,Rachel Mitchell,smoore@example.org,4982050097,"Miller, Lopez and Larson",Technology,Instagram,38837,Low,New,South David,2026-04-21
+11,Kristopher Harvey,ksandoval@example.net,343-353-4624x75107,"Lewis, Baker and Mahoney",Healthcare,Chatbot,19965,High,New,East Mikeburgh,2026-03-27
+12,Michele Carr,contrerasangela@example.net,524-711-8244,Watts LLC,Education,Instagram,30714,Medium,New,Kington,2026-01-18
+13,Sandra Williams,kellie42@example.net,486.880.1128x059,Williams LLC,Finance,Facebook Ads,44920,Medium,Qualified,West Jasonbury,2026-05-10
+14,Richard Henson,vdickson@example.org,622.460.2563,"Rodriguez, Brennan and Garrison",E-commerce,Facebook Ads,36005,High,Qualified,East Lisa,2026-03-31
+15,Robert Savage,andrewlee@example.com,614-258-6850x142,Carlson LLC,Finance,LinkedIn,46099,Medium,New,Samuelhaven,2026-01-23
+16,Kenneth Scott,zsmith@example.net,+1-835-661-5951x48465,"Martinez, Fisher and Bentley",Technology,Website,16010,High,Qualified,New Ashley,2026-03-20
+17,April Mitchell,mfloyd@example.net,577-673-8721x48951,Drake and Sons,Retail,Facebook Ads,38170,High,Qualified,North Johnfort,2026-04-29
+18,Angel Perry,jennifercruz@example.com,220.516.3287,Bryant Group,Education,Google Ads,43129,Medium,Qualified,Stephaniemouth,2026-04-29
+19,Stephanie Simmons,vmerritt@example.com,643.748.7347x143,Orozco-Miller,E-commerce,Referral,36322,Medium,Converted,East Patrick,2026-01-30
+20,Amy Russell,nperry@example.com,(590)996-7054x6688,Nelson Group,Real Estate,Google Ads,24723,Low,New,South Matthewfurt,2026-05-21
+21,John Anderson,meadowsbrittany@example.net,7165272046,Murphy-Juarez,Retail,Chatbot,4087,High,Qualified,Ramirezchester,2026-02-18
+22,Julie Curry,cookemichael@example.net,400-933-0923,"Wilson, Gould and Marshall",Technology,LinkedIn,28666,Medium,Qualified,Katieburgh,2026-04-28
+23,Nicole Wilson,tamirodriguez@example.org,296-763-1931x4919,"Patterson, Wood and Hunter",Education,Referral,17476,High,Converted,Alexanderchester,2026-04-06
+24,Tyler Reid,bzimmerman@example.org,001-684-998-7769x4531,Christensen PLC,Retail,LinkedIn,36190,High,Converted,Rogersfort,2026-03-05
+25,Daniel Salinas,joshua94@example.net,9839136783,Mcguire-Davis,Finance,Google Ads,11365,Medium,Lost,South Heather,2026-03-01
+26,Jackie Tran,ronald85@example.com,001-574-544-3135x182,"Washington, Hardy and Bray",Technology,Facebook Ads,34271,High,Converted,Tinaborough,2026-02-27
+27,Christopher Smith,joshuamccann@example.net,627-910-9477x7520,Short Group,E-commerce,Referral,40909,Low,New,Joneston,2026-01-30
+28,Justin Torres,davidduran@example.net,+1-293-386-7749x649,Garrett LLC,Real Estate,Chatbot,35757,High,Converted,East Johnside,2026-01-15
+29,Jason Norris,ocarter@example.com,001-447-613-4936x183,Jones and Sons,Retail,Website,24788,High,Qualified,Brookeshire,2026-02-26
+30,John Torres,gbender@example.net,271.690.6594x0139,"Williams, Avila and Ruiz",Healthcare,Referral,6161,Low,Lost,Moonburgh,2026-04-24
+31,Robert Costa,vbailey@example.com,+1-712-356-7468x07154,Hancock-Bryan,Technology,Referral,9241,Low,Lost,Lake Mollymouth,2026-03-22
+32,Joseph Dean,wgarrett@example.org,548.424.7710,Pierce-Tran,Healthcare,Instagram,35581,High,Lost,East Victoriaville,2026-03-31
+33,Maria Moore,william46@example.com,737.682.6398x2146,Campbell LLC,Real Estate,Chatbot,48836,Medium,Qualified,Grimesmouth,2026-04-15
+34,Mr. Phillip Bennett,molly39@example.com,260.457.6627,"Sanford, Rivera and Garcia",E-commerce,LinkedIn,25472,Medium,Qualified,Garciamouth,2026-01-03
+35,Jennifer Pena,charlesharrington@example.com,696-515-8657x80913,"Davis, Good and Hodges",Healthcare,Facebook Ads,5196,Medium,Qualified,South Garrettport,2026-01-06
+36,Robert Carter,ryan38@example.com,001-922-421-9693,Murray LLC,Real Estate,Facebook Ads,1471,Low,Lost,Scotttown,2026-04-01
+37,Megan Moore,llandry@example.com,+1-664-674-3671x3695,Spence Ltd,Retail,Website,22654,Low,New,Hillshire,2026-05-14
+38,Valerie Lozano,swall@example.org,+1-753-439-4210x470,Browning LLC,Education,Facebook Ads,36339,Low,Converted,Thompsonberg,2026-04-15
+39,Holly Shaw,maria47@example.com,001-651-371-2368x5160,Richardson-Curry,Healthcare,Chatbot,31996,High,Qualified,Brendastad,2026-01-22
+40,Kaitlyn Harvey,rose31@example.net,446.812.0047x113,Watson-Avery,E-commerce,Google Ads,24219,Medium,New,Matthewsberg,2026-03-22
+41,Sandra Gilbert,antonio53@example.com,935.315.8506x431,"Lewis, Fowler and Maddox",Retail,LinkedIn,43824,High,Qualified,Port Matthewberg,2026-04-20
+42,Ronald Spencer,lisahall@example.org,+1-704-522-8421x020,"Morris, Thompson and Williams",E-commerce,Instagram,8161,Low,Lost,Foxland,2026-04-03
+43,Ivan Wheeler,ngordon@example.org,001-384-770-0766x1771,"Hernandez, Martinez and Weber",Healthcare,Google Ads,13025,Medium,Lost,Oscarhaven,2026-02-27
+44,Larry Garcia,farrelldebra@example.net,001-736-673-6576x6156,Mckay-Mcdaniel,Retail,Google Ads,37066,Low,Lost,Jonesland,2026-01-19
+45,Patrick Watson,angelawillis@example.net,+1-651-765-6049,Lane and Sons,Technology,Website,7112,High,Qualified,Lake Timothy,2026-01-22
+46,Justin Wilson,audrey68@example.net,+1-480-494-0244x550,"Sandoval, Jones and Figueroa",Education,Google Ads,15008,High,New,North Julieborough,2026-03-15
+47,Glen Wood,kimberly99@example.org,9229901476,Nelson-Fischer,Retail,Google Ads,18380,High,Qualified,West Russellport,2026-05-12
+48,Katelyn Estrada,walkertracey@example.org,2349324451,"Jordan, Anderson and Patel",E-commerce,LinkedIn,37422,Medium,Converted,New Angelica,2026-05-10
+49,Andrea Hensley,grahamsteve@example.org,796-396-6416x05297,Richard-Sanchez,Finance,Facebook Ads,4832,Medium,New,Warrenfurt,2026-03-02
+50,Connie Maxwell,dixondaniel@example.net,455.423.1243,"Jones, Bean and Burton",Finance,Website,4286,Medium,Lost,Webstershire,2026-03-29
+51,Sonia Day,michelle52@example.com,377-644-9058,Hayes-Brown,Real Estate,Facebook Ads,4727,High,Lost,Chaseland,2026-04-30
+52,Janice Carpenter,colelisa@example.net,759.378.2071,"Lucas, Williams and Zimmerman",Retail,Referral,5453,Medium,New,Warrenburgh,2026-03-12
+53,Douglas Ortiz,erika05@example.org,818-464-4925x19254,"Fletcher, Miller and Hansen",Real Estate,Facebook Ads,38940,Medium,Qualified,Lisahaven,2026-01-19
+54,Jessica Cox,kyle35@example.com,232.721.4188,"Anderson, Bennett and Martin",E-commerce,Referral,38042,Medium,Qualified,Lake Samuel,2026-03-21
+55,Nathan Montes,karen73@example.net,847.835.9774,Montoya PLC,E-commerce,Instagram,16642,Medium,Qualified,Port John,2026-05-05
+56,Mr. Timothy Dawson,mitchellkathryn@example.com,782.561.3750x606,Vang-Brooks,Finance,Google Ads,21720,High,Qualified,West Sarahmouth,2026-01-29
+57,Dustin Gallegos,katherineharrison@example.net,8103432898,Young-Martinez,Real Estate,Referral,7552,Low,New,South Danielle,2026-05-01
+58,Brian Stein,chenbailey@example.net,(446)309-5396,"Villegas, Jones and Fox",Healthcare,Instagram,5508,High,New,South Morganton,2026-05-04
+59,James Burgess,kristina53@example.net,+1-319-952-0585x27722,Carter Inc,Education,Chatbot,36600,High,New,North Leslie,2026-03-02
+60,Virginia Daniels,benjamin34@example.com,001-705-641-5667x65277,Acosta Inc,Technology,LinkedIn,35664,Low,Qualified,Morrisonburgh,2026-04-16
+61,Brian Murphy,kirk96@example.org,001-775-470-5964x016,Thomas PLC,E-commerce,Website,9800,Medium,Qualified,Johnsonland,2026-02-15
+62,Holly Reyes,jacobserika@example.com,(271)492-8565x431,Holmes-Mcintyre,Healthcare,Instagram,19465,Medium,New,West Kimberlymouth,2026-02-11
+63,Donna Hendricks DDS,taylorcharles@example.org,001-771-555-1884x422,Galloway and Sons,E-commerce,Chatbot,18300,Medium,Lost,Port Troy,2026-03-12
+64,Jackie Lara,cherylmiller@example.com,(778)466-9125x1778,"Bowman, White and Burch",Technology,Website,7048,Medium,New,Shawton,2026-01-25
+65,Elizabeth Martin,michaeleverett@example.com,343-484-2498,"David, Moore and Hopkins",Finance,Chatbot,9573,Medium,New,Meganshire,2026-01-08
+66,Alyssa Williams,debra96@example.net,+1-407-984-4736x4710,Washington-Harris,Education,Referral,47246,Medium,Qualified,West Michelle,2026-03-04
+67,Shannon Hester,kathleenrobertson@example.org,537-414-7321x04696,Peck-Griffith,E-commerce,Facebook Ads,36755,Low,Qualified,Port Erik,2026-04-10
+68,Shawn Jimenez,landrywilliam@example.org,695.200.4797,Jordan LLC,Healthcare,Google Ads,9352,Low,New,Kathrynstad,2026-01-09
+69,Kelly Lee,charles87@example.net,599-812-1655x852,"Williams, Williams and Reeves",Technology,Chatbot,3614,High,Qualified,Stoneberg,2026-04-28
+70,Brenda Velazquez,francisco94@example.net,688-287-9470x55169,"Wells, Coffey and Patton",E-commerce,Website,24178,High,Lost,Lake Brett,2026-04-04
+71,Mark Harvey,rhernandez@example.org,8915307562,Shaw-Carr,E-commerce,Facebook Ads,16514,High,Lost,Salaston,2026-05-18
+72,Daniel Nguyen,ufox@example.org,685.585.4973x348,Wise-Bush,Retail,Facebook Ads,49271,High,New,Stewartstad,2026-04-19
+73,Rebecca Hill,berryamy@example.com,(624)604-1574x733,Rodriguez Ltd,Technology,LinkedIn,17263,Medium,New,East Brent,2026-04-14
+74,David Garcia,jennifer12@example.org,+1-226-377-3454,"Andrews, Nichols and Sharp",Retail,Chatbot,31847,Low,New,East Robertburgh,2026-01-08
+75,Jennifer Simpson DVM,nancy04@example.net,+1-515-347-8872x874,Martin-Stevens,Technology,Chatbot,15915,Low,New,Jennifertown,2026-05-24
+76,Edward Craig,gregorychase@example.com,(585)916-1227x53046,Finley-Turner,Finance,Chatbot,5549,High,New,West Desireebury,2026-01-13
+77,Julie Moore,hannah45@example.net,932.572.7956,Becker PLC,Real Estate,Google Ads,45532,High,Converted,New Seanstad,2026-01-16
+78,Ashley Poole,ashleyhernandez@example.com,971.239.7187x07286,"Ford, Roman and Cummings",Retail,Website,18118,Low,New,Scotttown,2026-05-25
+79,Benjamin Henderson,weaverbrian@example.org,404.762.2656x7661,White PLC,Real Estate,Google Ads,23654,High,Qualified,Ricebury,2026-01-01
+80,Veronica Ford,opatel@example.org,352.343.1069x033,"Johnson, Harper and Warner",Real Estate,Website,26244,High,Qualified,East Joyfurt,2026-03-27
+81,Daniel Shields,taylorvictoria@example.org,001-695-299-5342x8364,"Fry, Hobbs and Buck",E-commerce,Google Ads,1110,Medium,Qualified,Peterston,2026-03-08
+82,Megan Floyd,heather62@example.com,(428)873-3427x0866,Scott LLC,E-commerce,LinkedIn,44950,Low,Qualified,South Melanieland,2026-04-15
+83,Cheryl Adams,russojacob@example.net,001-583-873-5403x3173,Arnold LLC,E-commerce,Instagram,41839,Medium,Qualified,Owensstad,2026-03-01
+84,Jose Crawford,langjennifer@example.com,655.860.9320,Hernandez-Rivera,Finance,Referral,21269,Medium,Qualified,Hudsonbury,2026-04-07
+85,Terri Morgan,plevy@example.net,372.252.2872x8080,Gutierrez Ltd,Finance,Referral,9341,Low,Qualified,North Jasmine,2026-01-02
+86,Jesus Brown,bhopkins@example.org,+1-286-800-8484,Rodriguez Inc,Healthcare,Referral,38296,Medium,Qualified,East James,2026-04-13
+87,Hector Norton,watsonrichard@example.net,934.210.1666,"Smith, Jackson and Porter",Finance,Instagram,14774,Medium,Qualified,Newmanmouth,2026-04-20
+88,Valerie Jacobson,hallrachel@example.net,001-474-701-4890,Ali PLC,Finance,Google Ads,29952,Medium,Qualified,Port Lori,2026-03-19
+89,Elizabeth Elliott,irhodes@example.com,(821)785-0163x1599,Walters Group,Technology,Chatbot,49231,Low,New,Perezside,2026-03-14
+90,Michael Guerrero,bartonkenneth@example.org,001-211-642-6265x511,Ward-Nelson,E-commerce,LinkedIn,41583,Medium,Converted,North Jacob,2026-03-29
+91,Kayla Garcia,gomezchristopher@example.net,460-646-6183x98262,Adams-Thomas,Healthcare,Chatbot,14050,Low,Lost,South Joshua,2026-02-28
+92,Mr. David Wright,mwheeler@example.com,924-706-5965,Ochoa-Villarreal,Education,Referral,5772,Medium,Converted,West Malik,2026-05-16
+93,Ernest Oconnell,kelly79@example.org,564-965-1939x82807,Guerra-Jones,E-commerce,LinkedIn,26164,Medium,Qualified,Chambersberg,2026-05-03
+94,David Moore,emccormick@example.com,+1-379-368-8680x589,Sandoval LLC,E-commerce,Website,7985,High,Qualified,Lake Cheyenne,2026-04-20
+95,Miss Jennifer Goodwin,grodriguez@example.com,888.989.9375,"Chapman, Mason and Cooper",E-commerce,Referral,31444,Low,New,South Danchester,2026-01-17
+96,Todd Thomas,matthew38@example.com,(371)477-5140x105,"Sanchez, Thompson and Moore",Retail,Google Ads,9738,High,Lost,Mullenbury,2026-03-20
+97,Charlotte Sandoval,njohnson@example.org,496.760.3341x918,Gonzalez-Wilson,Real Estate,Instagram,30004,Medium,New,Rosemouth,2026-04-26
+98,James Wilson,megan92@example.net,001-749-491-2513x412,"Price, Carlson and Andrews",Real Estate,Google Ads,11430,High,Qualified,Lopezside,2026-05-15
+99,Tara Thompson,tracytaylor@example.com,890.950.7236x887,Mckinney-Wallace,Technology,Facebook Ads,42789,Medium,Qualified,North Ariana,2026-05-28
+100,Andrew Walker,gary79@example.net,001-578-881-9148x58078,Fitzgerald Ltd,Healthcare,Instagram,29827,Low,New,West Nancy,2026-01-07
+101,Gregory Montoya,hgrimes@example.org,595.296.2923,"Bell, Campbell and Ryan",Finance,Instagram,36399,Low,New,Tiffanyport,2026-02-26
+102,Tiffany Robertson,taylorkaren@example.com,9424232536,"Chen, Burton and Brooks",E-commerce,Facebook Ads,47295,Low,New,Lake Lauraland,2026-03-20
+103,Diana Mayer,shawn75@example.net,5179518636,Morris-Campbell,Real Estate,Google Ads,28248,Low,New,New Melissa,2026-03-08
+104,Pamela Williams,ksmith@example.com,706.432.4241x541,Sanders LLC,Technology,Referral,46581,Low,Converted,South Diana,2026-05-17
+105,Daniel Miller,aprilwallace@example.org,001-751-762-7136x111,Taylor-Ayala,Retail,Instagram,20569,High,Qualified,Lake Victoria,2026-01-28
+106,Justin Bishop,scottbowen@example.net,001-826-797-3112x1965,Wright Ltd,E-commerce,Referral,40534,High,Converted,East Angelaport,2026-06-01
+107,Alyssa Boone,jamie98@example.org,001-264-703-7613x7918,Anderson-Valencia,Education,Google Ads,2902,Medium,Qualified,Diazburgh,2026-05-29
+108,William Jones,smithjason@example.org,(384)686-6618x8924,Dixon and Sons,Technology,Google Ads,9364,High,Qualified,New Mark,2026-04-24
+109,Sandra Becker,collinssamuel@example.org,6314617990,Smith and Sons,Education,Referral,37987,Medium,Converted,East Tylerstad,2026-04-12
+110,Samantha Green,david41@example.org,464-781-4917x78507,Scott Inc,Healthcare,Chatbot,31257,Low,New,East Joycetown,2026-01-09
+111,Alexandria Williams,patrick22@example.org,+1-763-353-6541,"Nunez, Williams and Walker",Healthcare,Google Ads,22420,Medium,Qualified,South Caseymouth,2026-02-24
+112,Emily Miller,msmith@example.com,001-549-437-5973,Randolph Inc,Technology,Google Ads,17532,High,Qualified,New Michael,2026-05-15
+113,Tiffany Smith,usweeney@example.com,338-236-7024,Merritt PLC,Real Estate,Website,23935,Low,Lost,Haynesstad,2026-03-31
+114,Angela Davis,danafoster@example.net,001-706-723-4456,Nelson-Jones,E-commerce,Website,3033,High,New,East Kimberly,2026-04-24
+115,Brian Cole,richard85@example.org,447.341.1249x035,"Wright, Kelly and Palmer",Real Estate,Facebook Ads,16633,Low,Lost,Jorgeburgh,2026-01-07
+116,Sarah Hawkins,codygarcia@example.org,600-332-3651,Osborn and Sons,Healthcare,Google Ads,46840,Medium,Qualified,Lambland,2026-03-06
+117,Tom Williams,zunderwood@example.com,9664253244,Mendez PLC,Real Estate,LinkedIn,48078,Low,Lost,Lake Kenneth,2026-03-22
+118,Karen Miller,mtaylor@example.net,638.406.5787x59856,Flores and Sons,Retail,Referral,2682,High,Converted,Port Kimberlyton,2026-04-02
+119,Pamela Key,craigsandoval@example.com,+1-703-796-5223,"Johnson, Haynes and Meza",Education,Google Ads,47859,Low,Converted,New Stacy,2026-04-06
+120,Casey Johnson,halljeffery@example.net,405.393.2525x0029,"Valencia, Yu and Brooks",E-commerce,Facebook Ads,7678,Medium,Lost,Willismouth,2026-02-28
+121,William Oconnor,fconner@example.net,828-295-3926x44220,Guzman PLC,Real Estate,Chatbot,8933,High,New,Lake Ariana,2026-04-07
+122,Patrick Young,gary15@example.com,2438315410,Oconnor-Costa,Finance,Referral,29074,Medium,Qualified,Snyderfurt,2026-03-10
+123,Ashley Mendoza,franciscojones@example.org,705-941-1526x2181,"Johnson, Dunlap and Martin",Finance,Website,28528,High,Qualified,Mooreville,2026-03-06
+124,Colton Terry,donna43@example.org,8693872050,Colon-Weber,Finance,LinkedIn,31129,High,Converted,Gonzaleztown,2026-02-10
+125,Edgar Miller,parkerraymond@example.com,+1-941-686-2565x27047,Hood PLC,Real Estate,LinkedIn,18700,Medium,New,East Karenville,2026-01-17
+126,Rhonda Gutierrez,angelarandall@example.net,(487)393-7416x08989,Thompson-Joyce,Education,Google Ads,48908,Medium,New,Port James,2026-01-09
+127,William Graham,maryscott@example.net,916-286-8548,"Dean, Mills and Barnes",Technology,Website,19279,High,New,Hernandezshire,2026-04-25
+128,Traci Garcia,hartcraig@example.com,+1-256-446-7997,Powell-Montgomery,Real Estate,Referral,44790,Medium,Qualified,Williamsmouth,2026-05-15
+129,Patrick Mccall,andrew44@example.com,513.824.7546x9137,"Washington, Black and Brooks",Finance,Facebook Ads,32952,Low,New,New Laceyland,2026-03-02
+130,Jennifer Deleon,thompsonnancy@example.org,9308705345,"Leblanc, Maldonado and Allen",Real Estate,LinkedIn,19105,Medium,New,Wheelerburgh,2026-04-03
+131,Hannah Martin,kaitlyn14@example.org,(902)493-3334x6800,"Thompson, Owen and Walker",Retail,Facebook Ads,48190,Medium,New,Jenniferview,2026-03-24
+132,Sarah Stevens,stevenbyrd@example.net,(391)708-5899x4417,Davidson-Hensley,E-commerce,Google Ads,43329,High,Qualified,Dianaport,2026-02-06
+133,Ralph Yoder,rguerrero@example.org,001-507-944-6660x9935,"Howard, Evans and Jackson",Retail,Instagram,15522,Medium,New,West Connor,2026-01-25
+134,Molly Hansen,staceylam@example.net,635-934-6554,Ruiz Ltd,Real Estate,Instagram,32015,Medium,New,South Pamelahaven,2026-01-24
+135,Jane Evans,pittsedward@example.org,969-672-5217x52500,Juarez and Sons,E-commerce,Referral,22678,Medium,Qualified,South Kristen,2026-06-01
+136,Lucas Schultz,epatterson@example.com,2082350583,"Gross, Perez and Wiley",Finance,Facebook Ads,8907,High,New,Davidfurt,2026-04-08
+137,Carol Colon,stacy78@example.net,556.225.7532x60332,"Wagner, Martinez and Dawson",Real Estate,Chatbot,46230,Low,Qualified,South Nancyview,2026-05-30
+138,Amber Vang,valdezandrew@example.net,567-261-8472,Fisher-Garcia,Finance,LinkedIn,39639,High,Qualified,Cindyberg,2026-03-23
+139,Ashley Higgins,campbellkristen@example.com,493.248.3564,"Crawford, Clark and Fitzpatrick",Retail,Chatbot,13721,Medium,New,Jimmytown,2026-05-11
+140,Brian Andrews,fhernandez@example.net,314-437-4470,Phelps LLC,Retail,LinkedIn,36005,Low,Lost,Ronaldville,2026-01-19
+141,Stefanie Smith,elizabethjackson@example.com,894.915.5216x674,Banks-Robles,Real Estate,Instagram,46705,High,Qualified,East Heatherton,2026-01-31
+142,Thomas Webb,ywhite@example.com,+1-202-577-1670x145,"Marks, Stone and Watts",Education,Website,1803,Medium,New,South Dorothybury,2026-04-04
+143,Michael Cruz,smithsarah@example.net,872.817.5354x0838,Miller Group,Finance,Facebook Ads,4367,Medium,New,Millerfort,2026-03-28
+144,William Mcgee,garciarobert@example.net,+1-901-799-4883,Bryan-Velasquez,Retail,Google Ads,33227,Low,Converted,Riverafort,2026-05-20
+145,Michelle Wilson,aaronkelly@example.net,588-551-0272x6149,Conrad Group,Healthcare,Facebook Ads,37886,High,Lost,South Makayla,2026-02-07
+146,Ashley Perry,bartonshannon@example.net,001-982-470-8086,"Lane, Cross and Anderson",Retail,Referral,28274,Medium,Qualified,Sandovalmouth,2026-04-08
+147,Jennifer Lynch,joshuastuart@example.com,522.669.8485x833,"Reed, Chambers and Zavala",Real Estate,Google Ads,30524,High,New,New Amy,2026-05-04
+148,Brian Bell,qaguilar@example.net,(484)660-8106x20034,"King, Franco and Vaughn",Education,Instagram,38265,Medium,Lost,Jamesside,2026-01-07
+149,Jesse Jensen,juliahoffman@example.org,540.766.6580x04397,"Payne, Morrison and Parsons",Retail,Chatbot,14617,Medium,Qualified,West Shane,2026-05-13
+150,Victor Moss,bennettroy@example.net,222-694-0572x025,Tyler-Pierce,Healthcare,Facebook Ads,12391,Medium,New,Port Jasminehaven,2026-02-12
+151,Kelly Hartman,robertherrera@example.org,(233)355-5439x878,"Reed, Allen and May",Education,LinkedIn,39916,Medium,Qualified,North Felicia,2026-03-04
+152,Robert Wilson,amber40@example.net,001-258-387-7043x58112,Santiago and Sons,E-commerce,Instagram,47070,High,Converted,Houstonborough,2026-04-15
+153,Sherry Figueroa,elucas@example.net,+1-520-675-0110x24819,Hughes-Mccoy,Finance,Chatbot,41963,Medium,Qualified,Stewartfurt,2026-05-11
+154,Aaron Cortez,avilabrenda@example.net,958-814-4914,Short-Johnson,Real Estate,Facebook Ads,43443,Low,Lost,New Jeffrey,2026-05-26
+155,Robert Gardner,kennetheaton@example.net,+1-350-688-2100x9968,Goodman Ltd,Retail,Website,11873,High,New,Jasonhaven,2026-01-28
+156,Daniel Davenport,dannylambert@example.net,5879814141,Howard-Lambert,Real Estate,Instagram,29780,Low,Qualified,North Justin,2026-01-14
+157,Emily Hayes,heather29@example.net,(756)920-5336x452,Griffin-Hampton,Finance,Referral,36388,Medium,Converted,Arnoldburgh,2026-05-06
+158,Sarah Trevino,patriciagonzalez@example.net,+1-611-908-0996x9308,"Rowe, Diaz and Walker",Education,LinkedIn,22123,Medium,New,Dennishaven,2026-04-10
+159,Jack Smith,melaniedrake@example.net,+1-928-527-2299x27503,Baker and Sons,E-commerce,Chatbot,38696,Medium,Lost,Lake Jamiestad,2026-03-17
+160,Jesse Williams,dakota84@example.net,898-592-6659x184,"Sullivan, Roth and Reed",E-commerce,Chatbot,18662,Medium,New,Eatontown,2026-04-08
+161,Jessica Hall,jason22@example.com,+1-813-265-1777x392,Williams PLC,E-commerce,Google Ads,19229,Low,New,East Crystal,2026-01-08
+162,Bridget Jackson,zacharysullivan@example.net,+1-404-413-7977x2369,"Keller, Baker and Ramsey",Technology,Google Ads,6979,Medium,New,Sandrashire,2026-01-14
+163,James Rodriguez,alexandrablankenship@example.net,(429)212-7990x88117,"Banks, Boyd and Wood",E-commerce,Website,11539,Medium,Qualified,Lake Alyssabury,2026-04-04
+164,Jane Chapman,colemanjonathan@example.org,349-286-4300,Pena-Watts,Education,Chatbot,37051,Low,New,Robertville,2026-01-31
+165,Kevin Green,ncunningham@example.com,+1-763-868-8725x88744,"Taylor, Shields and Wilson",Finance,Website,27488,High,Converted,South Krista,2026-02-01
+166,Jordan Hartman,martintamara@example.org,727-396-1143,"Johnson, Cruz and Joyce",Real Estate,Google Ads,28082,Low,New,Jenniferton,2026-05-31
+167,Margaret Gonzales,melissagalvan@example.net,430-398-8392x0530,Chan-Gomez,Technology,Google Ads,41986,Medium,Qualified,Sullivanborough,2026-04-11
+168,Michael Calhoun,jessica89@example.com,(343)393-7690x426,"Phillips, Arroyo and Pratt",Real Estate,Facebook Ads,19876,Medium,New,Nancyshire,2026-02-18
+169,Tracy Hart,katherineali@example.com,+1-279-607-1416x33565,Mitchell Group,E-commerce,Referral,16682,High,Converted,Charlesburgh,2026-04-03
+170,Daniel Berry,staceyvega@example.org,333.334.3333x9521,"Sosa, Vasquez and Smith",Real Estate,Google Ads,7108,Low,Lost,Port Timothymouth,2026-04-06
+171,Sierra Andrews,travis84@example.com,792.808.6780,"Parsons, Bryant and Martinez",Retail,LinkedIn,11090,Medium,New,Stewarttown,2026-01-03
+172,Jamie Garcia,chloe42@example.net,734-779-5527x636,Ramirez-White,Finance,Google Ads,32621,High,Qualified,New Gina,2026-01-20
+173,Regina Peters,zgonzalez@example.net,(770)926-7288,King-Garrison,Healthcare,Google Ads,13491,High,New,South Coreyburgh,2026-01-12
+174,David Combs,colematthew@example.com,(488)645-0615x939,Nguyen-Dixon,Healthcare,Chatbot,5575,Medium,New,Prestonfurt,2026-04-30
+175,Mark Thomas,daniellemcfarland@example.com,+1-899-661-1253x5544,Norman-Mcmillan,Technology,Referral,18509,High,New,Gutierrezburgh,2026-01-05
+176,David King,clarkrandy@example.org,678-400-6811,Pena Group,Technology,Referral,39005,High,Qualified,Jeromeport,2026-03-28
+177,Bonnie Roberson,johnsonmichael@example.com,878.648.7282x9979,Olson-Perez,Education,Referral,32741,Medium,New,South Kylechester,2026-02-20
+178,Adam Mills,mauriceharrison@example.org,001-577-840-6493x085,"Kim, Wright and Espinoza",Education,Google Ads,22088,High,Converted,Claytonbury,2026-02-21
+179,Mario Black,justin84@example.com,612.924.1797,Flores and Sons,Healthcare,Chatbot,27920,Low,Qualified,New Andrewville,2026-02-24
+180,Mike Acosta,christophersmith@example.org,964-475-7051x20461,Huang LLC,Technology,Google Ads,26302,High,New,Claytonville,2026-05-30
+181,Janice Proctor,joanjohnson@example.com,001-618-937-6452x0881,"Evans, Ward and Williams",Education,Website,9273,Medium,New,North Joel,2026-03-26
+182,Christopher Hill,fosterjohn@example.org,001-379-725-1327,"Brown, Kelly and Moore",Retail,Chatbot,29855,Low,New,East Tonymouth,2026-04-19
+183,Nicole Trujillo,bquinn@example.net,(452)740-7784x8739,Oconnor-Hill,Healthcare,Google Ads,43911,High,Qualified,North Amanda,2026-03-29
+184,Dennis Richardson,parsonswilliam@example.net,(809)559-3518,"Vega, Cannon and Moore",Finance,Instagram,41845,Medium,Qualified,Marcusmouth,2026-01-22
+185,Matthew Williams,gregoryjohnson@example.org,531.309.6789x9405,Conrad and Sons,Finance,Chatbot,45194,High,New,Hebertland,2026-04-01
+186,Amy Grant,yshort@example.net,3943801413,"Hall, Cruz and Lee",E-commerce,LinkedIn,32978,High,Converted,New Colleen,2026-02-04
+187,Kristin Reese,emily61@example.org,(786)785-2897,"Frey, Nguyen and Watson",Healthcare,LinkedIn,45852,High,Qualified,Mckenziemouth,2026-04-29
+188,Joshua Brooks,michael77@example.com,6045908240,Foley Inc,Education,Website,42533,High,Qualified,Samanthahaven,2026-04-19
+189,Laura Davis,ikelly@example.com,(793)934-4196x931,Freeman Ltd,E-commerce,Instagram,2897,Low,Lost,New Dawnton,2026-05-22
+190,Jane Deleon,michael66@example.org,001-539-406-0480x58925,Nunez Group,Finance,Google Ads,10540,Low,Qualified,Mullinsshire,2026-04-09
+191,Jeffrey Hartman,davidmiller@example.net,001-508-964-1686x2278,Pearson-Gonzalez,Technology,Facebook Ads,12140,Low,Lost,East Charles,2026-05-31
+192,Michael Johnston,powersrodney@example.com,955.490.4259,Williams-Meyers,Real Estate,LinkedIn,16783,Medium,Qualified,Lake Nathaniel,2026-05-28
+193,Angelica Singh,stacymcintosh@example.com,5515477053,"Mills, Green and Webb",Education,LinkedIn,17644,Medium,Lost,Lake Holly,2026-01-04
+194,Taylor Rose,george43@example.net,+1-840-570-1645x104,Romero-Mckinney,Education,Instagram,45407,Medium,New,Toddside,2026-01-18
+195,Jonathan Ellis,williamssandra@example.com,876-220-5554x38404,"Avery, Perez and Peterson",Finance,Referral,20605,Medium,Converted,Sandovalland,2026-05-22
+196,Tyler Salazar,robertberry@example.com,495-878-2329x8324,Douglas PLC,Education,Chatbot,20799,Low,Lost,West Carlos,2026-04-14
+197,Bailey Stewart,jessicacannon@example.com,(547)542-3122x09949,Mcdaniel LLC,Retail,Facebook Ads,25993,Medium,Qualified,Lake Kimberlyberg,2026-04-08
+198,Julie Banks,melissahenry@example.org,(533)506-0463,Thompson Group,E-commerce,Instagram,2437,High,New,Wattsmouth,2026-02-17
+199,Ricardo Franklin,zcortez@example.net,001-899-288-0817x7038,"Hughes, Hubbard and Estes",Real Estate,Chatbot,45944,High,New,West Scott,2026-03-01
+200,Donna Jackson,christie08@example.org,971.281.2982x665,Chavez Ltd,E-commerce,Google Ads,19756,High,Converted,South Christopher,2026-03-04
+201,Susan Hogan,davisjasmin@example.net,(718)468-9268x602,Melton and Sons,Finance,Facebook Ads,42721,Low,Qualified,South Kylemouth,2026-02-26
+202,Autumn Anderson,adamcannon@example.org,877.980.9733x977,Burke Inc,E-commerce,Chatbot,44200,Medium,Converted,New Joshua,2026-05-03
+203,Samantha Williams,brianbailey@example.org,4994451016,"Mitchell, Guerrero and Graves",E-commerce,LinkedIn,3583,Medium,New,South Kara,2026-03-11
+204,Anna Evans,priscilla16@example.net,547-521-4586,"Brown, Duncan and Krause",Finance,LinkedIn,9612,Low,New,South Jenniferport,2026-03-24
+205,Emily Fox,sara99@example.com,877.829.3430x10713,Cook PLC,Education,Facebook Ads,14159,Low,Lost,North Danielle,2026-05-14
+206,Richard Parker,katie15@example.com,(499)902-3557x7027,"Huang, Ford and Olsen",Finance,Referral,33885,High,Converted,Port Adrianashire,2026-05-21
+207,Kristen Smith,lauren51@example.org,605-768-2996x291,"Johnson, Gutierrez and Crawford",Technology,Google Ads,20342,High,New,West Shannon,2026-02-28
+208,Eric Rodriguez,stricklandrobin@example.com,407.582.3578x45218,"Johnson, Hughes and Hancock",Education,Website,10224,High,New,North Larryton,2026-05-14
+209,Shelby Cook,garciakatie@example.net,309-643-5334x4857,Moore Inc,E-commerce,LinkedIn,27044,High,Converted,New Anitaville,2026-02-10
+210,Kirsten Nelson,audrey21@example.com,+1-358-870-2070x160,White-Carlson,Technology,Google Ads,1912,Medium,New,Jensenport,2026-03-06
+211,Michelle Lambert,beltrankatelyn@example.com,001-521-571-7477,Callahan PLC,E-commerce,LinkedIn,45062,Medium,New,Robertafurt,2026-02-05
+212,Mary Mccormick,shawn01@example.com,457-372-4599,Roth-Robles,Finance,Website,45226,Low,Qualified,Angelaland,2026-02-28
+213,Jennifer Gutierrez,amydickson@example.com,553-496-6958,"Caldwell, Stevenson and Joseph",Real Estate,Instagram,40982,Low,Qualified,Wilsonmouth,2026-03-05
+214,Samantha Thompson,gjones@example.net,+1-965-670-1329x022,Gilbert-West,Education,LinkedIn,20804,Medium,Qualified,Lake Natalie,2026-02-28
+215,Susan Torres,wrobbins@example.org,001-209-286-2405,"Castro, Irwin and Rodriguez",Retail,Instagram,33284,Low,New,Michellebury,2026-03-25
+216,Jennifer Flores,bsullivan@example.net,427.623.8656,"Martinez, Smith and Wong",Healthcare,Google Ads,30729,Medium,Qualified,Lake Nicole,2026-05-08
+217,William Miller,ydalton@example.net,+1-469-827-8687x653,"Smith, Jimenez and Simon",E-commerce,LinkedIn,11126,High,Converted,Robertside,2026-04-22
+218,William Carroll,daniel71@example.org,001-684-278-1891x3718,Nichols-Smith,Education,Referral,27746,High,Converted,Huntfort,2026-04-22
+219,Jennifer Yu,keith09@example.net,994-307-9290x4904,Wagner LLC,Finance,Facebook Ads,30057,Medium,Lost,Davidview,2026-02-23
+220,Alexis Rodriguez,reneestevenson@example.net,452.943.7280x512,Townsend-Young,Retail,LinkedIn,25073,Medium,Qualified,Barberburgh,2026-02-10
+221,Sarah Brown,karla10@example.org,867.247.8366x742,Ho-Cole,Education,Instagram,13439,High,Qualified,Suzanneton,2026-01-19
+222,Marcia Blanchard,pbishop@example.com,744-214-9673x93852,"Smith, Jones and Jenkins",Healthcare,LinkedIn,42909,Medium,Qualified,Lake Seanbury,2026-05-21
+223,Corey Johnson,brownbrooke@example.org,+1-611-919-2692x124,"Mayer, Fowler and Livingston",Finance,Facebook Ads,9252,High,New,Kaylamouth,2026-02-19
+224,Benjamin Waters,dprice@example.com,827-517-3962x712,"Schneider, Gaines and Baldwin",Technology,Referral,14576,Medium,Qualified,North Charlesshire,2026-05-22
+225,Jeremy Mosley,denisesmith@example.org,+1-564-225-6908x77661,Finley-Meyers,Healthcare,Chatbot,40058,Low,Lost,Martinezside,2026-03-11
+226,Eric Brown,diazmelissa@example.com,674-832-8063,Mccoy LLC,Real Estate,Instagram,12435,Low,Lost,Millermouth,2026-05-23
+227,Andrew Johnson,tracybrown@example.net,+1-547-987-0050x5061,"Berg, Herrera and Figueroa",Finance,Chatbot,16593,Medium,New,North Benjamin,2026-01-28
+228,Alec Meadows DDS,jacquelineanderson@example.org,+1-504-317-9291x1179,Simmons Ltd,Retail,Facebook Ads,49609,Medium,Qualified,Nguyenshire,2026-04-17
+229,Russell Mcguire,watkinsmatthew@example.org,326-825-8273x902,Smith Group,Education,Google Ads,24726,Medium,New,North Adrianland,2026-05-18
+230,Stacie Butler,nschwartz@example.org,+1-348-676-3290x9279,Barnes-Grant,Healthcare,Referral,3841,High,Qualified,North Valerie,2026-01-19
+231,Shari Hatfield,stevensims@example.org,603-512-7722x005,King-Jensen,E-commerce,Website,4986,High,Qualified,Williamston,2026-04-15
+232,Richard Washington,jonesjoe@example.com,001-595-363-5315,Rojas and Sons,Retail,Google Ads,47687,High,New,Vanceland,2026-04-02
+233,Amy Graham,sarahgibson@example.com,(627)435-4352x090,York Group,Finance,Referral,10721,Low,Qualified,Jacksonmouth,2026-02-12
+234,Lindsey Clarke,belindatran@example.org,268-873-9774,"Salas, Wright and Hamilton",Real Estate,Referral,47671,Medium,Converted,New Sophia,2026-04-22
+235,Jennifer Williams,gquinn@example.org,(786)671-7731x80632,Holland Inc,Education,Referral,40677,Medium,New,South Elizabethburgh,2026-05-17
+236,Kelly Silva,iford@example.net,(525)370-1658x0464,"Gilmore, Fitzgerald and Brown",E-commerce,Chatbot,37132,High,Qualified,Pamelaville,2026-03-16
+237,Manuel Diaz,deborahbush@example.net,001-732-653-8179x335,"Frazier, Ramirez and Brown",Healthcare,Google Ads,23212,High,Qualified,Shaunhaven,2026-04-13
+238,Julie Patel,shannon51@example.org,911.462.4112x412,Meyer Ltd,Retail,Instagram,28968,Medium,New,West Robertside,2026-01-26
+239,Jason Rojas,carterbryan@example.org,456.695.5798x87749,Mccormick and Sons,Healthcare,LinkedIn,32081,Low,New,Watsonport,2026-05-30
+240,Brittany Mitchell,christinemartin@example.net,722-422-3105x9274,Hart Inc,Retail,LinkedIn,49417,Medium,Converted,Tiffanyberg,2026-03-14
+241,William Ferguson,knapprichard@example.com,001-927-752-0885x47492,"Rodriguez, Mendoza and Williams",Real Estate,Referral,37810,Medium,Qualified,West Angelbury,2026-03-28
+242,Gabriel Franklin,brandywalker@example.com,901.787.1863,"Jacobs, Harding and Kerr",Technology,LinkedIn,28717,High,Lost,Raymondchester,2026-03-13
+243,Adam Cooper,tiffany81@example.org,001-576-674-2662x9912,Mcneil-Fox,Real Estate,Instagram,24045,Low,New,Carlshire,2026-05-27
+244,Aaron Fowler,robert87@example.net,001-623-626-4870,Hansen-Ford,E-commerce,Google Ads,15696,High,New,Port Aaronview,2026-02-28
+245,Sandra Kennedy,robert73@example.org,847-619-5979,"Jennings, Mccann and Cardenas",Finance,Website,19256,Medium,New,Williamshire,2026-01-04
+246,Carla Brown,steven25@example.org,3455650448,"White, Davis and Goodwin",Technology,Chatbot,41745,Medium,Converted,Moniqueport,2026-02-22
+247,Melissa Davis,madeline02@example.net,357-865-2132x8338,Moon-Wilson,Real Estate,LinkedIn,46447,Medium,Qualified,North Timothy,2026-03-02
+248,Brenda Ramos,gerald40@example.net,332-823-4232,"Hines, Rodriguez and Smith",Technology,Instagram,23270,Medium,Lost,Toddton,2026-02-08
+249,Ricky Palmer,harrisonrebekah@example.org,440-711-9393,Davis Ltd,Real Estate,LinkedIn,27265,Low,Lost,Stacystad,2026-03-10
+250,Jonathan Chandler,williamjones@example.net,001-408-933-4280x13875,"Rosario, White and Kelly",Retail,LinkedIn,35765,Low,Qualified,Colemanhaven,2026-02-14
+251,Philip Edwards,irodriguez@example.com,001-954-580-1571x64794,"Russell, Mercer and Patterson",Healthcare,Instagram,21423,High,Converted,Port Leahstad,2026-02-04
+252,Michael Powers,qkim@example.net,712-566-9121,Gonzalez-Anthony,Retail,Facebook Ads,11316,High,Qualified,Martinezchester,2026-05-21
+253,Dr. Ralph Wheeler DDS,qkelly@example.net,(278)342-7114x7732,"Brown, Jones and Gregory",Finance,Google Ads,44380,Medium,Qualified,South Cassandra,2026-03-05
+254,Marco Davis,guerreroapril@example.com,234.877.8485x880,Reyes LLC,Finance,Facebook Ads,34577,Low,New,Ramoston,2026-01-07
+255,Matthew Chan,travistaylor@example.net,(271)897-8897x7828,Simpson-Arellano,E-commerce,LinkedIn,39871,Medium,Qualified,Katieport,2026-03-04
+256,Kevin Anderson,michael90@example.net,361-365-5650x33349,Wilson-Jackson,Education,Referral,4590,Low,Lost,Benjaminchester,2026-04-21
+257,Jennifer Smith,uchapman@example.com,001-965-791-7135,Mendez LLC,Technology,Facebook Ads,17745,Medium,New,Harrisland,2026-04-15
+258,Derek Evans,nballard@example.net,991-895-4198,Reed Inc,E-commerce,Google Ads,12514,Low,Qualified,Williamport,2026-03-26
+259,Emily Perry,colleen78@example.org,8822973748,"Gonzalez, Ford and Allen",Real Estate,Referral,44781,High,Converted,Meganchester,2026-03-03
+260,Susan Walters,sadams@example.net,(249)536-3123,Marshall-Castro,E-commerce,Website,29588,Low,Lost,Hendersonton,2026-02-09
+261,Chad Green,donna20@example.net,500.315.9416x5162,"Navarro, Fitzpatrick and Boyd",Real Estate,Google Ads,38578,Medium,Qualified,Tylerland,2026-02-16
+262,Patricia Edwards,vshaffer@example.org,(732)312-3476x49078,Gardner-Wells,Retail,Google Ads,2366,High,Lost,West Natasha,2026-01-29
+263,Mike Underwood,brewerrebecca@example.org,001-203-848-6451x8376,Turner-Mayer,Real Estate,Google Ads,46194,High,Qualified,West Jason,2026-02-01
+264,Lynn Suarez,rmccormick@example.org,001-777-965-6124x81569,"Johnson, Williams and May",Retail,Facebook Ads,29552,Medium,Qualified,Gibbsberg,2026-01-01
+265,Mark Edwards,rodriguezjohn@example.net,001-329-865-7724x29543,White-Walter,Technology,Instagram,49877,Medium,New,North Stacy,2026-04-19
+266,Lori Meadows,sgonzalez@example.org,4693694215,Higgins Group,Retail,Referral,42499,Low,Qualified,Wilcoxfort,2026-01-24
+267,Dale Shah,keith76@example.org,(939)534-3626x20443,Aguilar-Holland,Technology,Instagram,24009,High,New,North Taylormouth,2026-05-15
+268,Daniel Reyes,qfitzgerald@example.org,280-205-3759,Wagner-James,Healthcare,Website,10597,Medium,Qualified,Lambertberg,2026-04-19
+269,Christopher Jackson,dconrad@example.org,458-962-4150,Adkins-Howe,Technology,Chatbot,43959,Low,Qualified,Ravenview,2026-04-30
+270,Tammy Black,ustafford@example.net,428.970.3203x2074,Wilson-Woodard,Technology,Referral,38976,Medium,Qualified,Williamsstad,2026-05-18
+271,Judith Rodriguez,daviddavis@example.com,(428)849-9390,Sanchez Group,Real Estate,Instagram,42105,Medium,Qualified,West Anthonyville,2026-03-18
+272,Timothy Rodriguez,eric17@example.net,+1-277-649-0509x75923,Yates-Manning,Education,LinkedIn,20845,High,Converted,Davisview,2026-02-04
+273,Randy Ross,phelpsfrank@example.com,521-947-6492x5158,Mcclure-Alvarez,Real Estate,Website,21342,Medium,New,Davischester,2026-03-13
+274,Jessica Simmons,palmerteresa@example.net,327.988.1476,Hernandez-Anderson,Technology,Instagram,6028,Medium,Lost,Mckenziehaven,2026-03-25
+275,Anthony Jones,palmerwilliam@example.com,279-345-4918,"Stanley, White and White",Real Estate,Google Ads,31324,Medium,New,Williamschester,2026-05-17
+276,Kevin Gibson,qhanson@example.com,(232)219-4168,Wilson-Jackson,Technology,Referral,43718,Low,Converted,Stevensfurt,2026-05-08
+277,Lindsay Tucker,hannah64@example.org,(920)431-0303,"Allen, Wilkinson and Garrison",Healthcare,Website,30525,Low,Lost,North Kevin,2026-03-31
+278,Javier Wilson,joannewallace@example.com,807.893.3496x0501,Mclaughlin-Larson,Retail,Referral,43344,Low,New,Benjaminfurt,2026-04-05
+279,Misty Mcconnell,dhall@example.net,3699581467,"Mcmillan, Reed and Terry",Education,Referral,35258,Medium,Converted,East Keithborough,2026-04-02
+280,David Robinson,sandra72@example.com,001-566-457-2934x1722,"Vasquez, Leon and Hahn",Finance,Google Ads,27789,High,Converted,Torresborough,2026-04-19
+281,Albert Ibarra,erica28@example.org,956-619-3183,Glover-Hammond,E-commerce,LinkedIn,22931,Low,Qualified,Paulahaven,2026-04-28
+282,Michelle House,wlloyd@example.org,399-518-0812,Moore-Carter,Education,Instagram,17514,High,New,Gillfort,2026-05-23
+283,Brittany Cox,davidharris@example.com,001-403-875-4821x45653,Taylor Group,Finance,Website,39190,Medium,Qualified,Hardinmouth,2026-04-11
+284,Heidi Johnson,kaylarobbins@example.net,215-456-2606,"Brown, Welch and Reeves",E-commerce,LinkedIn,44393,Medium,Qualified,Robertside,2026-03-01
+285,Emily Cooper,rachel92@example.net,(773)889-9756x3410,"Higgins, Hobbs and Meyer",Retail,Instagram,37629,Medium,New,Jasonhaven,2026-04-18
+286,Glen Reid,johnsonlaura@example.net,234-368-1054x851,Evans-Doyle,E-commerce,LinkedIn,49416,High,Converted,Morganbury,2026-05-25
+287,Krystal Kline DDS,michaelmitchell@example.net,001-526-783-1589,Garcia-Dawson,E-commerce,Google Ads,34324,Medium,Qualified,Millerton,2026-03-24
+288,Karen Griffin,erica69@example.net,964.497.6776x22827,"Palmer, Rice and Benson",Healthcare,Instagram,32868,Low,Lost,Kennedyburgh,2026-04-19
+289,Trevor Guzman,xrodriguez@example.net,408-821-5454x4702,Zuniga LLC,Finance,Chatbot,7628,Medium,Lost,Jasonfort,2026-01-01
+290,Gregory Harrell,tolson@example.net,756.379.2287x772,"Beck, Ortiz and Hall",Real Estate,Website,44380,Medium,Qualified,Morganton,2026-05-11
+291,Nancy Brewer,jasminearmstrong@example.net,981-281-3989x0983,Barrett PLC,Education,Facebook Ads,11633,Low,Lost,North Joshua,2026-02-09
+292,Michael Clay,imiller@example.net,669-307-0562x60856,Petty PLC,Healthcare,LinkedIn,29683,Low,Converted,West Douglas,2026-02-19
+293,Brittany Farley,brianwoodward@example.org,6048615265,Williams and Sons,Healthcare,Google Ads,41015,Medium,Qualified,South William,2026-04-08
+294,Brian Brown,etran@example.com,4636048913,"Russell, Miller and Fields",Healthcare,Instagram,31737,High,Qualified,Port Tammy,2026-03-14
+295,Carol Sanchez,jali@example.com,6076942007,"James, Bell and Chen",Real Estate,Google Ads,31256,High,Qualified,Brandonside,2026-04-20
+296,Brandon Hale,jessicalutz@example.com,798.755.4743,Stevens PLC,Education,Facebook Ads,14087,High,Lost,Allenberg,2026-05-06
+297,Lisa Smith,chambersrobert@example.net,001-776-881-1807x156,Combs Ltd,Retail,LinkedIn,32495,High,New,North Stevenborough,2026-03-28
+298,Patrick Chang,james94@example.net,237.550.4793,"Foster, Kane and Carroll",E-commerce,Chatbot,34810,High,Qualified,Jacksonborough,2026-05-09
+299,Megan Morrison,cameronanderson@example.org,(649)938-4308,Pace Ltd,Healthcare,Instagram,30446,High,New,Port Sheilachester,2026-03-21
+300,Michael Owens,zachary03@example.org,568-875-0635x190,Stark and Sons,Retail,Facebook Ads,30565,High,New,West Lance,2026-05-02
+301,Alyssa Reynolds,watkinsconnie@example.com,931-373-5058x319,"Griffin, Martinez and Villegas",Education,Referral,25507,Low,New,South Lawrenceland,2026-06-01
+302,Thomas Ramos,cheryl61@example.org,+1-908-804-6619x63990,Pope-Hobbs,Retail,Instagram,7493,High,Qualified,West Debratown,2026-03-30
+303,Leah Rodriguez,larsoncarlos@example.org,001-428-545-6797,Robles Inc,Healthcare,Facebook Ads,3510,Medium,Qualified,West Breanna,2026-04-10
+304,Nicole Collins,dylanparker@example.com,550-589-2038x8065,"Kerr, Glover and Peterson",Healthcare,Chatbot,47238,Medium,Qualified,Nealmouth,2026-04-27
+305,Sarah Knight,christina65@example.org,570-573-0337,Navarro-Cisneros,Retail,Website,17772,Low,Lost,Lindsayfurt,2026-02-09
+306,Ronald Smith,jonesanthony@example.org,(547)639-5003,Robinson LLC,E-commerce,Referral,35588,Medium,Converted,West Melanie,2026-02-17
+307,Alex Cameron,smitherica@example.com,+1-315-334-7355x2896,Andrade and Sons,Retail,Website,16626,Medium,Qualified,East Amanda,2026-05-15
+308,Kyle Rowland,samanthahines@example.net,984.525.3042,"Miller, Ruiz and Alvarado",Retail,Chatbot,33756,Medium,Qualified,East Williamhaven,2026-03-14
+309,Mr. Frank Brooks DDS,lwells@example.com,+1-490-733-3736x3466,Pierce-Taylor,Real Estate,Facebook Ads,48090,Low,New,West Seanstad,2026-02-14
+310,Julie Oliver,bhayes@example.com,(375)646-0273x415,"Hunt, Schneider and Hartman",Finance,Facebook Ads,38399,Medium,New,North David,2026-03-11
+311,Curtis Gonzalez,john43@example.net,+1-928-440-4456x690,Perez-Cummings,Finance,Website,35475,Medium,Converted,South Jesus,2026-04-24
+312,Nina Sharp,fpeterson@example.com,466.437.7805,Harding-Smith,Education,Chatbot,31810,Low,Lost,Matthewchester,2026-03-24
+313,Jennifer Osborne,mark09@example.org,(525)899-9966,Ferguson and Sons,Finance,LinkedIn,2064,Medium,New,Rodriguezshire,2026-03-29
+314,Elizabeth Jackson,antoniobarker@example.com,3239164334,Wood Inc,E-commerce,LinkedIn,42173,Low,New,West Michele,2026-03-21
+315,William Anderson,emendoza@example.com,623.546.7299,"Moran, Stevens and Harris",Finance,Facebook Ads,3905,Medium,Lost,South Caleb,2026-03-19
+316,Danielle Murphy,kstevens@example.org,001-814-975-4692x6329,Bartlett-White,Healthcare,Chatbot,45871,Medium,Converted,South Hollyton,2026-02-16
+317,Brooke Khan,elizabeth13@example.com,(281)951-1856x72438,Jones Ltd,Technology,Facebook Ads,5135,High,Qualified,Jamesfurt,2026-02-07
+318,Adam Wilson,markgoodman@example.com,311.483.7274x220,Martinez-Figueroa,Healthcare,Website,14072,High,New,North Emily,2026-01-03
+319,Brittany Howard,jenniferstafford@example.net,270.281.6470,Wang-Mcfarland,Real Estate,Google Ads,36588,Medium,Lost,Reginaborough,2026-01-18
+320,Alexis Smith,erinbrown@example.org,+1-822-806-8155x83938,Hall Inc,Healthcare,Instagram,24394,High,New,Marcustown,2026-03-20
+321,Alexandra Lewis,cameronbriggs@example.net,+1-450-613-6497x189,Greene Ltd,Finance,Instagram,9157,High,Lost,Gregoryberg,2026-03-06
+322,Philip Watts,bjones@example.net,001-276-383-8903,Young-Patterson,E-commerce,Google Ads,26339,Medium,New,New Christopher,2026-01-27
+323,Edward Hernandez,dawnyoung@example.net,+1-775-724-5086x403,Harris Inc,Education,Instagram,35031,Medium,Qualified,Port Grace,2026-05-20
+324,Shane Boyd,scottsmith@example.com,530-523-2129,"Miller, Hardy and Collins",Retail,Google Ads,40482,High,Qualified,East Roger,2026-04-28
+325,Dustin West,josephharrington@example.org,(266)827-7689x627,Dickerson-Blake,Finance,Website,6247,Medium,New,Brookeberg,2026-04-18
+326,Dawn Ford,jcampbell@example.net,815.827.3230x0857,Waller-Brooks,Real Estate,LinkedIn,28925,Low,New,Parkershire,2026-01-14
+327,Andrew Dorsey,kfrederick@example.org,001-764-258-7506x63370,"Wade, Hernandez and Jacobs",Retail,LinkedIn,24105,Medium,Qualified,West John,2026-04-23
+328,Sarah Smith,newmansabrina@example.com,001-891-683-6264x488,"Jenkins, Walter and Luna",Technology,Website,5917,Medium,New,North Daisystad,2026-01-28
+329,Daniel Goodman,adam27@example.org,716-486-4622,"Taylor, Tucker and Shaw",Technology,LinkedIn,45525,Low,New,South Ashleyborough,2026-02-06
+330,Paul Lamb,jordanbarrera@example.com,291.521.4161x415,Washington-Hodges,Real Estate,LinkedIn,29716,Low,New,North Josephtown,2026-05-10
+331,Victoria Davis,bennettabigail@example.com,275.796.5555x3566,Drake-Smith,E-commerce,Instagram,24733,Medium,Qualified,Hardyberg,2026-01-05
+332,Sheila Ramirez,miguelmontgomery@example.net,986.830.5050x5739,"Salazar, Miller and Patterson",Healthcare,LinkedIn,30486,High,Converted,Hatfieldville,2026-05-23
+333,Lawrence Joseph,andersonlaura@example.com,+1-887-227-1783x33211,Hickman LLC,Retail,Referral,10023,Medium,Qualified,Mirandabury,2026-05-20
+334,John Merritt,wadesandra@example.net,001-571-553-9915x6686,Wilson-Miller,Finance,Facebook Ads,8434,Low,Lost,West Joyborough,2026-05-25
+335,Laura Anderson,stephanie90@example.com,5983366552,Smith-Phelps,Education,Referral,8717,Medium,Qualified,Duaneport,2026-02-12
+336,Mr. Kyle Thomas DDS,georgekyle@example.net,749-473-7460,"Clark, Oconnor and Cochran",Healthcare,Referral,19715,Medium,Qualified,Port Kimberlyfort,2026-05-22
+337,William Hopkins,vickiekelley@example.com,(775)266-1844x38612,"Torres, Pena and Ray",Healthcare,Chatbot,5853,Medium,Lost,Dominguezport,2026-01-29
+338,Robert Gonzalez,coxmelissa@example.org,+1-826-462-0157x20185,"Sharp, Sanchez and Wilson",Technology,LinkedIn,21944,Medium,Qualified,Burnsburgh,2026-05-07
+339,Patty Esparza,stricklandmichelle@example.net,(947)650-1111x7830,"Mcgee, Bauer and White",Finance,Instagram,11322,High,Qualified,Cookechester,2026-02-27
+340,Ariana Brown,richardhaynes@example.com,+1-588-371-8981,Atkins Ltd,Finance,Referral,15695,Low,Lost,North Angela,2026-03-03
+341,Carl Harris,christopherscott@example.org,518-645-8260,Shah PLC,Healthcare,Chatbot,33376,Low,Qualified,Donnamouth,2026-01-28
+342,Melissa Mills,catherine83@example.net,503-703-2432,Anderson-Dean,Education,Chatbot,37152,Low,New,New Jonathanfurt,2026-05-07
+343,Jennifer Miller,erica28@example.org,443-759-8926,Gray-Maynard,Education,LinkedIn,48111,Medium,New,North Joseph,2026-04-14
+344,Joshua Jones,coxmatthew@example.com,(334)401-6361,"Chandler, Parker and Nicholson",Technology,Referral,5833,Low,Qualified,Davisstad,2026-05-17
+345,Diane Nelson,mosleygeorge@example.com,(658)289-6792,"Palmer, Moore and Martinez",Education,Google Ads,45571,Medium,New,Bradleyview,2026-01-11
+346,Margaret Wood,erikabarnes@example.com,(575)678-4468,"Hodge, Meza and Russell",Technology,Referral,42929,Medium,Qualified,Meganland,2026-01-15
+347,Theresa Martin,millerjustin@example.com,8682277881,"Lee, Guerra and Smith",Technology,Website,9137,Medium,New,Parkstad,2026-02-17
+348,Mary Knapp DVM,lawsontami@example.net,001-783-321-5285x06762,Sloan-Wright,Finance,LinkedIn,15776,Medium,New,West Kevinport,2026-02-21
+349,Oscar Carroll,sandrahickman@example.net,207.797.0509x75451,"Lopez, Gomez and Garcia",Technology,Website,17423,Low,New,Gonzalezhaven,2026-04-10
+350,Jennifer Gentry,moorediane@example.org,465.745.6284x1772,"Hamilton, Howard and Harrell",E-commerce,Instagram,41267,Medium,Converted,North Jake,2026-01-08
+351,Jason Rivera,martinjames@example.com,+1-341-267-8725x68621,Moore PLC,Real Estate,Referral,11105,Low,New,Port Gabrielleton,2026-05-12
+352,Jessica Harper,hamiltonkeith@example.com,363-692-8234,"Wright, Hoover and Gonzalez",Real Estate,Instagram,37937,Low,Lost,Lake Jessicaburgh,2026-02-06
+353,Leslie Walters MD,richardhill@example.org,(660)593-1066,Rogers Group,E-commerce,Chatbot,38799,Medium,New,New Ronaldton,2026-03-01
+354,Jack Hahn,dwright@example.org,3008534749,King Group,Education,Referral,42876,Low,Qualified,Matthewville,2026-01-19
+355,Melanie Townsend,markfigueroa@example.com,001-398-295-3439x6112,"Donaldson, Henson and Roth",E-commerce,Instagram,32650,Low,New,Lake Sean,2026-01-20
+356,Joshua Cooper,mmayo@example.net,001-820-323-6848x5571,Barnes-Velazquez,Retail,LinkedIn,4926,Low,New,East Carolberg,2026-02-26
+357,Keith Bauer,joysanders@example.net,+1-881-627-8686,White and Sons,Healthcare,Instagram,40758,Low,Qualified,New Heather,2026-04-10
+358,Michael Warren,melissa44@example.net,623-408-3402,Marks-Williams,Technology,Instagram,27130,Low,New,Port Jason,2026-01-23
+359,Gregory Jacobs,mark84@example.net,(669)445-0053,Bonilla-Medina,Retail,Instagram,16842,Medium,New,Lake Juliefurt,2026-05-07
+360,Mark Munoz,lisawalker@example.com,996.327.3652,White-Lopez,Healthcare,Website,4316,Medium,Lost,East Ashley,2026-05-22
+361,Douglas Collins,lisamcdaniel@example.org,421-263-7618,"Garcia, Cruz and Rodriguez",Education,Facebook Ads,11466,High,New,Port Mariaton,2026-01-26
+362,Bradley Thomas,sparksalbert@example.org,+1-651-732-7972,Moore-Brown,Healthcare,Chatbot,11442,Medium,Qualified,Courtneyville,2026-01-05
+363,Ashley Phillips,othomas@example.org,966.425.4361,Walker LLC,Finance,Google Ads,2518,Low,New,Charlesmouth,2026-01-23
+364,Tim Miller,munozgregory@example.net,392-262-4945x14754,Strickland and Sons,Healthcare,Facebook Ads,39230,Medium,New,Dylanmouth,2026-05-21
+365,Vanessa Briggs,lanesusan@example.com,(815)922-6557,"Dudley, Guzman and Fields",Real Estate,Chatbot,43877,Medium,Qualified,Port Sherry,2026-02-17
+366,Joshua Ryan,opatel@example.com,296-589-3135,Cox Group,Technology,Website,29241,Low,Qualified,North Brian,2026-03-09
+367,Samuel Osborne,kenneththomas@example.net,(333)930-2126x06501,"Harrell, Johnson and Diaz",Technology,Google Ads,24982,Low,Qualified,East Chrisshire,2026-03-22
+368,Clarence Manning,theodore57@example.net,001-804-812-0092x820,"Vaughan, Gibson and Dawson",Healthcare,Instagram,37256,Medium,Qualified,Samanthahaven,2026-03-01
+369,Jessica Moore,boydtiffany@example.org,001-736-890-3628x9177,Martin-Pratt,Technology,Referral,19331,High,Qualified,Leeville,2026-01-21
+370,Larry Bradford,allenfrancisco@example.org,539-604-3830,Davila PLC,Retail,Facebook Ads,7336,Medium,Qualified,New Valeriefort,2026-01-09
+371,Brandon Parker,karen68@example.org,965-221-5681x82096,Martin-Fleming,Finance,Chatbot,10454,Low,New,Lake Christopherbury,2026-02-11
+372,Martha Mack,victoriamason@example.net,+1-585-572-5459x606,"Lawson, Rubio and Bradley",Retail,Website,3550,Low,New,Davistown,2026-01-28
+373,Emily Dillon,portershawn@example.org,621-949-5511x2747,"Glass, Case and Bonilla",Real Estate,Google Ads,10760,Medium,New,Williamsport,2026-03-19
+374,Manuel Becker,nrichardson@example.com,(416)387-4090x380,Bennett-Hudson,Real Estate,Instagram,11649,Medium,Qualified,East Paulmouth,2026-05-10
+375,John Day,lrodriguez@example.net,966-536-5155,"Figueroa, Wilson and Gibson",Finance,Referral,23044,Medium,Converted,South Dustin,2026-02-11
+376,Andre Burke,zbrown@example.com,(873)303-0644x21214,Russo-Hayes,E-commerce,Referral,20647,Medium,Qualified,Warrenview,2026-02-05
+377,Anna Valenzuela,tabitha42@example.org,(567)378-2659x608,"Contreras, Jensen and Morris",E-commerce,Website,28298,Medium,Qualified,Alexismouth,2026-01-29
+378,Mr. Ricky Craig III,mcneilsherry@example.org,+1-779-510-3368x2963,Bonilla PLC,Education,Instagram,43964,High,Qualified,West Lisatown,2026-02-28
+379,Kathryn Parrish,dbanks@example.com,(455)886-8512x76528,Mitchell-Keller,E-commerce,Website,39241,Medium,Converted,Waltersville,2026-01-18
+380,Ashley Banks,vgarcia@example.net,+1-517-989-0463,"James, Gonzalez and Harrison",Real Estate,Chatbot,25916,Low,New,West Tammymouth,2026-03-22
+381,Maria Mueller,xsmith@example.org,744.744.6306x00025,Haley Group,E-commerce,Website,13503,Low,New,New Teresa,2026-02-07
+382,Jennifer Williams,oanderson@example.com,001-826-658-2631x2819,"Moore, Morris and Davis",Education,LinkedIn,14362,Medium,New,South Alexandershire,2026-01-30
+383,Michael Knapp,armstronganthony@example.net,(575)823-3438,Hopkins-Hill,Technology,Chatbot,49223,High,Qualified,Lake Andrew,2026-04-23
+384,Ashley Ho,rodriguezjustin@example.org,817-353-6170,Chung-Jones,Real Estate,Instagram,44399,Medium,Qualified,Brooksmouth,2026-05-04
+385,Rhonda White,bergerdonna@example.net,+1-601-355-7998x028,Obrien PLC,Healthcare,Google Ads,35939,Medium,Converted,New Williamberg,2026-02-12
+386,Ashley Robinson,dillon12@example.com,573-615-8477x686,Gonzalez Ltd,Technology,LinkedIn,45613,Medium,Converted,Suzanneville,2026-04-24
+387,Laurie Martin,stephaniefreeman@example.com,(994)459-1966x39551,Rubio LLC,Healthcare,Facebook Ads,19284,Medium,Lost,Carterhaven,2026-03-10
+388,Brian Lamb,wgibbs@example.org,235-752-5105,Marshall LLC,Finance,Chatbot,19940,High,Qualified,New Carl,2026-02-25
+389,Kelsey Garcia,jennifer19@example.net,(965)453-3077x04611,"Murphy, Reyes and Ray",Finance,Referral,48294,Medium,Converted,Andrewshire,2026-01-01
+390,Diane Skinner,ijohnson@example.net,7507171644,Miller-Hampton,Real Estate,Google Ads,26856,High,Qualified,Salazarfurt,2026-02-27
+391,Jordan Allison,cameronsharon@example.org,4303021563,Ramsey LLC,Finance,LinkedIn,6179,Medium,Converted,Lake Mirandaview,2026-01-09
+392,Travis Jones,hailey64@example.net,(829)971-2529,"Martinez, Rose and Lane",E-commerce,Google Ads,15023,Low,New,Braymouth,2026-05-31
+393,Courtney Baker,jennifer58@example.org,+1-731-517-0303x76371,"Gill, Palmer and Edwards",Real Estate,LinkedIn,18800,Low,Qualified,Jeanetteberg,2026-04-08
+394,Carlos Rangel,nhester@example.net,363.414.6249,Walter-Mcgee,Healthcare,Facebook Ads,4326,Medium,New,North Patricia,2026-02-06
+395,John Schmidt,joseph81@example.com,(832)868-6850x74510,Carter Group,Healthcare,Website,7566,Medium,New,New Joshua,2026-04-28
+396,Jeffrey Maldonado DDS,robinsonbrian@example.org,001-843-818-1439,Garcia-Gross,Technology,Facebook Ads,1339,High,New,Tylerburgh,2026-02-09
+397,Dwayne Carlson,daviswesley@example.net,+1-274-932-5122x572,Cook-Thompson,Education,Google Ads,43633,Low,New,Nicoleburgh,2026-05-12
+398,Alexandra Bell,faguilar@example.org,610.709.4388x2211,Henry-Bell,E-commerce,Website,6862,Medium,New,Elizabethview,2026-03-12
+399,Ronald Turner,patricia97@example.org,880-726-3257x039,Garner and Sons,E-commerce,Chatbot,3444,High,New,Fowlerview,2026-05-02
+400,Stephanie Cole,josephshelton@example.com,(996)744-3098x5916,Rodriguez-Smith,Technology,Facebook Ads,3381,High,New,South Erin,2026-04-12
+401,Loretta Beck,tommy14@example.org,203.249.1074x065,Taylor-Koch,Healthcare,LinkedIn,19970,High,Qualified,North Jennifer,2026-01-28
+402,Christina Richards MD,antoniofitzpatrick@example.org,+1-466-561-4494x29659,Taylor-Spencer,Real Estate,Website,22957,Medium,Qualified,Kevinport,2026-04-21
+403,Julia White,hdavis@example.com,001-258-857-5676x670,Campos PLC,Education,Facebook Ads,34044,Medium,Lost,Kristinshire,2026-04-10
+404,Marc Yoder,brian62@example.com,+1-907-787-0104x15914,Martinez PLC,Finance,Facebook Ads,48914,Medium,New,Lake Jamieberg,2026-04-20
+405,Kathleen Walker,kevincollins@example.org,393.911.0291x8133,Wall Group,Retail,LinkedIn,23092,High,Qualified,Brownville,2026-02-28
+406,William Wilkins,lorraine79@example.org,(320)922-3288x37744,Contreras-Myers,Healthcare,Facebook Ads,41039,High,New,South Robertchester,2026-01-29
+407,Jim Elliott,carpenteraustin@example.net,+1-597-705-2774x02588,"Warren, Palmer and Thompson",Real Estate,Instagram,6684,Medium,Lost,West Diana,2026-04-20
+408,Mike Buchanan,kristen46@example.org,+1-776-879-2988x4259,Williams Ltd,Healthcare,Google Ads,22207,High,Qualified,East Colin,2026-01-21
+409,Mr. Franklin Hall DDS,danielgilmore@example.net,(461)709-4101x7590,Hale Group,Healthcare,Google Ads,18497,High,Converted,Lake Audrey,2026-02-08
+410,John Shelton,jamesmartin@example.net,719.801.3020,"Payne, Jones and Lopez",Real Estate,Website,18141,Medium,New,Leeborough,2026-04-21
+411,Kathryn Kelly,lauriegonzales@example.net,(719)212-8411x7309,Nicholson LLC,Retail,Google Ads,21106,Low,Lost,Peterstad,2026-01-14
+412,Brooke Roberts,melissafrederick@example.net,669-508-1974x0056,Barron-Brown,E-commerce,Chatbot,21380,Medium,New,New Lisa,2026-03-06
+413,Mary Johns,trevorshaffer@example.net,+1-205-316-9918x724,Crawford and Sons,Finance,Instagram,41280,Low,New,Ryanport,2026-06-01
+414,Valerie Smith,johnsonkimberly@example.org,+1-496-808-7066,"Simmons, Taylor and Kim",Education,LinkedIn,40697,Medium,New,Michaelmouth,2026-03-26
+415,Cynthia Davis,perezjulie@example.net,001-400-630-1027,Edwards PLC,Technology,Referral,44522,High,Qualified,West David,2026-03-19
+416,Bryan Jones,shawna37@example.net,001-353-274-5843x8458,Mccullough-Thornton,Real Estate,Chatbot,6365,Medium,Qualified,Ramirezborough,2026-01-27
+417,Kelly Torres,davidhardy@example.org,6378710704,Wilcox-Miller,Retail,Referral,8353,Low,Lost,Melissafurt,2026-04-07
+418,James Wallace,jamielopez@example.com,+1-604-508-5095,Peterson PLC,Healthcare,Referral,36170,Low,New,Glennton,2026-01-22
+419,Tiffany Randolph,michele87@example.com,001-298-642-6732,"Tapia, Miller and Wright",Education,Website,45583,Low,Qualified,Matthewfurt,2026-01-08
+420,Heidi Hopkins,martinezashley@example.com,527-870-7070x578,Riley Inc,Real Estate,Google Ads,4646,Medium,New,Pennyside,2026-03-02
+421,Jessica Scott,jordan72@example.org,+1-222-590-3102x8795,Lynn LLC,Real Estate,Website,37621,Medium,New,Allenstad,2026-04-15
+422,Lindsay Bailey,hunterdaniel@example.org,435.295.6164,Lawson-Ward,Education,Instagram,1197,High,Qualified,Merrittstad,2026-04-02
+423,Elizabeth Johnson,bradley29@example.org,893-258-8953,"Barber, James and Cuevas",Education,Instagram,46900,Low,Lost,North Susanbury,2026-04-20
+424,Laura Kelley,hryan@example.net,6975887543,Sanchez-Saunders,Retail,Google Ads,3079,Medium,Lost,Jerrymouth,2026-05-26
+425,Melissa Wallace,wcox@example.net,415.679.3763x92836,Peterson-Wilson,Technology,LinkedIn,48794,Medium,Converted,Fisherberg,2026-04-22
+426,Stanley Gonzalez Jr.,hsmith@example.com,887-812-0602x128,Anderson-Terry,Education,Google Ads,25739,Medium,Qualified,Lake Kelly,2026-03-07
+427,Stephanie Vargas,mcknightbrandon@example.net,(476)276-4722x981,"Watkins, Craig and Chavez",Technology,Instagram,8774,Low,Lost,Samuelhaven,2026-05-21
+428,Theresa Davis,trevor09@example.net,698.764.5652x20368,Reed and Sons,Healthcare,LinkedIn,15594,High,Lost,West Joshuamouth,2026-02-13
+429,Donna Hardin,middletonelizabeth@example.org,538-282-0908,Wall-Johnson,Education,LinkedIn,48126,Medium,Converted,West Shelly,2026-04-21
+430,Jeremy Martinez,hphillips@example.net,001-517-367-4124x151,Moore-Rogers,Healthcare,Facebook Ads,31187,Medium,New,Mccoyhaven,2026-05-11
+431,Michelle Edwards,hamiltonsarah@example.net,938-400-3296x33472,"Crawford, Anderson and Walters",E-commerce,Chatbot,8395,Low,Lost,New Mercedesborough,2026-01-01
+432,John Carr,benjaminwatts@example.net,(793)957-8243x4776,Davis-Rodriguez,Retail,Facebook Ads,14505,Low,New,Robertmouth,2026-03-05
+433,Jeffery Thompson,donna56@example.net,(577)896-3044,Hart LLC,Real Estate,LinkedIn,47090,High,Qualified,Emilychester,2026-03-17
+434,Jessica Green,adamsjessica@example.com,+1-704-476-3928x3199,"Fernandez, Clements and Smith",Education,Google Ads,16357,Medium,New,Davismouth,2026-03-10
+435,Kristen Pena,michaelgonzalez@example.org,+1-563-242-5563,Bruce PLC,Finance,Facebook Ads,48940,Medium,Converted,New Raymondfort,2026-01-09
+436,Eric Hall,arthurbrady@example.com,+1-462-341-1186x0089,"Chapman, Myers and Decker",E-commerce,Chatbot,22015,Low,Lost,Kristenchester,2026-04-10
+437,Elizabeth Stevens,bakerdiana@example.com,(846)213-6847x4883,Luna-Bean,Real Estate,Facebook Ads,28103,Medium,Qualified,South Jeffreytown,2026-03-19
+438,Jillian Woods,daymartin@example.net,418-823-7931,"Massey, Mills and Franco",Real Estate,LinkedIn,12477,Medium,Converted,North Katrina,2026-02-18
+439,Patrick Flowers,morrisannette@example.com,7439878753,"Webb, Peters and Singh",Retail,Instagram,43160,Medium,Qualified,North Ronaldland,2026-03-14
+440,Adam Meyer,martinsamuel@example.org,8672287286,Wilson-Forbes,Education,Google Ads,10779,Medium,Lost,Alexandrastad,2026-04-20
+441,Brenda Mills,leahcrane@example.com,494.477.3522x87056,Jones-Rowland,Education,Facebook Ads,15768,Medium,Lost,Jacquelineborough,2026-05-15
+442,Jimmy Davis,ewheeler@example.com,+1-883-650-3446x9459,"Weaver, Hopkins and Jones",Retail,Referral,28045,High,Converted,North Jessica,2026-02-24
+443,Justin Martinez,xrivera@example.net,+1-449-473-2033x192,Baxter-Morris,Education,Facebook Ads,17711,Low,New,East Williammouth,2026-03-24
+444,Erin Mason,allenphillip@example.com,001-475-848-5819x324,"Alexander, Neal and King",Education,Chatbot,25318,Low,New,New Rachelstad,2026-02-04
+445,Jacob Owens,jessica39@example.net,565.220.3758,"Collins, Davis and Wood",Education,LinkedIn,40647,Medium,Qualified,Wesleytown,2026-04-28
+446,Matthew May,swilliams@example.net,340-290-7977x278,Johnson-Shannon,Technology,Referral,48468,Medium,Qualified,Lake Jill,2026-01-26
+447,Roy Wilson,dwalsh@example.com,784-239-0552,"Powell, Monroe and Caldwell",Technology,Instagram,20869,High,Qualified,East Mandyhaven,2026-01-29
+448,Angela Ramos,charlotte86@example.org,+1-304-348-5157x9197,White Inc,Healthcare,LinkedIn,8688,High,New,West Brittany,2026-01-04
+449,Rachel Robinson,steven34@example.net,+1-532-540-6424x2956,Stephenson-Thompson,E-commerce,Referral,47122,Low,Converted,Jordanmouth,2026-02-21
+450,Henry Cox,rgallegos@example.org,6965289365,Lyons-Gordon,Technology,Instagram,25947,Medium,Qualified,Christopherborough,2026-02-20
+451,Dean Weeks,thomasmcdonald@example.com,(796)790-5150x267,"Leach, Lopez and Howard",Finance,Instagram,34607,High,Qualified,South Amy,2026-05-27
+452,Robert Bryant,esimon@example.org,859-657-6403x816,"Morales, Johnson and Hunt",E-commerce,Google Ads,21986,High,Qualified,Oliviahaven,2026-02-08
+453,Laura Taylor,kristina01@example.com,001-425-576-2702x32441,Kim Ltd,Retail,Referral,15501,High,Qualified,East Gail,2026-05-31
+454,John Cooper,zpierce@example.net,476.873.1625,Villanueva-Weiss,Real Estate,Referral,48186,Medium,Qualified,Carlsonside,2026-01-14
+455,Michael Cordova,walkercharlotte@example.org,(555)280-9961x327,Turner Inc,Healthcare,Google Ads,38341,High,Qualified,Patrickburgh,2026-03-24
+456,Eric Leonard,ajohnson@example.org,(268)417-1516,Anderson-Hunter,E-commerce,Instagram,17864,High,Lost,Smithfurt,2026-03-24
+457,Elizabeth Green,munozleah@example.com,757.658.5126x86120,Robertson PLC,E-commerce,LinkedIn,33151,Medium,Qualified,Grahammouth,2026-02-24
+458,Sean Stevens,smallgina@example.com,(254)308-4245x60754,Dennis-Schmidt,E-commerce,Referral,33002,Low,Lost,Wrightland,2026-04-14
+459,Nicholas Schultz,worozco@example.com,001-393-889-7015x502,"Baird, Miller and Pennington",Retail,Referral,3216,High,New,Robertotown,2026-02-05
+460,Dawn Delgado,copelandryan@example.org,794.949.8830,Hodges Group,E-commerce,Website,1418,Medium,Qualified,Julieburgh,2026-02-23
+461,Amber Ross,erikanelson@example.com,306.524.4795,Smith LLC,E-commerce,Facebook Ads,1599,Low,Lost,North Cheryl,2026-05-22
+462,Samantha Matthews,amber78@example.org,255-357-2773x82646,"Tucker, Mercer and Miller",Real Estate,LinkedIn,44696,High,Qualified,Kevinmouth,2026-03-29
+463,Alyssa Weber,claudiacunningham@example.com,001-504-587-3682x69116,Duncan and Sons,Retail,Website,35879,Medium,Qualified,Port Kimberly,2026-05-23
+464,Krista Bell,robertgreene@example.com,001-451-458-8863x67747,Roberts-Patel,E-commerce,Instagram,36110,High,Qualified,Kathrynburgh,2026-05-13
+465,Janet Delgado,ojenkins@example.org,+1-532-499-8199x605,"Garrett, Cohen and Crane",E-commerce,LinkedIn,29218,High,Qualified,Lake Carolynfurt,2026-04-18
+466,Cheryl Gentry,pwood@example.org,935.524.1039x7739,Kaufman PLC,Retail,Referral,10758,Low,Qualified,Port Cassandramouth,2026-01-31
+467,Nathan Jones,flemingrichard@example.net,661.864.8198x0770,"Mack, Cox and Moran",Technology,Instagram,18519,High,New,Pattersonville,2026-01-21
+468,Dennis Bryan,bowenmichael@example.net,623-973-4151x77345,Cobb-Lyons,Education,Google Ads,38027,Low,New,Brookeberg,2026-01-29
+469,Allison Beard,jennifer42@example.net,+1-247-574-2229x4643,"Turner, Silva and Green",Technology,Chatbot,6283,Medium,Lost,Woodsburgh,2026-03-08
+470,Laurie Mason,nicholas72@example.net,327.560.1534x3324,Porter-Hudson,Retail,Google Ads,25855,Medium,Qualified,Port Juliehaven,2026-02-14
+471,Heidi Johnson,cranewilliam@example.com,+1-588-610-7983,"White, Mayer and Mathews",Retail,LinkedIn,12231,Low,Qualified,Lake Jennifer,2026-02-04
+472,Lee Arnold,pauljessica@example.org,(984)903-3399,Herrera Inc,Finance,Referral,7249,High,Qualified,Kristyland,2026-02-08
+473,Jeremy Alvarez,danielsjason@example.com,890-696-1739x9704,Welch-Murphy,Technology,LinkedIn,38144,Medium,New,Palmerport,2026-02-21
+474,Danielle Hill,connie12@example.com,6583772216,Peterson-Mcdaniel,E-commerce,Instagram,36588,Medium,New,East Kimberly,2026-05-29
+475,Eric Torres,tgarcia@example.net,492.752.3622,"Zavala, Valdez and Kramer",Technology,Instagram,2026,High,Qualified,Jeremyview,2026-04-02
+476,Sandra Wood,matthew55@example.com,269-566-0606x5274,Bates LLC,Technology,LinkedIn,27102,High,Converted,Marissatown,2026-03-04
+477,James Grant,laurenwilliamson@example.com,511-632-5797x067,"Willis, Brown and Brown",Healthcare,Referral,26503,Medium,Converted,Joshuastad,2026-03-27
+478,Ashley Taylor,nguyenkimberly@example.com,(529)749-3817,"Payne, Guerrero and Hawkins",Technology,LinkedIn,10171,High,Qualified,Hannahberg,2026-05-30
+479,Shelby Lyons,susan57@example.net,625.673.7553,"Adkins, Johnson and Wilson",Finance,Website,7401,Medium,New,Simmonsfort,2026-01-10
+480,Amy Mayo,allen60@example.net,387-949-5119x18182,"Santos, Lee and Jones",Technology,Referral,40033,Medium,Converted,Meyersmouth,2026-03-29
+481,Wendy Hernandez,charles95@example.com,460.669.4096x00356,Silva LLC,Finance,Chatbot,30527,Medium,Converted,Valdezborough,2026-05-30
+482,Tammy Barry,jacobhernandez@example.com,(310)789-0285,Hebert-Barrett,Education,Google Ads,13172,Medium,New,West Frank,2026-02-22
+483,Thomas Barton,taylorrachel@example.com,860-573-6077,Wise PLC,Real Estate,Instagram,17151,High,New,North Tanyahaven,2026-04-23
+484,Barbara Sherman,shepardjoy@example.com,001-256-233-1857x4817,Lara-Ross,Education,LinkedIn,42543,Low,Qualified,West Michaelport,2026-01-13
+485,Ryan Turner,santoslisa@example.com,4454023290,Neal Inc,Retail,Website,1340,High,Qualified,New Leahport,2026-03-14
+486,Samantha Barnes,sharonsanford@example.net,+1-225-212-0734x65495,Johnson-Ruiz,Finance,Website,9683,Low,New,South Brandon,2026-03-15
+487,Miranda Jackson,smithphyllis@example.org,(611)477-6872x90477,Douglas-Diaz,Real Estate,Referral,27741,Low,New,South Trevorshire,2026-02-08
+488,Jose Trujillo,jeremiahmiller@example.org,001-664-491-3342x457,Henderson-Stanley,Retail,Referral,40193,High,Converted,Lake Rebeccafurt,2026-05-03
+489,Craig White,cynthiaconley@example.org,(865)909-7753,Chavez LLC,Education,Google Ads,6550,High,New,Wilsonview,2026-05-08
+490,Tammy Rogers,jonathanroman@example.com,001-587-915-8415x60821,Martinez Ltd,Healthcare,Referral,35151,Low,Qualified,Davidstad,2026-03-01
+491,Juan Ayers,raymondpugh@example.net,223.703.5892,"Hall, Valentine and Schmidt",Finance,Instagram,18590,Medium,New,Erikburgh,2026-05-04
+492,Lisa Bridges,amberfriedman@example.com,940.764.6867,Griffith LLC,Finance,Google Ads,20644,Medium,New,North Johnside,2026-05-10
+493,Thomas Austin,brownrobert@example.org,623.462.6693x3513,Martinez-Singh,Healthcare,LinkedIn,41962,Medium,Converted,East Scott,2026-05-11
+494,Garrett Walsh,alexandria97@example.org,+1-374-918-9721x54064,Richards-Walter,Retail,Facebook Ads,20966,Low,New,Blakebury,2026-04-12
+495,Zachary Morrison,john76@example.com,7143448564,Garcia Group,Real Estate,Google Ads,22596,Medium,New,New Troy,2026-04-25
+496,Derek Osborn,kcastro@example.com,+1-786-809-1919x113,Higgins-Williams,Technology,LinkedIn,39954,Low,Converted,Phelpsshire,2026-04-12
+497,James Trujillo,bcaldwell@example.org,001-620-751-4607,"Cooper, Beltran and Wright",E-commerce,Facebook Ads,32392,Medium,Lost,Bowersmouth,2026-03-30
+498,Madison Mack,jasontownsend@example.net,+1-656-352-7155x9835,"Davis, Sullivan and Howell",Finance,LinkedIn,46544,Medium,Qualified,Port Patrick,2026-02-21
+499,Karla Rogers,whuang@example.org,(650)413-9488,Montgomery-Jones,Finance,Google Ads,19369,High,Qualified,North Jenniferfurt,2026-02-21
+500,Gerald Gomez,samanthagarcia@example.net,999-515-3703x8240,"Lucero, Sanchez and Perez",Real Estate,Facebook Ads,39812,High,Converted,East Alexander,2026-02-17
